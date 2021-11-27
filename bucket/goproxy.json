@@ -1,0 +1,26 @@
+{
+    "homepage": "https://github.com/snail007/goproxy",
+    "version": "11.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/snail007/goproxy/releases/download/v11.2/proxy-windows-amd64.tar.gz",
+            "hash": "bca9d61c63c253d4676d379d9ea7f44046aebcfd42c5717b506a89a10366ce5c"
+        },
+        "32bit": {
+            "url": "https://github.com/snail007/goproxy/releases/download/v11.2/proxy-windows-386.tar.gz",
+            "hash": "0cc753cf7cc4b01cf71826400cd517eff26dfcac9c9b29174b202838394750a3"
+        }
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/snail007/goproxy/releases/download/v$version/proxy-windows-amd64.tar.gz"
+            },
+            "32bit": {
+                "url": "https://github.com/snail007/goproxy/releases/download/v$version/proxy-windows-386.tar.gz"
+            }
+        }
+    },
+    "bin": "proxy.exe"
+}

@@ -1,0 +1,47 @@
+{
+    "version": "6.17.0",
+    "description": "A prompt theme engine for any shell",
+    "homepage": "https://ohmyposh.dev",
+    "license": {
+        "identifier": "GPL-3.0-only",
+        "url": "https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/COPYING"
+    },
+    "changelog": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v6.17.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v6.17.0/posh-windows-amd64.exe#/oh-my-posh.exe",
+            "hash": "2d61fea4f51dc8d90f3a2fb57baac0cb6f4d727418adea1ba36df262c8e9a25f"
+        },
+        "32bit": {
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v6.17.0/posh-windows-386.exe#/oh-my-posh.exe",
+            "hash": "c2168b6a4e32a3b495f0f104d02fa4959fbdd1d8470142f96a30270f95b898a4"
+        },
+        "arm64": {
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v6.17.0/posh-windows-arm64.exe#/oh-my-posh.exe",
+            "hash": "04450e04fd72ab9fb2c0eed478d7648ed25177233667ec953f338b817c84680e"
+        }
+    },
+    "bin": "oh-my-posh.exe",
+    "persist": "themes",
+    "checkver": {
+        "github": "https://github.com/JanDeDobbeleer/oh-my-posh"
+    },
+    "autoupdate": {
+        "changelog": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v$version",
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-amd64.exe#/oh-my-posh.exe"
+            },
+            "32bit": {
+                "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-386.exe#/oh-my-posh.exe"
+            },
+            "arm64": {
+                "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-arm64.exe#/oh-my-posh.exe"
+            }
+        },
+        "hash": {
+            "url": "$url.sha256",
+            "regex": "$sha256"
+        }
+    }
+}

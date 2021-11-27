@@ -1,0 +1,32 @@
+{
+    "version": "1.7.3",
+    "description": "Kigo Netlifx Video Downloader",
+    "homepage": "https://www.kigo-video-converter.com/netflix-downloader/",
+    "license": {
+        "identifier": "Proprtietary",
+        "url": "https://raw.githubusercontent.com/Ash258/Scoop-Licenses/master/KigoNetflixVideoDownloader.txt"
+    },
+    "url": "https://www.kigo-video-converter.com/netflix-downloader.exe#/cosi.7z",
+    "hash": "sha512:d1d16282b303c6d74b52284fb64d32cd77ca2b1546873f6cbc07411948d9295d151bab221ad1ceac91dc156c25e05c5ff2d32d2573c484f22568084d5b8534f0",
+    "pre_install": [
+        "try { Get-Command 'Test-Persistence' -ErrorAction 'Stop' | Out-Null } catch { error 'Shovel flavour of scoop is required'; exit 258 }",
+        "Remove-AppDirItem '$*', 'Uninst*'"
+    ],
+    "shortcuts": [
+        [
+            "Kigo Netflix Video Downloader.exe",
+            "Kigo Netflix Video Downloader"
+        ]
+    ],
+    "checkver": {
+        "url": "https://www.kigo-video-converter.com/netflix-downloader/latest.yml",
+        "regex": "version:\\s+([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://www.kigo-video-converter.com/netflix-downloader.exe#/cosi.7z",
+        "hash": {
+            "url": "$baseurl/netflix-downloader/latest.yml",
+            "regex": "$base64"
+        }
+    }
+}

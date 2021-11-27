@@ -1,0 +1,19 @@
+{
+    "homepage": "https://git.irs.sh/KNOXDEV",
+    "description": "Additional backup functionality for the Scoop Package Manager",
+    "license": "Unlicense",
+    "version": "0.2021.10.14",
+    "url": "https://git.irs.sh/KNOXDEV/scoop-backup/archive/784a7d6eb7b83a850377cbeae1d4fc04763ff01c.zip",
+    "hash": "7455280b9dcd788c72b2334d0a6b1ac5380c7aee43b439a5df9b4380f7fe7954",
+    "extract_dir": "scoop-backup",
+    "bin": "scoop-backup.ps1",
+    "persist": "backups",
+    "checkver": {
+        "url": "https://git.irs.sh/KNOXDEV/scoop-backup/graph",
+        "re": "(?<sha>[0-9a-f]{40})(.|\\s)*?(\\d{4})-(\\d{2})-(\\d{2})",
+        "replace": "0.${2}.${3}.${4}"
+    },
+    "autoupdate": {
+        "url": "https://git.irs.sh/KNOXDEV/scoop-backup/archive/$matchSha.zip"
+    }
+}
