@@ -1,16 +1,16 @@
 {
     "homepage": "https://github.com/evanw/esbuild",
     "description": "An extremely fast JavaScript bundler and minifier",
-    "version": "0.14.0",
+    "version": "0.14.2",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://registry.yarnpkg.com/esbuild-windows-64/-/esbuild-windows-64-0.14.0.tgz",
-            "hash": "sha1:e0db336f5c614f1b8dfacc0720cb0d30e118b36d"
+            "url": "https://registry.yarnpkg.com/esbuild-windows-64/-/esbuild-windows-64-0.14.2.tgz",
+            "hash": "sha1:6ab59ef721ff75c682a1c8ae0570dabb637abddb"
         },
         "32bit": {
-            "url": "https://registry.yarnpkg.com/esbuild-windows-32/-/esbuild-windows-32-0.14.0.tgz",
-            "hash": "sha1:364a1d1558b0a2351997c1aa7fd4408428eb78ab"
+            "url": "https://registry.yarnpkg.com/esbuild-windows-32/-/esbuild-windows-32-0.14.2.tgz",
+            "hash": "sha1:61e0ba5bd95b277a55d2b997ac4c04dfe2559220"
         }
     },
     "installer": {
