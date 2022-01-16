@@ -1,8 +1,8 @@
 {
     "homepage": "https://www.bypass.cn/",
-    "version": "1.14.84",
+    "version": "1.14.86",
     "url": "https://www.bypass.cn/api/download?name=Bypass.zip",
-    "hash": "7cf1de795ad15a3566dbf65878cafe0a537620250f42216e21865ffc8cf22985",
+    "hash": "db96cecc9c0d0b34e1af0c83a93e13cd5c97640c81a5fcbccf2b1c7b56d80a36",
     "extract_dir": "Bypass",
     "checkver": {
         "url": "https://www.bypass.cn/",
