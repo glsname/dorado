@@ -1,10 +1,10 @@
 {
-    "version": "7.2-1",
+    "version": "7.3-1",
     "description": "Read SMART data from disks",
     "homepage": "https://www.smartmontools.org",
     "license": "GPL-2.0-only",
-    "url": "https://downloads.sourceforge.net/project/smartmontools/smartmontools/7.2/smartmontools-7.2-1.win32-setup.exe",
-    "hash": "sha1:fdf3660a6ac415ab2acb0094ac16ee5902e79f84",
+    "url": "https://downloads.sourceforge.net/project/smartmontools/smartmontools/7.3/smartmontools-7.3-1.win32-setup.exe",
+    "hash": "sha1:1c1490db8a9e1973db657bd3fa1b4ed8837a20c0",
     "installer": {
         "args": [
             "/S",
