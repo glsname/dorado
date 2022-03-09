@@ -1,16 +1,16 @@
 {
-    "version": "91.6.0",
+    "version": "91.7.0",
     "description": "Extended Support Release of Firefox: the popular open source web browser.",
     "homepage": "https://www.mozilla.org/en-US/firefox/organizations/",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://archive.mozilla.org/pub/firefox/releases/91.6.0esr/win64/en-US/Firefox%20Setup%2091.6.0esr.exe#/dl.7z",
-            "hash": "sha512:102ec5fa3f19aa9cc2611e97ef8c5d8f5970c209565ba3c712963ff6e08449e8110fa3db823ebd457d6e10b4eda5b0964fa0243292058248521e8b9cfab1f292"
+            "url": "https://archive.mozilla.org/pub/firefox/releases/91.7.0esr/win64/en-US/Firefox%20Setup%2091.7.0esr.exe#/dl.7z",
+            "hash": "sha512:e9599ffe47caf0cd9454155c3d765ae147494575641fdfc7a977f0711804b88006e368b3e7196536ad933fd5ee395175c642dc57a8d253899676ea9c2ce8cb59"
         },
         "32bit": {
-            "url": "https://archive.mozilla.org/pub/firefox/releases/91.6.0esr/win32/en-US/Firefox%20Setup%2091.6.0esr.exe#/dl.7z",
-            "hash": "sha512:10d2e9054ad4cadb2d29057bfdbe787fab2ac7f4bee5aed888615a5faacffd2a469a5b5f40d213c0f6f691a73fe47e0c1bdbe1b18df2d187ff3ab8a0651781be"
+            "url": "https://archive.mozilla.org/pub/firefox/releases/91.7.0esr/win32/en-US/Firefox%20Setup%2091.7.0esr.exe#/dl.7z",
+            "hash": "sha512:e54ccf2c270ac3a7cdb1254bc1cb0b7abcf3586b93b0639c3244fc54eb4633eef7f52ad3339ec39c61187866479bf42fa6a85b9139eb814f1a276ef449780dc5"
         }
     },
     "extract_dir": "core",
