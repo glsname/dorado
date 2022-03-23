@@ -1,5 +1,5 @@
 {
-    "version": "1.2",
+    "version": "1.3",
     "description": "Sordum's Network Profile Name Changer",
     "homepage": "https://www.sordum.org/14327/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/download/network-profile-name-changer/NetPnc.zip",
-    "hash": "b9ca629cd14b0c72d14a46d37495aa4c6614ae2d3f2a2d3f2a788434d0943cee",
+    "hash": "dedf2d90d882aa4aacc5d762644b8cf77106e2c97b2c4249240b33a26cf08085",
     "extract_dir": "NetPnc",
     "shortcuts": [
         [
