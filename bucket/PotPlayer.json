@@ -1,5 +1,5 @@
 {
-    "version": "220302",
+    "version": "220420",
     "description": "PotPlayer. A multimedia player",
     "homepage": "https://potplayer.daum.net",
     "license": {
@@ -9,8 +9,8 @@
     "changelog": "https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html",
     "architecture": {
         "64bit": {
-            "url": "https://t1.daumcdn.net/potplayer/PotPlayer/Version/220302/PotPlayerSetup64.exe#/cosi.7z",
-            "hash": "e2910e9822f6e882d36e6862340952c8789260bdebffeebc7a369940960ca141",
+            "url": "https://t1.daumcdn.net/potplayer/PotPlayer/Version/220420/PotPlayerSetup64.exe#/cosi.7z",
+            "hash": "4ced8e375e54763ce1239540286e042ed04d8a1ec01d79062614811c98929b56",
             "shortcuts": [
                 [
                     "PotPlayer64.exe",
@@ -23,8 +23,8 @@
             ]
         },
         "32bit": {
-            "url": "https://t1.daumcdn.net/potplayer/PotPlayer/Version/220302/PotPlayerSetup.exe#/cosi.7z",
-            "hash": "ac19292eb64e381a3f603b567324dcab3f94aa0179b09b9e1eb470b2c341c890",
+            "url": "https://t1.daumcdn.net/potplayer/PotPlayer/Version/220420/PotPlayerSetup.exe#/cosi.7z",
+            "hash": "0d516987ae4f5986097845438719e3f31b6b3a03dd91435d164a8a82d5771b4a",
             "shortcuts": [
                 [
                     "PotPlayer.exe",
