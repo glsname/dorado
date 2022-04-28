@@ -1,17 +1,17 @@
 {
-    "version": "381.0.0",
+    "version": "383.0.1",
     "description": "Command-line interface for Google Cloud Platform products and services.",
     "homepage": "https://cloud.google.com/sdk/",
     "license": "Proprietary",
     "notes": "To initialize Cloud SDK, you will need to run: 'gcloud init'",
     "architecture": {
         "64bit": {
-            "url": "https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-381.0.0-windows-x86_64-bundled-python.zip",
-            "hash": "862e1f7ca29e522852cc7db39664511fa1497325ce38e28ca69772d6a9850edb"
+            "url": "https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-383.0.1-windows-x86_64-bundled-python.zip",
+            "hash": "07186da99b32a8000e52f1e7e83377be1958cd675ab379c8d7121cf5ff157348"
         },
         "32bit": {
-            "url": "https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-381.0.0-windows-x86-bundled-python.zip",
-            "hash": "37675e36a3a586637a3eca930c41f3d0f67c0afc7fde432743a9f578f76a20ce"
+            "url": "https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-383.0.1-windows-x86-bundled-python.zip",
+            "hash": "e1c26e5c625ea1191cf96f01681523ca63073421c3d5dec719c2c7dc5c5d1613"
         }
     },
     "extract_dir": "google-cloud-sdk",
