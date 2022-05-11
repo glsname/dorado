@@ -1,12 +1,12 @@
 {
-    "version": "42b1f560e3badc792056a1021094fbf859588d8d",
+    "version": "ba8ced85c51569bbc2c51a24398c15ed6b61d8d3",
     "description": "Automatic vscode server insiders installation. For vms preparation.",
     "homepage": "https://code.visualstudio.com/docs/remote/remote-overview",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://az764295.vo.msecnd.net/insider/42b1f560e3badc792056a1021094fbf859588d8d/vscode-server-win32-x64.zip",
-            "hash": "117ad7bc62cdf1a30dd85dd789d2892e33905ea7456b7b3d2d174ba56a7b2a8a"
+            "url": "https://az764295.vo.msecnd.net/insider/ba8ced85c51569bbc2c51a24398c15ed6b61d8d3/vscode-server-win32-x64.zip",
+            "hash": "39d6871bb3fb5ebdb5c6d1c89fdeb9a6b1cca8a3195d2064b3dfb34b7ff8daa6"
         }
     },
     "pre_install": [
