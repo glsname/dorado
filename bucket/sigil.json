@@ -1,12 +1,12 @@
 {
-    "version": "1.8.0",
+    "version": "1.9.10",
     "description": "EPUB ebook editor",
     "homepage": "https://sigil-ebook.com",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Sigil-Ebook/Sigil/releases/download/1.8.0/Sigil-1.8.0-Windows-x64-Setup.exe",
-            "hash": "e1b7b2f2bb4aa81a3282b70ec3883574790881a13358e08f74d259c4c264426e"
+            "url": "https://github.com/Sigil-Ebook/Sigil/releases/download/1.9.10/Sigil-1.9.10-Windows-x64-Setup.exe",
+            "hash": "e9fb15c894e5174d86b9da1aa1b835b81e46cd2c738816d00d59d084bcf1256f"
         }
     },
     "innosetup": true,
