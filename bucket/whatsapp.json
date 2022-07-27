@@ -1,5 +1,5 @@
 {
-    "version": "2.2218.8",
+    "version": "2.2226.5",
     "description": "A cross-platform messaging and Voice over IP service.",
     "homepage": "https://www.whatsapp.com",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://web.whatsapp.com/desktop/windows/release/x64/WhatsApp-2.2218.8-full.nupkg#/dl.7z",
-            "hash": "sha1:65b1fedd832dd114ec9ea7e1718fa9bfe4cbd14e"
+            "url": "https://web.whatsapp.com/desktop/windows/release/x64/WhatsApp-2.2226.5-full.nupkg#/dl.7z",
+            "hash": "sha1:3b62f667bc44fb7a9f2e058a35ba23f792aea25c"
         },
         "32bit": {
-            "url": "https://web.whatsapp.com/desktop/windows/release/ia32/WhatsApp-2.2218.8-full.nupkg#/dl.7z",
-            "hash": "sha1:afac22f0fa718b9f71269ab6ce991a008bf1dc08"
+            "url": "https://web.whatsapp.com/desktop/windows/release/ia32/WhatsApp-2.2226.5-full.nupkg#/dl.7z",
+            "hash": "sha1:d94a81cb2a63525c99678a16f712d32fff5509e7"
         }
     },
     "extract_dir": "lib\\net45",
