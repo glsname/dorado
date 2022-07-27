@@ -1,5 +1,5 @@
 {
-    "version": "6.50.5800",
+    "version": "6.75.6100",
     "description": "Aida64 Engineer Edition. Industry-leading system information, diagnostic and benchmarking solution for corporate IT technicians and engineers",
     "homepage": "https://www.aida64.com/products/aida64-engineer",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://www.aida64.com/licensing"
     },
     "url": [
-        "http://download.aida64.com/aida64engineer650.zip",
+        "http://download.aida64.com/aida64engineer675.zip",
         "https://gist.githubusercontent.com/Ash258/e143436e2f9183a650424d635b535e51/raw/cosi.aiden#/pkey.txt"
     ],
     "hash": [
-        "e36648e521dedc3c61e2375647c2bce2ac757db8c98a454ae919477b30875ae7",
+        "2d324c207d6e9084de3747e6144d4e533168d685c19cd72a9e61654a57d2c597",
         "61f8bb66520310acc677963b01f5699773dd7be9d6685c9570d064d24960ad8a"
     ],
     "pre_install": [
