@@ -1,12 +1,12 @@
 {
-    "version": "0.17.0",
+    "version": "0.22.0",
     "description": "A desktop client for IPFS.",
     "homepage": "https://github.com/ipfs-shipyard/ipfs-desktop",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ipfs-shipyard/ipfs-desktop/releases/download/v0.17.0/ipfs-desktop-setup-0.17.0.exe#/dl.7z",
-            "hash": "sha512:2bf639e57e26b489cf47ee4b2ccf61e05c911993e7de4144269ee4c760ef4b8f84b94d6bd549040b1fe8e0ee89656b7917ffff6526b7ad7665fa70d2f3d61532",
+            "url": "https://github.com/ipfs-shipyard/ipfs-desktop/releases/download/v0.22.0/ipfs-desktop-setup-0.22.0.exe#/dl.7z",
+            "hash": "sha512:3fac173fb5d32a42bb499827afe748964beb118ab5359ab53c0bde9ef6465bbd3b3b44d2308a287e93156e0dedee1b5b387b7ff3871e57638329a670a0e3f43e",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse"
