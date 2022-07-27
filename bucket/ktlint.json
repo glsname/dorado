@@ -1,5 +1,5 @@
 {
-    "version": "0.43.0",
+    "version": "0.46.1",
     "description": "An anti-bikeshedding Kotlin linter with built-in formatter",
     "homepage": "https://github.com/shyiko/ktlint",
     "license": "MIT",
@@ -9,8 +9,8 @@
             "java/openjdk"
         ]
     },
-    "url": "https://github.com/shyiko/ktlint/releases/download/0.43.0/ktlint#/ktlint.jar",
-    "hash": "md5:211c98959fb689640c5ff81cf282867b",
+    "url": "https://github.com/shyiko/ktlint/releases/download/0.46.1/ktlint#/ktlint.jar",
+    "hash": "md5:20aa25b46bb00776150ad85173646cd5",
     "bin": "ktlint.jar",
     "checkver": "github",
     "autoupdate": {
