@@ -1,12 +1,12 @@
 {
-    "version": "1.11.0",
+    "version": "1.13.0",
     "description": "A make/rake-like build tool for Go",
     "homepage": "https://magefile.org",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/magefile/mage/releases/download/v1.11.0/mage_1.11.0_Windows-64bit.zip",
-            "hash": "bcadeaae592819abecadb49dd0e133a0c3fac9789b7efd3a602b60ece467d759"
+            "url": "https://github.com/magefile/mage/releases/download/v1.13.0/mage_1.13.0_Windows-64bit.zip",
+            "hash": "fee7846c479e56943d8ec80a0aa82d1798d926cfed04431c83e9c6e004e7becf"
         }
     },
     "bin": "mage.exe",
