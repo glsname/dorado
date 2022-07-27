@@ -1,16 +1,16 @@
 {
     "homepage": "https://www.adiirc.com/",
     "description": "AdiIRC is a free Internet Relay Chat (IRC) client.",
-    "version": "4.0",
+    "version": "4.2",
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://www.adiirc.com/AdiIRC64_4.0.zip",
-            "hash": "5a39d6384f4b45dcebcbb80ebfe53322114f4abffeb8d00d4297abc61ab26f58"
+            "url": "https://www.adiirc.com/AdiIRC64_4.2.zip",
+            "hash": "c329c90c9327d8823f1e0a9db0fcc1693120eee87943d14acdc138f78bbbd6af"
         },
         "32bit": {
-            "url": "https://www.adiirc.com/AdiIRC_4.0.zip",
-            "hash": "dceb61bc043a8f4d3c574172b64c75c6e0a37b240764f76d695fa4a2c90fe2b9"
+            "url": "https://www.adiirc.com/AdiIRC_4.2.zip",
+            "hash": "603bb215b2ae33c739136614e2485e3778a6530f3c830698a4e198cc29a2aac8"
         }
     },
     "installer": {
