@@ -1,24 +1,24 @@
 {
-    "version": "7.2.0",
+    "version": "7.2.5",
     "description": "PowerShell Core. Task automation and configuration management framework/tool.",
     "homepage": "https://github.com/PowerShell/PowerShell",
     "license": {
         "identifier": "MIT",
         "url": "https://github.com/PowerShell/PowerShell/blob/master/LICENSE.txt"
     },
-    "changelog": "https://github.com/PowerShell/PowerShell/releases/tag/v7.2.0",
+    "changelog": "https://github.com/PowerShell/PowerShell/releases/tag/v7.2.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.0/PowerShell-7.2.0-win-x64.zip",
-            "hash": "0d38173c440cfe5fc123e82003fa5c68ced0aa1769619658364425a110f2016d"
+            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.5/PowerShell-7.2.5-win-x64.zip",
+            "hash": "b686207d13d728f44df2bacb676d77ef4bd142a739a96798ebd85fdb5467866c"
         },
         "32bit": {
-            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.0/PowerShell-7.2.0-win-x86.zip",
-            "hash": "2522d078e6457052bbf8387afd2fa186486f4905bf0bed4c70ab58aa6e6b4814"
+            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.5/PowerShell-7.2.5-win-x86.zip",
+            "hash": "e6f898e3c348a9dcbddbc76787bf4031dbb68a5946dc6e9fd4310ee06b264cff"
         },
         "arm64": {
-            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.0/PowerShell-7.2.0-win-arm64.zip",
-            "hash": "9e46eef382b5c36e25bc64d8275183a1a58ec6630d02b6f1636900f11d8d0a54"
+            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.5/PowerShell-7.2.5-win-arm64.zip",
+            "hash": "6cc428ebdbad88ea94b75ead18e23c6747c24b8ad9163f90a6ea35e91bb4caa8"
         }
     },
     "pre_install": "Test-Persistence 'Microsoft.PowerShell_profile.ps1', 'profile.ps1'",
