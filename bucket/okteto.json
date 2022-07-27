@@ -1,12 +1,12 @@
 {
-    "version": "1.14.6",
+    "version": "2.5.0",
     "description": "Development platform for Kubernetes applications",
     "homepage": "https://okteto.com",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/okteto/okteto/releases/download/1.14.6/okteto.exe",
-            "hash": "da9fd5f1fa12b31d6862b76e6b65d0c297637db238c92d528a9d1713172f07e0"
+            "url": "https://github.com/okteto/okteto/releases/download/2.5.0/okteto.exe",
+            "hash": "46f349d4d1659d822ea5a1dacf8e72c150c57c93d0594394d934507f2921ea1b"
         }
     },
     "bin": "okteto.exe",
