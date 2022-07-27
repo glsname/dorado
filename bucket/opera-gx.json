@@ -1,5 +1,5 @@
 {
-    "version": "87.0.4390.58",
+    "version": "89.0.4447.64",
     "description": "Gaming counterpart of Opera web browser",
     "homepage": "https://www.opera.com/gx",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download3.operacdn.com/pub/opera_gx/87.0.4390.58/win/Opera_GX_87.0.4390.58_Setup_x64.exe#/dl.7z",
-            "hash": "5624ba721b6560f08954ed2b23870add42eb9f5aa1b625f89220197dc86b830c"
+            "url": "https://download3.operacdn.com/pub/opera_gx/89.0.4447.64/win/Opera_GX_89.0.4447.64_Setup_x64.exe#/dl.7z",
+            "hash": "44868d1d041a4514aa570cb7c1bb24c5e7083e72866e29b3c50c3cab4ea0ac1a"
         },
         "32bit": {
-            "url": "https://download3.operacdn.com/pub/opera_gx/87.0.4390.58/win/Opera_GX_87.0.4390.58_Setup.exe#/dl.7z",
-            "hash": "09b149ce4a416d2197a3523b708a03481a055441dbe2e74cd525bf428eac74d2"
+            "url": "https://download3.operacdn.com/pub/opera_gx/89.0.4447.64/win/Opera_GX_89.0.4447.64_Setup.exe#/dl.7z",
+            "hash": "a8304690544f13818603c22bf444a43a2627b672664512e397be9c30d7d4d740"
         }
     },
     "installer": {
