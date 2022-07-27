@@ -1,12 +1,12 @@
 {
-    "version": "1.4.6",
+    "version": "1.8.6",
     "description": "Easy way to manage multiple active deno versions.",
     "homepage": "https://github.com/justjavac/dvm",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://cdn.jsdelivr.net/gh/justjavac/dvm_releases/dvm-x86_64-pc-windows-msvc.zip",
-            "hash": "267de2fcc5ca0a502dcf5e752720edc74cf6a108fc721b7dad7328c55db17ee8"
+            "hash": "bbbc0c5a1420eff9429eb2a305da5046d03a477d85f186c0acb587c7e62c3d5d"
         }
     },
     "installer": {
