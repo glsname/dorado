@@ -1,5 +1,5 @@
 {
-    "version": "2022.1.46592",
+    "version": "2022.2.52246",
     "description": "Youtrack. Easy-to-use, fully customizable issue tracking and agile project management tool.",
     "homepage": "https://jetbrains.com/youtrack/",
     "license": {
@@ -8,9 +8,9 @@
     },
     "changelog": "https://www.jetbrains.com/youtrack/whatsnew/",
     "notes": "YouTrack could be executed from anywhere using 'youtrack' command.",
-    "url": "https://download.jetbrains.com/charisma/youtrack-2022.1.46592.zip",
-    "hash": "d4c64af6e71ef09ee4f5d8809e6ad1dd21c49046d49a78329f02d6171d7bc91d",
-    "extract_dir": "youtrack-2022.1.46592",
+    "url": "https://download.jetbrains.com/charisma/youtrack-2022.2.52246.zip",
+    "hash": "d02168903e90c1ef1e8bbbec1c0e44e5d8c11385680132aeb720351cd91727a9",
+    "extract_dir": "youtrack-2022.2.52246",
     "installer": {
         "script": [
             "$ver_path = \"$dir\\bin\"",
