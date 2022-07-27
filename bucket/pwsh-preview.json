@@ -1,24 +1,24 @@
 {
-    "version": "7.2.0-rc.1",
+    "version": "7.3.0-preview.6",
     "description": "PowerShell Core Preview. Cross-Platform task automation and configuration management framework/tool.",
     "homepage": "https://github.com/PowerShell/PowerShell",
     "license": {
         "identifier": "MIT",
         "url": "https://github.com/PowerShell/PowerShell/blob/master/LICENSE.txt"
     },
-    "changelog": "https://github.com/PowerShell/PowerShell/releases/tag/v7.2.0-rc.1",
+    "changelog": "https://github.com/PowerShell/PowerShell/releases/tag/v7.3.0-preview.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.0-rc.1/PowerShell-7.2.0-rc.1-win-x64.zip",
-            "hash": "1e59141281a5c6646c1bb0ca2458ae4f4aa7de78ad959617a8bd9c5a17dfaa14"
+            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.0-preview.6/PowerShell-7.3.0-preview.6-win-x64.zip",
+            "hash": "c5384ab4678b0649800d123aa13fab89a0c05365f783e0090a63bc27d4839c3b"
         },
         "32bit": {
-            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.0-rc.1/PowerShell-7.2.0-rc.1-win-x86.zip",
-            "hash": "34d52b02ca38d2ffda1c9ff964676f0461b8c49b1dbd0dfdb43d40101f07898e"
+            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.0-preview.6/PowerShell-7.3.0-preview.6-win-x86.zip",
+            "hash": "63705c88683b16dac9e0326cadb6e9870fa8bb151ca6f553a8b3f709fdc9c5ef"
         },
         "arm64": {
-            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.2.0-rc.1/PowerShell-7.2.0-rc.1-win-arm64.zip",
-            "hash": "5d180cea41ab854d7dae630319d8855d0b3526b785490af4c2197ea334c694b7"
+            "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.3.0-preview.6/PowerShell-7.3.0-preview.6-win-arm64.zip",
+            "hash": "7b8088b9fc7280ab907e621337a22cc47c8f5caaf3fa89026bae16d321419ad0"
         }
     },
     "installer": {
