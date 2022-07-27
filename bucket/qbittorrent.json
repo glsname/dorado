@@ -1,5 +1,5 @@
 {
-    "version": "4.3.9",
+    "version": "4.4.3.1",
     "description": "Free and reliable P2P Bittorent client.",
     "homepage": "https://www.qbittorrent.org/",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.3.9/qbittorrent_4.3.9_x64_setup.exe#/dl.7z",
-            "hash": "e1c63b0b1b1ea646bad7bb844426fab55c7178de167268ac8d76190ccfebf1c8"
+            "url": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.4.3.1/qbittorrent_4.4.3.1_x64_setup.exe#/dl.7z",
+            "hash": "07f1777b4508c5629e26bb592050dfd4421169b76de79001d2f0350f92010f23"
         },
         "32bit": {
-            "url": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.3.9/qbittorrent_4.3.9_setup.exe#/dl.7z",
-            "hash": "01487a0e2594a5065e4d780eb012dcd0dafadc218d1b6aba69528bd6ede6afb5"
+            "url": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.4.3.1/qbittorrent_4.4.3.1_setup.exe#/dl.7z",
+            "hash": "35ab8e46152663eab858e902d159f918bc77620db4d9eb5dec85a959b9b99316"
         }
     },
     "pre_install": [
