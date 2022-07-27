@@ -1,11 +1,11 @@
 {
-    "version": "5.4.1",
+    "version": "5.5",
     "description": "Application designed to load test functional behavior and measure performance.",
     "homepage": "https://jmeter.apache.org",
     "license": "Apache-2.0",
-    "url": "https://archive.apache.org/dist/jmeter/binaries/apache-jmeter-5.4.1.zip",
-    "hash": "sha512:78e41e5fbbc3d09319b9c2593286a6326b3cb111377944b2f41650a0c5adcb131a38898e7b856bd034557015d6e6b150d4ad585de780d622e28e5e62eb8bf82d",
-    "extract_dir": "apache-jmeter-5.4.1",
+    "url": "https://archive.apache.org/dist/jmeter/binaries/apache-jmeter-5.5.zip",
+    "hash": "sha512:b24cdaa57234153df34a40bdc4501aa16f3286ca3e172eb889a5daa0ded86ab51388af1ea56e756df566a6f74f39f80eceb04e5d559668aeac9ec9759d6445ac",
+    "extract_dir": "apache-jmeter-5.5",
     "bin": [
         "bin\\jmeter.bat",
         "bin\\jmeter-n.cmd",
