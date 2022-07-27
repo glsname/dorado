@@ -1,16 +1,16 @@
 {
-    "version": "0.16.3",
+    "version": "0.18.0",
     "description": "An interactive shell and an expressive programming language",
     "homepage": "https://elv.sh",
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://dl.elv.sh/windows-amd64/elvish-v0.16.3.zip",
-            "hash": "547afa9ffc9c93240fa4f90eb64c20fbc77c970adcc6ce30301ec8409fe6b81b"
+            "url": "https://dl.elv.sh/windows-amd64/elvish-v0.18.0.zip",
+            "hash": "464c0ba88884e6975c9490d99127fdbc7ff75f038a37bcbe02975b75116a9f7d"
         },
         "32bit": {
-            "url": "https://dl.elv.sh/windows-386/elvish-v0.16.3.zip",
-            "hash": "ff788c204f57df56341ef5cbdfa6687f48257c664a3c3f0a47dc55bcb28504f8"
+            "url": "https://dl.elv.sh/windows-386/elvish-v0.18.0.zip",
+            "hash": "04bb281444ff9e6c5b0b67e44bf394c78a532ebb339f76f3cb6f79ac34dd732d"
         }
     },
     "pre_install": "Rename-Item \"$dir\\elvish-v$version.exe\" 'elvish.exe'",
