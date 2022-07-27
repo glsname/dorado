@@ -1,10 +1,10 @@
 {
-    "version": "2.10.28",
+    "version": "2.10.32-1",
     "description": "GNU Image Manipulation Program",
     "homepage": "https://www.gimp.org",
     "license": "GPL-3.0-only",
-    "url": "https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.28-setup.exe",
-    "hash": "2c2e081ce541682be1abdd8bc6df13768ad9482d68000b4a7a60c764d6cec74e",
+    "url": "https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe",
+    "hash": "e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d",
     "innosetup": true,
     "installer": {
         "script": [
