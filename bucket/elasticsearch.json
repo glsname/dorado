@@ -1,5 +1,5 @@
 {
-    "version": "8.2.3",
+    "version": "8.3.2",
     "description": "Distributed, RESTful Search Engine",
     "homepage": "https://www.elastic.co/products/elasticsearch",
     "license": {
@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-8.2.3-windows-x86_64.zip",
-            "hash": "sha512:f8e1ad5394ecaad376e6a84344824de38bc24e97e54308a5223cecdd498c6b73f74ab7a494613747632e7699403b66d5dc506c92dfab102c527e8efb0a6ec00a"
+            "url": "https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-8.3.2-windows-x86_64.zip",
+            "hash": "sha512:7b3cdc8ad664020abc3daf5f53bbba60260d9c4a4727046248ee2e16503281e4fbbe02c8dbdf11566852b9a0c6167f5dc6eade198f5e03b387401422ea0f04f2"
         }
     },
-    "extract_dir": "elasticsearch-8.2.3",
+    "extract_dir": "elasticsearch-8.3.2",
     "pre_install": [
         "    # Overwrite SCRIPT because elasticsearch-env.bat doesn't care if SCRIPT or ES_HOME are already set ...",
         "$file = \"$dir\\bin\\elasticsearch-env.bat\"",
