@@ -1,16 +1,16 @@
 {
-    "version": "0.142.0",
+    "version": "0.144.0",
     "description": "Command line interface to deploy Kubernetes Helm Charts.",
     "homepage": "https://github.com/roboll/helmfile/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/roboll/helmfile/releases/download/v0.142.0/helmfile_windows_amd64.exe#/helmfile.exe",
-            "hash": "87f8ce227e4f9e7ad127b73500903abcff89f8012e755f9c65ee43d2135c07a1"
+            "url": "https://github.com/roboll/helmfile/releases/download/v0.144.0/helmfile_windows_amd64.exe#/helmfile.exe",
+            "hash": "97f0e617977c5518cc92d9982c894eccaeb4c64fa9ae9577e606d2780e66f10b"
         },
         "32bit": {
-            "url": "https://github.com/roboll/helmfile/releases/download/v0.142.0/helmfile_windows_386.exe#/helmfile.exe",
-            "hash": "bc24147e86da7dbc5932f4843df378ad2dcd533465c12f73d382a28d36de0745"
+            "url": "https://github.com/roboll/helmfile/releases/download/v0.144.0/helmfile_windows_386.exe#/helmfile.exe",
+            "hash": "3b30897fb08b49e023b134119aafd9d9777ccd5586b3b565805ec8fbd8cbedf8"
         }
     },
     "bin": "helmfile.exe",
