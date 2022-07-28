@@ -1,16 +1,16 @@
 {
-    "version": "2.0.3",
+    "version": "2.0.5",
     "description": "A lightweight text editor written in Lua, adapted from lite.",
     "homepage": "https://lite-xl.github.io",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lite-xl/lite-xl/releases/download/v2.0.3/lite-xl-windows-x86_64.zip",
-            "hash": "d76fb97760c06a75c433734d68a0fb5970c4a148acfb66648f0943d4a0a95471"
+            "url": "https://github.com/lite-xl/lite-xl/releases/download/v2.0.5/lite-xl-windows-x86_64.zip",
+            "hash": "383005f6e45b102fdae6f6c0f1468cab916eded09aa6c548fb0eb07e94613044"
         },
         "32bit": {
-            "url": "https://github.com/lite-xl/lite-xl/releases/download/v2.0.3/lite-xl-windows-x86.zip",
-            "hash": "3f0e62793120c29c71d5b3d5f5b394fc9d897ce7cb3a99d5b54e028e14a879f0"
+            "url": "https://github.com/lite-xl/lite-xl/releases/download/v2.0.5/lite-xl-windows-x86.zip",
+            "hash": "4587fe52b1b4e8a181f41b694f17867c265d31bc938d0c1c151883c985c48511"
         }
     },
     "extract_dir": "lite-xl",
