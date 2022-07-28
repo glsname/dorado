@@ -1,5 +1,5 @@
 {
-    "version": "4.1.0",
+    "version": "5.1.9",
     "description": "A powerful Groovy-based web application framework for the JVM built on top of Spring Boot.",
     "homepage": "https://grails.org",
     "license": "Apache-2.0",
@@ -9,9 +9,9 @@
             "java/openjdk"
         ]
     },
-    "url": "https://github.com/grails/grails-core/releases/download/v4.1.0/grails-4.1.0.zip",
-    "hash": "9e2a0b4ddb87ca8ee0866538a259e03a0ddf770a6e8c0617a56bc3a4a675088f",
-    "extract_dir": "grails-4.1.0",
+    "url": "https://github.com/grails/grails-core/releases/download/v5.1.9/grails-5.1.9.zip",
+    "hash": "80e0b58f01686acc530215e85ff31b979b8bd69e8d8d7723a73eed77c0d95259",
+    "extract_dir": "grails-5.1.9",
     "bin": "bin\\grails.bat",
     "env_set": {
         "GRAILS_HOME": "$dir"
