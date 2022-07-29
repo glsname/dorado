@@ -1,15 +1,15 @@
 {
-    "version": "21.10.0-0",
+    "version": "22.04.0-0",
     "description": "PDF rendering library",
     "homepage": "https://github.com/oschwartz10612/poppler-windows",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/oschwartz10612/poppler-windows/releases/download/v21.10.0-0/Release-21.10.0-0.zip",
-            "hash": "34dada8dc6c741f1a9aee52196f6ac531a7d449eee46e91dd4e7448badd998f8"
+            "url": "https://github.com/oschwartz10612/poppler-windows/releases/download/v22.04.0-0/Release-22.04.0-0.zip",
+            "hash": "4fa72a98858c21fb0ccfdfa8e5c74507960d2c149dbba91408dd8f8868e4fa68"
         }
     },
-    "extract_dir": "poppler-21.10.0\\Library",
+    "extract_dir": "poppler-22.04.0\\Library",
     "bin": [
         "bin\\pdfattach.exe",
         "bin\\pdfdetach.exe",
