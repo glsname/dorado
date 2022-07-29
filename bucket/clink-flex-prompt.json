@@ -1,13 +1,13 @@
 {
-    "version": "0.7",
+    "version": "0.10",
     "description": "Flexible customizable prompt for Clink",
     "homepage": "https://github.com/chrisant996/clink-flex-prompt",
     "license": "MIT",
     "suggest": {
         "Clink": "clink"
     },
-    "url": "https://github.com/chrisant996/clink-flex-prompt/releases/download/v0.7/clink-flex-prompt-0.7.zip",
-    "hash": "f5148f766cc39437655b855e8399f6ace265695d9881158ba6f6f20622c91871",
+    "url": "https://github.com/chrisant996/clink-flex-prompt/releases/download/v0.10/clink-flex-prompt-0.10.zip",
+    "hash": "413831ac61746477a6047eeeed0310ea07fabc614678c62395817bb96b40fec5",
     "installer": {
         "script": [
             "if (Get-Command clink -ErrorAction SilentlyContinue) {",
