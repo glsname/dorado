@@ -1,12 +1,12 @@
 {
-    "version": "0.14.5",
+    "version": "0.14.11",
     "description": "Azure IoT devices manager",
     "homepage": "https://github.com/Azure/azure-iot-explorer",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Azure/azure-iot-explorer/releases/download/v0.14.5/Azure.IoT.Explorer.preview.0.14.5.msi",
-            "hash": "fd4e9b3d2134e90529612bc252a505d6b499e11e0deef0ecfedaf91d72c2cd25"
+            "url": "https://github.com/Azure/azure-iot-explorer/releases/download/v0.14.11/Azure.IoT.Explorer.preview.0.14.11.msi",
+            "hash": "ede98ee02c75084807f1acf2ecb0160fa2f6018fadf54208e888922cc204db01"
         }
     },
     "extract_dir": "azure-iot-explorer",
