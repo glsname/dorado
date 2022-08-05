@@ -1,16 +1,16 @@
 {
-    "version": "1.60",
+    "version": "1.80",
     "description": "A modern version of the legacy EDIT.COM text editor, from the author of Yori.",
     "homepage": "http://www.malsmith.net/yori/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "http://www.malsmith.net/download/?obj=yori/1.60/yori-typical-amd64.cab#/dl.7z",
-            "hash": "f9eaaacf9affc8285b79819d977697e73198f82a8d344428ac436d5a5c5e257b"
+            "url": "http://www.malsmith.net/download/?obj=yori/1.80/yori-typical-amd64.cab#/dl.7z",
+            "hash": "9eef66a47768aeb6f87232833b958ee0772a6e1908638d5fe39a6620e362c0f4"
         },
         "32bit": {
-            "url": "http://www.malsmith.net/download/?obj=yori/1.60/yori-typical-win32.cab#/dl.7z",
-            "hash": "e72fa905b3f75eaccb4bf67a891cddfa1e2f5a6ff1398f5e435d2aeffac4bbb8"
+            "url": "http://www.malsmith.net/download/?obj=yori/1.80/yori-typical-win32.cab#/dl.7z",
+            "hash": "0df7b939c4d4a76e61843786fc8097d853f603350537eb0413d3c99c32c12e8a"
         }
     },
     "post_install": "Remove-Item \"$dir\\*\" -Recurse -Exclude yedit.exe",
