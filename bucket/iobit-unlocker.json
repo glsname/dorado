@@ -1,10 +1,10 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "description": "No More \"Cannot Delete\" or \"Access Denied\" Problems",
     "homepage": "https://www.iobit.com/en/iobit-unlocker.php",
     "license": "Freeware",
     "url": "https://cdn.iobit.com/dl/unlocker-setup.exe",
-    "hash": "ae8e0cab1786a619e0e0cb044209e5de7a6a30375dd88400c59551061f318a68",
+    "hash": "18e6243b74cf5a5f9a2ba5cf243f3b89ce0fb9da4c3a30bbfbd0ae932d621f52",
     "innosetup": true,
     "bin": "IObitUnlocker.exe",
     "shortcuts": [
