@@ -1,10 +1,10 @@
 {
     "homepage": "https://anytxt.net/",
-    "version": "1.2.980.Win32_Win64",
+    "version": "1.2.982.Win32_Win64",
     "depends": "autoconfirm",
     "description": "A Desktop Search Tool with A Powerful Full-Text Search Engine. Free Google Desktop Search Alternative.",
-    "url": "https://sourceforge.net/projects/anytxt/files/AnyTXT.Searcher.1.2.980.Win32_Win64.exe#/setup.exe",
-    "hash": "20a114efbb58d1fff4d2fe2a0f913ef77f5f01fa73d1af8accee5063a544bed7",
+    "url": "https://sourceforge.net/projects/anytxt/files/AnyTXT.Searcher.1.2.982.Win32_Win64.exe#/setup.exe",
+    "hash": "909746ab36792a4ca5383d1976f0ed70f450716dd8bc0bbb4ad7b44f4a3e1b1f",
     "installer": {
         "script": "Start-Process -Wait \"$dir\\setup.exe\" \"/verysilent /norestart /DIR=`\"$dir`\"\" -Verb RunAs"
     },
