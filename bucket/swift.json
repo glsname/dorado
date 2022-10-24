@@ -2,9 +2,9 @@
     "homepage": "https://swift.org/",
     "description": "The Swift Programming Language",
     "license": "Apache-2.0",
-    "version": "5.6.2",
-    "url": "https://swift.org/builds/swift-5.6.2-release/windows10/swift-5.6.2-RELEASE/swift-5.6.2-RELEASE-windows10.exe",
-    "hash": "f396a9bf1856f4ffa4007b8eb183fdb5094cd2bc58d54f0f7e793a0209f439e3",
+    "version": "5.7",
+    "url": "https://swift.org/builds/swift-5.7-release/windows10/swift-5.7-RELEASE/swift-5.7-RELEASE-windows10.exe",
+    "hash": "cc5580e347c492cf4f6c74e0e59d78938cb7b1484ba9a72cbd923c6ee6a4fe3d",
     "depends": "dark",
     "installer": {
         "script": [
