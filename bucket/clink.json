@@ -1,5 +1,5 @@
 {
-    "version": "1.3.48",
+    "version": "1.3.50",
     "description": "Powerful Bash-style command line editing for cmd.exe",
     "homepage": "https://chrisant996.github.io/clink/",
     "license": "GPL-3.0-only",
@@ -7,8 +7,8 @@
         "Run 'clink inject' to start clink on the current cmd",
         "Run 'clink autorun install' to auto start clink"
     ],
-    "url": "https://github.com/chrisant996/clink/releases/download/v1.3.48/clink.1.3.48.4dadd8.zip",
-    "hash": "eb366a661ab79838a99c0ba478bd4bf4911f8e91ca5c008df78df23765e017e4",
+    "url": "https://github.com/chrisant996/clink/releases/download/v1.3.50/clink.1.3.50.c98f5f.zip",
+    "hash": "49beb2ff2866b0795121c2ce5e503098e9353f6cfc6781e4174e20d0e7feb2fe",
     "bin": "clink.bat",
     "persist": "profile",
     "checkver": {
