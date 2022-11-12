@@ -1,10 +1,10 @@
 {
-    "version": "2.33.2",
+    "version": "2.34.1",
     "description": "Data & models versioning for ML projects, make them shareable and reproducible",
     "homepage": "https://dvc.org/",
     "license": "Apache-2.0",
-    "url": "https://github.com/iterative/dvc/releases/download/2.33.2/dvc-2.33.2.exe",
-    "hash": "0d5baf9c39a7e2790b4063ec05426f8d498474b15d7e10ce1c2368c8fd0a4b17",
+    "url": "https://github.com/iterative/dvc/releases/download/2.34.1/dvc-2.34.1.exe",
+    "hash": "d3232e5730e5b69c9f8b371d04255137edb6a71b9ab53307936f5bad3c05e472",
     "innosetup": true,
     "bin": "dvc.exe",
     "checkver": {
