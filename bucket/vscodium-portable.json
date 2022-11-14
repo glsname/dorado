@@ -1,5 +1,5 @@
 {
-    "version": "1.72.0.22279",
+    "version": "1.73.1.22314",
     "description": "Binary releases of VS Code without MS branding/telemetry/licensing (Portable Edition).",
     "homepage": "https://github.com/VSCodium/vscodium",
     "license": "MIT",
@@ -7,24 +7,24 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/VSCodium/vscodium/releases/download/1.72.0.22279/VSCodium-win32-x64-1.72.0.22279.zip",
+                "https://github.com/VSCodium/vscodium/releases/download/1.73.1.22314/VSCodium-win32-x64-1.73.1.22314.zip",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/vscode/install-context.reg",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/vscode/uninstall-context.reg"
             ],
             "hash": [
-                "71932b893d785daf94a4221c884094cf8ea950d115bdef876311e1334b03c15d",
+                "7e6044e269764665ab7b233046cdb34cc8a48914676193b3bcbdabc9b9b5dd9e",
                 "8ef94c82319b69754bdae0099af266d184d179a37af8b8beb11334c6ab639752",
                 "df2a5162e72e2518e2b75b4337c8e7b46c136554872af90fa0de1cf6ebef376f"
             ]
         },
         "32bit": {
             "url": [
-                "https://github.com/VSCodium/vscodium/releases/download/1.72.0.22279/VSCodium-win32-ia32-1.72.0.22279.zip",
+                "https://github.com/VSCodium/vscodium/releases/download/1.73.1.22314/VSCodium-win32-ia32-1.73.1.22314.zip",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/vscode/install-context.reg",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/vscode/uninstall-context.reg"
             ],
             "hash": [
-                "1dd4c46a6653019b99da7b34e22c3c08796e09b1763530fdea7f0d9b2127c14e",
+                "b705dbadbd5c06613871029ef04a2d2cdda7989ab92e9ea09603b0693873c019",
                 "8ef94c82319b69754bdae0099af266d184d179a37af8b8beb11334c6ab639752",
                 "df2a5162e72e2518e2b75b4337c8e7b46c136554872af90fa0de1cf6ebef376f"
             ]
