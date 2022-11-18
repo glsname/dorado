@@ -1,10 +1,10 @@
 {
-    "version": "3.0.3",
+    "version": "3.1.1",
     "description": "Locate Visual Studio 2017 and newer installations",
     "homepage": "https://github.com/microsoft/vswhere",
     "license": "MIT",
-    "url": "https://www.nuget.org/api/v2/package/vswhere/3.0.3#/vswhere.zip",
-    "hash": "f0226e2de50a37092b7879245a607b4e2e3550ce0f0d3870cbe4ef3f90312d52",
+    "url": "https://www.nuget.org/api/v2/package/vswhere/3.1.1#/vswhere.zip",
+    "hash": "sha512:3e8ff153593b203861b8e3d971768119f81217d1727b707a507723d4970b26c77d6acfa743b8a791312e53a875e86f7d0ce6834f8cbf58f825b9e05825eeb064",
     "extract_dir": "tools",
     "bin": "vswhere.exe",
     "checkver": "github",
