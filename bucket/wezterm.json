@@ -1,15 +1,15 @@
 {
-    "version": "20210814-124438-54e29167",
+    "version": "20221119-145034-49b9839f",
     "description": "GPU-accelerated terminal emulator",
     "homepage": "https://github.com/wez/wezterm",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/wez/wezterm/releases/download/20210814-124438-54e29167/WezTerm-windows-20210814-124438-54e29167.zip",
-            "hash": "75242f12ea2d03ab8c1bcb1a8afdb872fb722c84be64b9a40dc41f3ed7d76492"
+            "url": "https://github.com/wez/wezterm/releases/download/20221119-145034-49b9839f/WezTerm-windows-20221119-145034-49b9839f.zip",
+            "hash": "7041d2c02d226c0c051cc9f6373d51ac9a2de00025e18582077c76e8ad68abe1"
         }
     },
-    "extract_dir": "WezTerm-windows-20210814-124438-54e29167",
+    "extract_dir": "WezTerm-windows-20221119-145034-49b9839f",
     "bin": "wezterm.exe",
     "shortcuts": [
         [
