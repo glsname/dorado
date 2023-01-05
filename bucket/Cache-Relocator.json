@@ -2,16 +2,16 @@
     "homepage": "https://www.softperfect.com/products/cacherelocator/",
     "description": "Quick and easy way to move your Internet browser cache",
     "license": "freeware",
-    "version": "1.6",
+    "version": "1.7",
     "architecture": {
         "64bit": {
             "url": "https://www.softperfect.com/download/freeware/cacherelocator_portable.zip",
-            "hash": "778c3a98b14ecb07f187bbb4de4869ce8a0ab31773e564dfa0dd321e6eae2b76",
+            "hash": "b85c490c9dc601c81531a8cdb11b5da580892e20a5225dad5c97d9c2e638826a",
             "extract_dir": "64-bit"
         },
         "32bit": {
             "url": "https://www.softperfect.com/download/freeware/cacherelocator_portable.zip",
-            "hash": "778c3a98b14ecb07f187bbb4de4869ce8a0ab31773e564dfa0dd321e6eae2b76",
+            "hash": "b85c490c9dc601c81531a8cdb11b5da580892e20a5225dad5c97d9c2e638826a",
             "extract_dir": "32-bit"
         }
     },
