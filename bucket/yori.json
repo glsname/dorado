@@ -1,10 +1,10 @@
 {
-    "version": "1.80",
+    "version": "1.90",
     "description": "CMD replacement shell that supports backquotes, job control, improves tab completion, file matching, aliases, command history, and more.",
     "homepage": "http://www.malsmith.net/yori/",
     "license": "MIT",
-    "url": "http://www.malsmith.net/download/?obj=yori/1.80/win32/ysetup.exe",
-    "hash": "21ff471b7bcea9802854889209d1ccbd32accec29b15512dc18d2ea4af13c87a",
+    "url": "http://www.malsmith.net/download/?obj=yori/1.90/win32/ysetup.exe",
+    "hash": "0236d87b1a4345273823caf466a44379550506cdd42f00ecafac9c99dd9bda24",
     "installer": {
         "args": "\"$dir\""
     },
