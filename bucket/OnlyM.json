@@ -1,13 +1,13 @@
 {
-    "version": "2.0.0.15",
+    "version": "2.1.0.6",
     "description": "OnlyM. Simple Media Player for use in meetings.",
     "homepage": "https://github.com/AntonyCorbett/OnlyM",
     "license": {
         "identifier": "MIT",
         "url": "https://github.com/AntonyCorbett/OnlyM/blob/master/LICENSE"
     },
-    "url": "https://github.com/AntonyCorbett/OnlyM/releases/download/2.0.0.15/OnlyMSetup.exe",
-    "hash": "15a91f457a19856485cf8624d1852842795ae9f89626bdc17a8b146c24369e07",
+    "url": "https://github.com/AntonyCorbett/OnlyM/releases/download/2.1.0.6/OnlyMSetup.exe",
+    "hash": "a2e43a4d5bb30966011ce264c4a821d7c930373a623d889cf57419268d29e0fa",
     "innosetup": true,
     "shortcuts": [
         [
