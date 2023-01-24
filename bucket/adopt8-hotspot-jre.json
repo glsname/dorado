@@ -1,19 +1,19 @@
 {
     "description": "AdoptOpenJDK 8 JRE with Oracle HotSpot JVM",
     "homepage": "https://adoptopenjdk.net",
-    "version": "8u352-b08",
+    "version": "8u362-b09",
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://download.fastgit.org/adoptium/temurin8-binaries/releases/download/jdk8u352-b08/OpenJDK8U-jre_x64_windows_hotspot_8u352b08.zip",
-            "hash": "072986277701a967e15bf4c4be0c15a69fda00ab973e5e69e62b0f078d6614a4"
+            "url": "https://download.fastgit.org/adoptium/temurin8-binaries/releases/download/jdk8u362-b09/OpenJDK8U-jre_x64_windows_hotspot_8u362b09.zip",
+            "hash": "3569dcac27e080e93722ace6ed7a1e2f16d44a61c61bae652c4050af58d12d8b"
         },
         "32bit": {
-            "url": "https://download.fastgit.org/adoptium/temurin8-binaries/releases/download/jdk8u352-b08/OpenJDK8U-jre_x86-32_windows_hotspot_8u352b08.zip",
-            "hash": "0ba6603e6a5d37d4571567bf598e61900103f699f3a7c3120303aa2677ad575e"
+            "url": "https://download.fastgit.org/adoptium/temurin8-binaries/releases/download/jdk8u362-b09/OpenJDK8U-jre_x86-32_windows_hotspot_8u362b09.zip",
+            "hash": "ab1c3756c0f94e982edf77e7048263d2c7fc1048c57dd1185e5f441f007e9653"
         }
     },
-    "extract_dir": "jdk8u352-b08-jre",
+    "extract_dir": "jdk8u362-b09-jre",
     "env_add_path": "bin",
     "env_set": {
         "JAVA_HOME": "$dir"
