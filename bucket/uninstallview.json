@@ -1,16 +1,16 @@
 {
     "homepage": "https://www.nirsoft.net/utils/uninstall_view.html",
     "description": "Shows installed programs on your system and allows you to uninstall them.",
-    "version": "1.47",
+    "version": "1.48",
     "license": "Freeware",
     "architecture": {
         "64bit": {
             "url": "https://www.nirsoft.net/utils/uninstallview-x64.zip",
-            "hash": "26ef654d52f32a634bcfb19c831e813699e8cc7d9f196d71b3e41d0597d88086"
+            "hash": "7fcf09532684f94a9c89d32edec18514db47adbb06db2f58bf707f39c624d8e0"
         },
         "32bit": {
             "url": "https://www.nirsoft.net/utils/uninstallview.zip",
-            "hash": "3652be83d13fe3b54c91e1c2ff40ef2e28ae4390ea01d083f5182c925f281d51"
+            "hash": "e83b11264115476fa24be0770b4c00e07ba17523962f497c940c74e46e71e5b7"
         }
     },
     "shortcuts": [
