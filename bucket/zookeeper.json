@@ -1,5 +1,5 @@
 {
-    "version": "3.8.0",
+    "version": "3.8.1",
     "description": "High-performance coordination service for distributed applications",
     "homepage": "https://zookeeper.apache.org/",
     "license": "Apache-2.0",
@@ -9,9 +9,9 @@
             "java/openjdk"
         ]
     },
-    "url": "https://www.apache.org/dist/zookeeper/zookeeper-3.8.0/apache-zookeeper-3.8.0-bin.tar.gz",
-    "hash": "sha512:d66e3a40451f840406901b2cd940992b001f92049a372ae48d8b420891605871cd1ae5f6cceb3b10665491e7abef36a4078dace158bd1e0938fcd3567b5234ca",
-    "extract_dir": "apache-zookeeper-3.8.0-bin",
+    "url": "https://www.apache.org/dist/zookeeper/zookeeper-3.8.1/apache-zookeeper-3.8.1-bin.tar.gz",
+    "hash": "sha512:940ce2fdd4ff33acfc99860b5c604d2d48f37c4d6f0b7c2dcdade7492ecf5385b079bf56db68b4c9c9b8dfed0a86ecd73ee2977621738f263d6e9b8432f34b35",
+    "extract_dir": "apache-zookeeper-3.8.1-bin",
     "post_install": [
         "$dataDirPath = (\"$dir\\data\").replace('\\', '\\\\')",
         "(Get-Content \"$dir\\conf\\zoo_sample.cfg\") -Replace '^dataDir=(.+)$', \"dataDir=$dataDirPath\" | Set-Content \"$dir\\conf\\zoo.cfg\" -Encoding Ascii"
