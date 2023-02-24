@@ -1,16 +1,16 @@
 {
-    "version": "4.5.2.0",
+    "version": "4.5.3.0",
     "description": "Quick CPU. Tune and monitor CPU performance settings.",
     "homepage": "https://coderbag.com/product/quickcpu",
     "license": "Unknown",
     "architecture": {
         "64bit": {
             "url": "https://coderbag.com/assets/downloads/cpm/currentversion/QuickCpuSetup64.zip",
-            "hash": "549c1897dc83b5fb29ae0a31864f5914253d92ee8c97efeb76fd712db1e58cd0"
+            "hash": "6769a224928d4aca921bcf79a450bb9d3a0e105df4532b925a453c032b952b82"
         },
         "32bit": {
             "url": "https://coderbag.com/assets/downloads/cpm/currentversion/QuickCpuSetup32.zip",
-            "hash": "499db0a94045322b810276bf466f2fa43bf5abe0bb4a7df2744de3d43aefe91b"
+            "hash": "0572fc7da822b94a8b277ef0a2729c85b3837216b5b7094246379d9e24fb39f5"
         }
     },
     "installer": {
