@@ -1,13 +1,13 @@
 {
-    "version": "2023.1-231.7515.16",
+    "version": "2023.1-231.7665.1",
     "description": "RubyMine Early Access Program. Cross-Platform Ruby on Rails IDE by JetBrains.",
     "homepage": "https://www.jetbrains.com/ruby/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.jetbrains.com/legal/agreements/user_eap.html"
     },
-    "url": "https://download.jetbrains.com/ruby/RubyMine-231.7515.16.exe#/cosi.7z",
-    "hash": "318b0a827bb61735ea6dc77f7a199c826a3a8684559303834dd0e5c31ff058ea",
+    "url": "https://download.jetbrains.com/ruby/RubyMine-231.7665.1.exe#/cosi.7z",
+    "hash": "b1652134365e7ec85644ec675c823cd5e8680df0094f4fa3006e062afc6e2fd8",
     "extract_to": "IDE",
     "pre_install": "Remove-Item \"$dir\\IDE\\`$*\" -Force -Recurse",
     "architecture": {
