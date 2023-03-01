@@ -1,16 +1,16 @@
 {
-    "version": "1.58.0",
+    "version": "1.58.3",
     "description": "The primary implementation of Sass, written in Dart.",
     "homepage": "https://sass-lang.com/dart-sass",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sass/dart-sass/releases/download/1.58.0/dart-sass-1.58.0-windows-x64.zip",
-            "hash": "89230542cb8308d2342e22c44396aa104bb89da2e470a7d671770373b3c6aaa2"
+            "url": "https://github.com/sass/dart-sass/releases/download/1.58.3/dart-sass-1.58.3-windows-x64.zip",
+            "hash": "89f5b25e2ba1a64683e146f92bd1ee7cfefe278a9a3c9ee6c4eb87451ac32573"
         },
         "32bit": {
-            "url": "https://github.com/sass/dart-sass/releases/download/1.58.0/dart-sass-1.58.0-windows-ia32.zip",
-            "hash": "f0bddb26a899e76380275b16ee443756bc4379077800fd991293e78d7a26ffd8"
+            "url": "https://github.com/sass/dart-sass/releases/download/1.58.3/dart-sass-1.58.3-windows-ia32.zip",
+            "hash": "88cca54914870b1f09350ec3c2a436bd079ff17b801e66661c8d621d851ba89e"
         }
     },
     "extract_dir": "dart-sass",
