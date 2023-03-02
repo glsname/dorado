@@ -1,10 +1,10 @@
 {
-    "version": "1.32.0.0",
+    "version": "1.40.0.0",
     "description": "Kaspersky's RakhniDecryptor. Unlock files with the .locked and .kraken extensions, encrypted by 'Trojan-Ransom.Win32.Rakhni'.",
     "homepage": "https://support.kaspersky.com/10556",
     "license": "Freeware",
     "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
-    "hash": "7918f131b02ec235b9f308c593a21af972424161a387df7d73ea10721d07fc5a",
+    "hash": "13f3b2c3244c6e2a7f9322bb58534f9d2983793b6796140c03541f44df2a5112",
     "bin": "RakhniDecryptor.exe",
     "shortcuts": [
         [
