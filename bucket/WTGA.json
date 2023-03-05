@@ -1,9 +1,9 @@
 {
     "homepage": "https://bbs.luobotou.org/thread-761-1-1.html",
     "description": "WTG辅助工具",
-    "version": "5.5.9",
-    "url": "http://dl.luobotou.org/wtga5590.zip",
-    "hash": "a281684f11ff851e8a74a55b0c2f901539ae1e01657838563b068b84ce8b495d",
+    "version": "5.6.1",
+    "url": "http://dl.luobotou.org/wtga5610.zip",
+    "hash": "3446d4da455f190906f85f8bef24d412d5794d1f5adbbf6c788d987b6ea5a886",
     "checkver": {
         "url": "https://bbs.luobotou.org/thread-761-1-1.html",
         "regex": "v([\\d.]+)"
