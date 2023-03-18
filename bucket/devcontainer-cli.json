@@ -1,5 +1,5 @@
 {
-    "version": "0.1.3149538034",
+    "version": "0.1.4426856425",
     "description": "Unofficial Visual Studio Code devcontainers \"manager\"",
     "homepage": "https://github.com/stuartleeks/devcontainer-cli",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stuartleeks/devcontainer-cli/releases/download/v0.1.3149538034/devcontainer-cli_windows_amd64.zip",
-            "hash": "a72ed525b36967d57460fdf702c9c9db0bf9af6c594e4726e195c77a3a52ceba"
+            "url": "https://github.com/stuartleeks/devcontainer-cli/releases/download/v0.1.4426856425/devcontainer-cli_windows_amd64.zip",
+            "hash": "cf949340fab41599f1299ee96b4cf2ce69ee342762739c2c5b5e7034a2b67a0e"
         },
         "32bit": {
-            "url": "https://github.com/stuartleeks/devcontainer-cli/releases/download/v0.1.3149538034/devcontainer-cli_windows_386.zip",
-            "hash": "2591b1ff3bdb40591ac1f523135f5b6137e6261b6a76c160e9c0e8eb4f337607"
+            "url": "https://github.com/stuartleeks/devcontainer-cli/releases/download/v0.1.4426856425/devcontainer-cli_windows_386.zip",
+            "hash": "ccf85cac8f456eee6774f7462b0dd59b03e90f4337dd3165be0cb90e47a7d5f0"
         }
     },
     "bin": [
