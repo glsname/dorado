@@ -1,5 +1,5 @@
 {
-    "version": "2022.3.3",
+    "version": "2023.1",
     "description": "IntelliJ IDEA Ultimate Edition for web and enterprise development.",
     "homepage": "https://www.jetbrains.com/idea/",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://www.jetbrains.com/legal/agreements/user.html"
     },
     "notes": "Please restart your command line for changes to take effect",
-    "url": "https://download.jetbrains.com/idea/ideaIU-2022.3.3.win.zip",
-    "hash": "e9f1767c8ff840a905ab95be06369e70b1ce36a3efe8acb1509791951906c92a",
+    "url": "https://download.jetbrains.com/idea/ideaIU-2023.1.win.zip",
+    "hash": "1da15431780258c6e0317ac2d5b7bc1b03f8fece13f4c730fff61f7b7fc4d54b",
     "architecture": {
         "64bit": {
             "bin": "bin\\idea64.exe",
