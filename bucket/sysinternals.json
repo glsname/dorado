@@ -1,5 +1,5 @@
 {
-    "version": "2023.March.30",
+    "version": "2023.April.3",
     "description": "A set of utilities to manage, diagnose, troubleshoot, and monitor a Windows environment.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/SysinternalsSuite.zip",
-    "hash": "3852a080b773e198b18cc25f6e3935eb935dc17d471aafcc9b09efa276d9992b",
+    "hash": "e144e93d83c7ea792e1e9e804253b8eda9649ee1102dc168c7bd70ac26edb199",
     "checkver": {
         "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite",
         "regex": "\\bUpdated:\\s*(\\w+)\\s+(\\d+),\\s+(\\d+)\\b",
