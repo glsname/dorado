@@ -1,5 +1,5 @@
 {
-    "version": "1.9",
+    "version": "2.0",
     "description": "Sordum's AskAdmin. Restrict an Application, Folder or a File.",
     "homepage": "https://www.sordum.org/7941/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.sordum.org/files/eula/eula_askadmin.zip"
     },
     "url": "https://www.sordum.org/files/download/askadmin/AskAdmin.zip",
-    "hash": "523031fc774b495405741d3773f5a397048591f6de1997405b8f4faba33434f9",
+    "hash": "08c6d6cb3697d8a44b0f08409033987faf6dcb16c410ec4db4bd93388bb28c44",
     "extract_dir": "AskAdmin",
     "architecture": {
         "64bit": {
