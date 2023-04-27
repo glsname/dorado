@@ -1,11 +1,11 @@
 {
-    "version": "4.1.2.2",
+    "version": "4.1.2.3",
     "description": "W10Privacy. Sets of data protection and privacy options",
     "homepage": "https://www.winprivacy.de/english-home",
     "license": "Freeware",
     "changelog": "https://www.w10privacy.de/deutsch-start/versionshistorie",
-    "url": "https://www.winprivacy.de/app/download/12302828636/W10Privacy.zip?t=1681462982#/cosi.zip",
-    "hash": "b665da5ad8ce76006ce418d790504294d80c07ae66f0c2a511d781d3329e795f",
+    "url": "https://www.winprivacy.de/app/download/12302828636/W10Privacy.zip?t=1682534128#/cosi.zip",
+    "hash": "ad13fa7e572c391279816d2e860a68872e08315d64de66005c406b26a8e43f1b",
     "installer": {
         "script": [
             "try { Get-Command 'Test-Persistence' -ErrorAction 'Stop' | Out-Null } catch { error 'Shovel flavour of scoop is required'; exit 258 }",
