@@ -1,14 +1,14 @@
 {
-    "version": "2.2.4",
+    "version": "2.2.5",
     "description": "Reverse differential backup tool, over a network or locally",
     "homepage": "https://rdiff-backup.net",
     "license": "GPL-2.0-only",
     "suggest": {
         "vcredist2008": "extras/vcredist2008"
     },
-    "url": "https://github.com/rdiff-backup/rdiff-backup/releases/download/v2.2.4/rdiff-backup-2.2.4.win32exe.zip",
-    "hash": "f5d0c0b01eb67a55813d611893904264a4fe03b5c352c15ef4898cd0da93c247",
-    "extract_dir": "rdiff-backup-2.2.4",
+    "url": "https://github.com/rdiff-backup/rdiff-backup/releases/download/v2.2.5/rdiff-backup-2.2.5.win32exe.zip",
+    "hash": "033f6e6c1980a509c0187709db014ac18f40a9909eefc1331714a27eef3afdd0",
+    "extract_dir": "rdiff-backup-2.2.5",
     "bin": "rdiff-backup.exe",
     "checkver": {
         "github": "https://github.com/rdiff-backup/rdiff-backup"
