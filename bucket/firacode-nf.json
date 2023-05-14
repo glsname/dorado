@@ -1,9 +1,9 @@
 {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.0/FiraCode.zip",
-    "hash": "705b7eaa5b687987cc0e65a961314250be0cbdac71e6ae5a8be5c8064361f37c",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/FiraCode.zip",
+    "hash": "532f6cc67eef8bcead4c36b3484c323f7c546e1eda3c5598617cf0e112345353",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {
