@@ -1,5 +1,5 @@
 {
-    "version": "6.21",
+    "version": "6.22",
     "description": "Decompress RAR files.",
     "homepage": "https://www.rarlab.com/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.rarlab.com/license.htm"
     },
     "url": "https://www.rarlab.com/rar/unrarw32.exe#/dl.7z",
-    "hash": "39d041187100c4d24e1901ac5865705c8f64523a57e8c068606634fb960a4d22",
+    "hash": "6f9855a24b29c8e7c50b352505a67e56358bddc369ac0051c61f5b4f50c100fe",
     "bin": "UnRAR.exe",
     "checkver": "RAR ([\\d.]+)",
     "autoupdate": {
