@@ -1,5 +1,5 @@
 {
-    "version": "100.7.0",
+    "version": "100.7.1",
     "description": "A collection of command-line utilities for working with a MongoDB deployment.",
     "homepage": "https://docs.mongodb.com/database-tools/",
     "license": {
@@ -11,9 +11,9 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://fastdl.mongodb.org/tools/db/mongodb-database-tools-windows-x86_64-100.7.0.zip",
-            "hash": "f58240bc02a5871179ef0f2c35c1e674b3ba90cb11b699114c6008d972975600",
-            "extract_dir": "mongodb-database-tools-windows-x86_64-100.7.0"
+            "url": "https://fastdl.mongodb.org/tools/db/mongodb-database-tools-windows-x86_64-100.7.1.zip",
+            "hash": "9ef92a13f710579d1225b8d405a18f31e77a899f6f73110e1e8fbc84d767ad1d",
+            "extract_dir": "mongodb-database-tools-windows-x86_64-100.7.1"
         }
     },
     "env_add_path": "bin",
