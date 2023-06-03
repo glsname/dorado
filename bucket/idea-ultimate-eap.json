@@ -1,13 +1,13 @@
 {
-    "version": "232.6095.10",
+    "version": "232.6734.9",
     "description": "Early Access Program for IntelliJ IDEA Ultimate Edition",
     "homepage": "https://www.jetbrains.com/idea/",
     "license": {
         "identifier": "Shareware",
         "url": "https://www.jetbrains.com/legal/agreements/user_eap.html"
     },
-    "url": "https://download.jetbrains.com/idea/ideaIU-232.6095.10.win.zip",
-    "hash": "5a4d9b57986db04d94e499812cff0c74ce85b4dfbfdb15a8068442c893067196",
+    "url": "https://download.jetbrains.com/idea/ideaIU-232.6734.9.win.zip",
+    "hash": "75e2b152a3daab0489816b1d0a2f3f0c67bd9ae6158ce5850a1aada3575c0ee5",
     "architecture": {
         "64bit": {
             "bin": "bin\\idea64.exe",
