@@ -1,12 +1,12 @@
 {
-    "version": "0.13.5",
+    "version": "0.14.8",
     "description": "Universal command-line interface for SQL databases",
     "homepage": "https://github.com/xo/usql",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xo/usql/releases/download/v0.13.5/usql-0.13.5-windows-amd64.zip",
-            "hash": "bed8ec2cc66abab8e8e31b09d36d9ae86063f1e63a1b6f4397ca071a841dbd23"
+            "url": "https://github.com/xo/usql/releases/download/v0.14.8/usql-0.14.8-windows-amd64.zip",
+            "hash": "699e4d09cb2bfc35e3f989541a18882d0116b90bd17e335ab04b37e4117e6a52"
         }
     },
     "bin": "usql.exe",
