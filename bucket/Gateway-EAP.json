@@ -1,5 +1,5 @@
 {
-    "version": "2023.2-232.7754.77",
+    "version": "2023.2-232.8296.17",
     "description": "JetBrains Gateway Early Access Program. Launcher that brings a backend server and local environment together.",
     "homepage": "https://www.jetbrains.com/help/idea/2021.3/remote-development-starting-page.html",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-232.7754.77.exe#/dl.7z",
-            "hash": "e451b009b8884d1b93be7adceaffa1d83733a6c7eeaa0aa6181ebb64e34d3ff5",
+            "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-232.8296.17.exe#/dl.7z",
+            "hash": "bee317ae26c3d1278025aa75b7542a2e2bd7df4923cb54eef6958ceb35869348",
             "shortcuts": [
                 [
                     "IDE\\bin\\gateway64.exe",
