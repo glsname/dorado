@@ -1,10 +1,10 @@
 {
-    "version": "6.1.0",
+    "version": "6.2.0",
     "description": "A revolutionary search utility.",
     "homepage": "https://www.listary.com",
     "license": "Shareware",
-    "url": "https://www.listary.com/download/ListaryPortable.zip?version=6.1.0#/ListaryPortable.zip",
-    "hash": "7b29569850f0b2a1f4080669edf30e6fd81857973712526c4c8e53692056be55",
+    "url": "https://www.listary.com/download/ListaryPortable.zip?version=6.2.0#/ListaryPortable.zip",
+    "hash": "ed8b879cd457587ded5374f823f6af84cbaefa2bbc72db8a74db4b90a650414e",
     "extract_dir": "ListaryPortable",
     "persist": "UserData",
     "shortcuts": [
