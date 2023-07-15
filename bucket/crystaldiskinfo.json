@@ -1,10 +1,10 @@
 {
-    "version": "9.0.1",
+    "version": "9.1.0",
     "description": "HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD",
     "homepage": "https://osdn.net/projects/crystaldiskinfo/",
     "license": "MIT",
-    "url": "https://osdn.dl.osdn.net/crystaldiskinfo/78831/CrystalDiskInfo9_0_1.zip",
-    "hash": "378cae035e87845fccd3ad6f3d0d9adaa1ead1c66f63a05e30fcc2f59a9e6dbd",
+    "url": "https://osdn.dl.osdn.net/crystaldiskinfo/78950/CrystalDiskInfo9_1_0.zip",
+    "hash": "345e5a7d65b936bf690724a601aaeb7570adc8008494636fd8de3d6a83c7847b",
     "pre_install": "if (!(Test-Path \"$persist_dir\\DiskInfo.ini\")) { New-Item \"$dir\\DiskInfo.ini\" | Out-Null }",
     "architecture": {
         "64bit": {
