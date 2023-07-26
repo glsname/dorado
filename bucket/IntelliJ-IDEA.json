@@ -1,5 +1,5 @@
 {
-    "version": "2023.1.4-231.9225.16",
+    "version": "2023.1.5-231.9392.1",
     "description": "IntelliJ IDEA Community. Cross-Platform Java IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/idea/",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://sales.jetbrains.com/hc/en-gb/articles/115001015290-Where-can-I-find-the-EULA-End-User-License-Agreement-"
     },
     "changelog": "https://www.jetbrains.com/idea/whatsnew/",
-    "url": "https://download.jetbrains.com/idea/ideaIC-2023.1.4.win.zip",
-    "hash": "7cbe9363fc01194fcda5c34d24554f75077db2081c8f65cf365b3e601bd8795f",
+    "url": "https://download.jetbrains.com/idea/ideaIC-2023.1.5.win.zip",
+    "hash": "c712d79a14c743b509fc28b8cbbbbe5636df6c2c4692e78a08735c23487a3a6e",
     "extract_to": "IDE",
     "pre_install": "Remove-Item \"$dir\\IDE\\`$*\" -Force -Recurse",
     "architecture": {
