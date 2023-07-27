@@ -1,5 +1,5 @@
 {
-    "version": "2023.1.5-231.9392.1",
+    "version": "2023.2-232.8660.185",
     "description": "IntelliJ IDEA Ultimate. Cross-Platform Java IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/idea/",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://www.jetbrains.com/store/license.html"
     },
     "changelog": "https://www.jetbrains.com/idea/whatsnew/",
-    "url": "https://download.jetbrains.com/idea/ideaIU-2023.1.5.win.zip",
-    "hash": "7341c1808d4c54b1b14542d6a83b81eb9d07dc75b6f69dcd3b3555dad71be1e2",
+    "url": "https://download.jetbrains.com/idea/ideaIU-2023.2.win.zip",
+    "hash": "41b2319ffccf08360f9a0d12d4ee9369992522cc24385c71698117b619c77f6e",
     "extract_to": "IDE",
     "pre_install": "Remove-Item \"$dir\\IDE\\`$*\" -Force -Recurse",
     "architecture": {
