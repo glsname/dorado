@@ -1,9 +1,9 @@
 {
     "homepage": "https://sunlogin.oray.com/personal/",
     "description": "支持远控、管理帐号下主机；同时支持被远控主/被控端电脑，同时安装同一个软件即可 ",
-    "version": "15.0.0.56506",
-    "url": "https://down.oray.com/sunlogin/windows/SunloginClient_15.0.0.56506_x64.exe#/SunloginClient.exe",
-    "hash": "213d5da2eb61a9e147b305f8907abe05faf241ec648513da5c62ef2bee45d13d",
+    "version": "15.0.0.56508",
+    "url": "https://down.oray.com/sunlogin/windows/SunloginClient_15.0.0.56508_x64.exe#/SunloginClient.exe",
+    "hash": "8080c505a9a1abdee98542cdb16bfac505e6f882cf7fb35b4e2ca5c65e6354ba",
     "checkver": {
         "url": "https://client-api.oray.com/softwares/SUNLOGIN_X_WINDOWS",
         "jp": "$.versionno"
