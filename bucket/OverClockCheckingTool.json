@@ -1,5 +1,5 @@
 {
-    "version": "12.0.14.99",
+    "version": "12.0.15.99",
     "description": "OverClock Checking Tool (OCCT). CPU/GPU/Power Supply testing tool",
     "homepage": "https://www.ocbase.com",
     "license": {
@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://www.ocbase.com/download#/occt.exe",
-            "hash": "02d2c13447aad83d7d0c6f5a3b7a9f68cd2703aaf918813d8a53fb5711c68328"
+            "hash": "2a67860e35ffa5f48d0db02ceca760e667919376e752d85158c8080a671078c9"
         }
     },
     "shortcuts": [
