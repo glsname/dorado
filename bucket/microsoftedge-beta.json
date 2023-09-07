@@ -1,16 +1,16 @@
 {
     "homepage": "https://www.microsoft.com/en-us/edge",
     "description": "The chromium based Microsoft Edge browser (Beta Channel)",
-    "version": "117.0.2045.12",
+    "version": "117.0.2045.21",
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://dorado-api.deno.dev/edge?arch=64&channel=beta&dl#/MicrosoftEdge-117.0.2045.12-x64.7z",
-            "hash": "8b63119bcad183f2788f62febba7d8e80b6e9ab16c5af0d675fbdec93710fd4e"
+            "url": "https://dorado-api.deno.dev/edge?arch=64&channel=beta&dl#/MicrosoftEdge-117.0.2045.21-x64.7z",
+            "hash": "c002473269af6262abec374f2ff33c961420168ee23a0a058ed0307ddd36629a"
         },
         "32bit": {
-            "url": "https://dorado-api.deno.dev/edge?arch=86&channel=beta&dl#/MicrosoftEdge-117.0.2045.12-x86.7z",
-            "hash": "0a2cfb92f8782304372514c32d3ea9834cc5e06bdeb05c8954ffc2718330539f"
+            "url": "https://dorado-api.deno.dev/edge?arch=86&channel=beta&dl#/MicrosoftEdge-117.0.2045.21-x86.7z",
+            "hash": "a8d04710a098f3f2345bb8ea90a821c123d48df9beea4e65297b511e65e4e42d"
         }
     },
     "installer": {
