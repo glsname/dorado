@@ -1,16 +1,16 @@
 {
     "homepage": "https://www.microsoft.com/en-us/edge",
     "description": "The chromium based Microsoft Edge browser",
-    "version": "116.0.1938.69",
+    "version": "116.0.1938.76",
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://dorado-api.deno.dev/edge?arch=64&channel=stable&dl#/MicrosoftEdge-116.0.1938.69-x64.7z",
-            "hash": "6d9057bc7f9ea46ffc799c0531e29744cd7110986db64792d925fcdb9763ca14"
+            "url": "https://dorado-api.deno.dev/edge?arch=64&channel=stable&dl#/MicrosoftEdge-116.0.1938.76-x64.7z",
+            "hash": "705d9dc50be42cda594a33091cac79ebc523b275591d4c418e7ec5475f9374be"
         },
         "32bit": {
-            "url": "https://dorado-api.deno.dev/edge?arch=86&channel=stable&dl#/MicrosoftEdge-116.0.1938.69-x86.7z",
-            "hash": "02e199970d14d87698124a94c08bfe1c3d130ab40adcfd2b800ea159e3d5ee37"
+            "url": "https://dorado-api.deno.dev/edge?arch=86&channel=stable&dl#/MicrosoftEdge-116.0.1938.76-x86.7z",
+            "hash": "9db84fa575bbdb48847ba5588bbb3d48994fd5f6ab737252d7fb0c5b8daba63d"
         }
     },
     "installer": {
