@@ -1,5 +1,5 @@
 {
-    "version": "1.4",
+    "version": "1.5",
     "description": "Sordum's Simple VHD Manager",
     "homepage": "https://www.sordum.org/8705/",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/simple-vhd-manager/vhd.zip",
-    "hash": "58e53bfd8ff7abb9ec4d64e22bff89221c1ead89880166f51f46d47c57e9b3b2",
-    "extract_dir": "VHD_manager_v1.4",
+    "hash": "63e1380a930bf3bb2ad08ab38c3596e0cb9f9199f8fe840b70304f35d9749ed9",
+    "extract_dir": "VHD_manager_v1.5",
     "architecture": {
         "64bit": {
             "bin": [
