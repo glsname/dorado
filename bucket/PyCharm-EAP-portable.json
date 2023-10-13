@@ -1,5 +1,5 @@
 {
-    "version": "2023.3-233.9102.128",
+    "version": "2023.3-233.9802.6",
     "description": "PyCharm Community Early Access Program. Cross-Platform Python IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/pycharm/",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://sales.jetbrains.com/hc/en-gb/articles/115001015290-Where-can-I-find-the-EULA-End-User-License-Agreement-"
     },
     "url": [
-        "https://download.jetbrains.com/python/pycharm-community-233.9102.128.exe#/cosi.7z",
+        "https://download.jetbrains.com/python/pycharm-community-233.9802.6.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "521374c6b2d092fd0bae68280797122dedb931a4c574ceb2f357025c6cb0d8c2",
+        "cfc4a1ea995bc15777b214d15cab15f2201ac8d086931a74f3c6c12ada81cda5",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
