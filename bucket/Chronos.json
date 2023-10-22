@@ -1,16 +1,16 @@
 {
-    "version": "6.0.2",
+    "version": "6.0.3",
     "description": "Chronos Timetracker. Desktop client for JIRA",
     "homepage": "https://chronos.web-pal.com",
     "license": {
         "identifier": "MIT",
         "url": "https://github.com/web-pal/chronos-timetracker/blob/master/LICENSE.md"
     },
-    "changelog": "https://github.com/web-pal/chronos-timetracker/releases/tag/v6.0.2",
+    "changelog": "https://github.com/web-pal/chronos-timetracker/releases/tag/v6.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/web-pal/chronos-timetracker/releases/download/v6.0.2/Chronos-Setup-6.0.2.exe",
-            "hash": "sha512:488edb8d48e02449a7eef9f1611a0081b6915179c2c9f3e36e691ce36f020e34ca6e9b57aa9e3f53d07a47995ce1e1d225aa6d8bc6535dcecff7f1d79fb88088",
+            "url": "https://github.com/web-pal/chronos-timetracker/releases/download/v6.0.3/Chronos-Setup-6.0.3.exe",
+            "hash": "sha512:fbb1bf3c7dd530220272f9110a6ebd90778b5e42ac93188adb19d998dd0df4281607a63f2cbe80ab6e0f1ef95e1df96282ce7a4b3973b63f3bac730710f3b517",
             "pre_install": [
                 "try { Get-Command 'Test-Persistence' -ErrorAction 'Stop' | Out-Null } catch { error 'Shovel flavour of scoop is required'; exit 258 }",
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" $dir",
