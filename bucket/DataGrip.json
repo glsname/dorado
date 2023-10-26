@@ -1,5 +1,5 @@
 {
-    "version": "2023.2.2-232.10072.15",
+    "version": "2023.2.3-232.10203.8",
     "description": "DataGrip. Cross-Platform IDE for Databases & SQL by JetBrains.",
     "homepage": "https://www.jetbrains.com/datagrip/",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://www.jetbrains.com/store/license.html"
     },
     "changelog": "https://www.jetbrains.com/datagrip/whatsnew/",
-    "url": "https://download.jetbrains.com/datagrip/datagrip-2023.2.2.exe#/cosi.7z",
-    "hash": "1452af7f1cb3d0c9390bc15c801165ea74eca9dfb248e143b12f4a1e9653235a",
+    "url": "https://download.jetbrains.com/datagrip/datagrip-2023.2.3.exe#/cosi.7z",
+    "hash": "1a05eee1ab073327fb380ed7e94a94e14f35cdebbf19d252d4fa838a14e9601f",
     "extract_to": "IDE",
     "pre_install": "Remove-Item \"$dir\\IDE\\`$*\" -Force -Recurse",
     "architecture": {
