@@ -1,16 +1,16 @@
 {
-    "version": "0.76.0",
+    "version": "0.78.0",
     "description": "A source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA",
     "homepage": "http://uncrustify.sourceforge.net",
     "license": "LGPL-2.1-only",
     "architecture": {
         "64bit": {
-            "url": "https://downloads.sourceforge.net/project/uncrustify/uncrustify-0.76.0/uncrustify-0.76.0_f-win64.zip",
-            "hash": "sha1:37d3a800166848b951169268d086d2ec7a70b656"
+            "url": "https://downloads.sourceforge.net/project/uncrustify/uncrustify-0.78.0/uncrustify-0.78.0_f-win64.zip",
+            "hash": "sha1:c6eed177214b5872b2190c58bf171a9a87c33ac4"
         },
         "32bit": {
-            "url": "https://downloads.sourceforge.net/project/uncrustify/uncrustify-0.76.0/uncrustify-0.76.0_f-win32.zip",
-            "hash": "sha1:b33f5284033a937f090b19a0cbd9d051eba31d9c"
+            "url": "https://downloads.sourceforge.net/project/uncrustify/uncrustify-0.78.0/uncrustify-0.78.0_f-win32.zip",
+            "hash": "sha1:aa6803f23825d0b0a998f2469380871c807d9b2d"
         }
     },
     "bin": "bin\\uncrustify.exe",
