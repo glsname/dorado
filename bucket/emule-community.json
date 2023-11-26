@@ -1,11 +1,11 @@
 {
-    "version": "0.60d",
+    "version": "0.70a",
     "description": "One of the biggest and most reliable peer-to-peer file sharing clients around the world.",
     "homepage": "https://www.emule-project.net/",
     "license": "GPL-2.0-or-later",
-    "url": "https://www.emule-project.net/files/emule/eMule0.60d.zip",
-    "hash": "a39b6b111ba3b535a407835a1c31a6421ef97e59b9e9b64a7ce455b3acf18b68",
-    "extract_dir": "eMule0.60d",
+    "url": "https://www.emule-project.net/files/emule/eMule0.70a.zip",
+    "hash": "2f8b55e1becd3a62a110c0b10535ca0938a2059a39ab46dd09dc141dcae40c78",
+    "extract_dir": "eMule0.70a",
     "bin": "emule.exe",
     "shortcuts": [
         [
