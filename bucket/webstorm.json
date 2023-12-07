@@ -1,13 +1,13 @@
 {
-    "version": "2023.2.5",
+    "version": "2023.3",
     "description": "A lightweight and intelligent IDE for front-end development and server-side JavaScript.",
     "homepage": "https://www.jetbrains.com/webstorm/",
     "license": {
         "identifier": "Shareware",
         "url": "https://www.jetbrains.com/legal/agreements/user.html"
     },
-    "url": "https://download.jetbrains.com/webstorm/WebStorm-2023.2.5.exe#/dl.7z",
-    "hash": "02fa1a1944aa7253bf6dec17baecae002c05dd3bc2da1ffd1719b860643f164c",
+    "url": "https://download.jetbrains.com/webstorm/WebStorm-2023.3.exe#/dl.7z",
+    "hash": "db94ebf5f4abf8eae9586bf348a37fc205d8aa367a5b3a52f7c903222cb7d91d",
     "architecture": {
         "64bit": {
             "bin": [
