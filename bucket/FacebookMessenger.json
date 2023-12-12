@@ -1,12 +1,12 @@
 {
-    "version": "200.24.217",
+    "version": "201.9.336",
     "description": "Facebook Messenger Desktop",
     "homepage": "https://www.messenger.com/desktop",
     "license": "Unknown",
     "architecture": {
         "64bit": {
             "url": "https://www.messenger.com/messenger/desktop/downloadV2/?platform=win#/cosi.7z",
-            "hash": "d155426e784cc8bb4bf39fa17d8814ea2c7a774befa344354595126711b2af15",
+            "hash": "cb9e76e658c646a85ca1106cce10eaff5cdbd9b418c7932ec495676a13893f62",
             "pre_install": [
                 "try { Get-Command 'Test-Persistence' -ErrorAction 'Stop' | Out-Null } catch { error 'Shovel flavour of scoop is required'; exit 258 }",
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" $dir",
