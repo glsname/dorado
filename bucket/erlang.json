@@ -1,5 +1,5 @@
 {
-    "version": "25.3.2.7",
+    "version": "26.2",
     "description": "A programming language used to build massively scalable soft real-time systems with requirements on high availability.",
     "homepage": "https://www.erlang.org",
     "license": "Apache-2.0",
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://erlang.org/download/otp_win64_25.3.2.7.exe#/dl.7z",
-            "hash": "72c8dbbbffb0f25459584f71f380541c4895efcdcbf1343ca7bc07a7697225bb"
+            "url": "https://erlang.org/download/otp_win64_26.2.exe#/dl.7z",
+            "hash": "29570d87e08dcb5ab125284ece78bfbd37331b49ceadc56985984d825b7f515f"
         },
         "32bit": {
-            "url": "https://erlang.org/download/otp_win32_25.3.2.7.exe#/dl.7z",
-            "hash": "d2be121c18f04fc6bdb135f361e59db8c71f0b25a6ac114978c3a715c5d72132"
+            "url": "https://erlang.org/download/otp_win32_26.2.exe#/dl.7z",
+            "hash": "968f2f0525f17abcb7fc92647025acd3ede5668ab0cbc215008eab240c46b1ef"
         }
     },
     "installer": {
