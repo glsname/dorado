@@ -1,5 +1,5 @@
 {
-    "version": "2023.3.1-233.11799.290",
+    "version": "2023.3.2-233.13135.91",
     "description": "RubyMine. Cross-Platform Ruby on Rails IDE by JetBrains.",
     "homepage": "https://www.jetbrains.com/ruby/",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://www.jetbrains.com/store/license.html"
     },
     "changelog": "https://www.jetbrains.com/ruby/whatsnew/",
-    "url": "https://download.jetbrains.com/ruby/RubyMine-2023.3.1.exe#/cosi.7z",
-    "hash": "d60aa7bda2a2e8201c900ea5ae91e1063a85f358f4fd0c8057db1a93317571ce",
+    "url": "https://download.jetbrains.com/ruby/RubyMine-2023.3.2.exe#/cosi.7z",
+    "hash": "4af00780f36a097af2593419195fec10f3d4fc21d850680c31adcf376c6fcf89",
     "extract_to": "IDE",
     "pre_install": "Remove-Item \"$dir\\IDE\\`$*\" -Force -Recurse",
     "architecture": {
