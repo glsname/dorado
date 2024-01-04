@@ -1,5 +1,5 @@
 {
-    "version": "3.3.2",
+    "version": "3.6",
     "description": "Apache Kafka. A distributed streaming platform.",
     "homepage": "https://kafka.apache.org/",
     "license": "Apache-2.0",
@@ -9,9 +9,9 @@
             "java/openjdk"
         ]
     },
-    "url": "https://www.apache.org/dist/kafka/3.3.2/kafka_2.12-3.3.2.tgz",
-    "hash": "sha1:1226ff221da7407a66ececd7f4432f2301f89a02",
-    "extract_dir": "kafka_2.12-3.3.2",
+    "url": "https://www.apache.org/dist/kafka/3.6/kafka_2.12-3.6.tgz",
+    "hash": "e59b1974c003b365ef684fe13656efe4123f6073b70dcebf872afdf42e2f55a0",
+    "extract_dir": "kafka_2.12-3.6",
     "bin": [
         "bin\\windows\\connect-distributed.bat",
         "bin\\windows\\connect-standalone.bat",
