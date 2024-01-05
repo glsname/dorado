@@ -1,18 +1,18 @@
 {
-    "version": "12.1.0",
+    "version": "13.2.0",
     "description": "AVR toolchain for Windows by Zak Kemble",
     "homepage": "https://blog.zakkemble.net/avr-gcc-builds/",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://blog.zakkemble.net/download/avr-gcc-12.1.0-x64-windows.zip",
-            "hash": "md5:183acf05589c85e1c8022b2472157e85",
-            "extract_dir": "avr-gcc-12.1.0-x64-windows"
+            "url": "https://blog.zakkemble.net/download/avr-gcc-13.2.0-x64-windows.zip",
+            "hash": "md5:c3ef0a2ba50cec62fdb6d2a383c53eed",
+            "extract_dir": "avr-gcc-13.2.0-x64-windows"
         },
         "32bit": {
-            "url": "https://blog.zakkemble.net/download/avr-gcc-12.1.0-x86-windows.zip",
-            "hash": "md5:c846daa58c4cbac0b0c72fc9d1caa288",
-            "extract_dir": "avr-gcc-12.1.0-x86-windows"
+            "url": "https://blog.zakkemble.net/download/avr-gcc-13.2.0-x86-windows.zip",
+            "hash": "6ef917a957307663b02e2875c65009f2ab277147cb1bb501dcf865d37b2a49fa",
+            "extract_dir": "avr-gcc-13.2.0-x86-windows"
         }
     },
     "bin": [
