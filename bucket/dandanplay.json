@@ -1,11 +1,11 @@
 {
     "homepage": "http://dandanplay.com/",
     "description": "A free to use bangumi player with danmaku support",
-    "version": "14.5.1",
+    "version": "14.5.2",
     "architecture": {
         "64bit": {
-            "url": "https://dandan.sakurateam.top/dandanplay-x64_14.5.1.zip",
-            "hash": "200abc00708976cd8bc30e609e5420ee4192ffd2252365ee26da69b0e47dc761",
+            "url": "https://dandan.sakurateam.top/dandanplay-x64_14.5.2.zip",
+            "hash": "9011d99e01a872a73f73b356c595bc35d84e716f7d26bda9b8ec0601371b195c",
             "extract_dir": "dandanplay-x64"
         }
     },
