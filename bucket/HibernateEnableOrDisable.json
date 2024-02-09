@@ -1,5 +1,5 @@
 {
-    "version": "1.3",
+    "version": "1.4",
     "description": "Sordum's Hibernate Enable Or Disable",
     "homepage": "https://www.sordum.org/9502/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/small-tools/Hibernate.zip",
-    "hash": "44a58143ed21b5550abb811f518ce1856aabfd338ae0e7e1034e02352f0499ef",
+    "hash": "f01868e8cc598cc3fd5b25710cb0671cf47cd27d2a568906e13c0d1870e509cd",
     "architecture": {
         "32bit": {
             "bin": "Hibernate.exe",
