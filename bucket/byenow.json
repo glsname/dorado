@@ -1,10 +1,10 @@
 {
-    "version": "0.11",
+    "version": "0.12",
     "description": "Utility for folder removal",
     "homepage": "https://iobureau.com/byenow/",
     "license": "Freeware",
-    "url": "https://iobureau.com/byenow/byenow-0.11.zip",
-    "hash": "e2d0030974182086d4df8e62675df672e3e6e70126fcfcee157eaa58634fb3d7",
+    "url": "https://iobureau.com/byenow/byenow-0.12.zip",
+    "hash": "92a842037cac050a3df9bde641bda411ec69e56535d04a92adb9035756fd9b2b",
     "architecture": {
         "64bit": {
             "extract_dir": "64-bit"
