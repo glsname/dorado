@@ -1,15 +1,15 @@
 {
     "homepage": "https://github.com/ShadowsocksR-Live/shadowsocksr-native",
     "description": "从容翻越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator",
-    "version": "0.9.3",
+    "version": "0.9.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.3/ssr-native-windows-x64.zip",
-            "hash": "20d7b4e56e79ac3a50d75c2d7ef41b53eb9aab94cf008e4d68cfe9178a2c8e29"
+            "url": "https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.4/ssr-native-windows-x64.zip",
+            "hash": "00b17a3aa92854898eb454ff057f35644343f69063bb54c49e9dd19a57bef054"
         },
         "32bit": {
-            "url": "https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.3/ssr-native-windows-x86.zip",
-            "hash": "faa187ffbc8bdb14e36dceb47f58e76b695313f2022f697b2235476f18335b0b"
+            "url": "https://github.com/ShadowsocksR-Live/shadowsocksr-native/releases/download/0.9.4/ssr-native-windows-x86.zip",
+            "hash": "800d541c21d0fa585217977ef2bdb2a3f3450ad58d72e8b3ccd2f982375cef1c"
         }
     },
     "persist": "config.json",
