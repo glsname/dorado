@@ -1,5 +1,5 @@
 {
-    "version": "2024.1.4",
+    "version": "2024.2.1",
     "description": "Command-line client to interact with Cloudflare Tunnel, Cloudflare Access, start up a DNS over HTTPS resolver and more.",
     "homepage": "https://github.com/cloudflare/cloudflared",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cloudflare/cloudflared/releases/download/2024.1.4/cloudflared-windows-amd64.exe#/cloudflared.exe",
-            "hash": "518e2f647c6be2d886d046269b7f86be4abeff77dc528184be903cde5398917e"
+            "url": "https://github.com/cloudflare/cloudflared/releases/download/2024.2.1/cloudflared-windows-amd64.exe#/cloudflared.exe",
+            "hash": "4569c869047a092032f6eac7cf0547591a03a0d750a6b104a606807ea282d608"
         },
         "32bit": {
-            "url": "https://github.com/cloudflare/cloudflared/releases/download/2024.1.4/cloudflared-windows-386.exe#/cloudflared.exe",
-            "hash": "da4016e4a627fbfb3ac5446457627a5ff211af824b913cd87c4b816e27376e13"
+            "url": "https://github.com/cloudflare/cloudflared/releases/download/2024.2.1/cloudflared-windows-386.exe#/cloudflared.exe",
+            "hash": "e748fa070908d37f3812b5c5968289369213c6afed72531452e33c4f1e95cbde"
         }
     },
     "bin": "cloudflared.exe",
