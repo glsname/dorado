@@ -1,10 +1,10 @@
 {
-    "version": "3.7",
+    "version": "3.9",
     "description": "Fast, brutalist UI on top of ripgrep.",
     "homepage": "https://github.com/vivainio/RoughGrep/",
     "license": "MIT",
-    "url": "https://github.com/vivainio/RoughGrep/releases/download/v3.7/RoughGrep-3.7.zip",
-    "hash": "53120c765552d10e38cd06461f2633f9e67435ccd64363cff150b8944512c6ca",
+    "url": "https://github.com/vivainio/RoughGrep/releases/download/v3.9/RoughGrep-3.9.zip",
+    "hash": "8e7ec2ca2dd086907510578b9fd1934f0d2675490bd70e557a9d7ae27b007159",
     "extract_dir": "RoughGrep",
     "bin": "rgg.exe",
     "shortcuts": [
