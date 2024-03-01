@@ -1,20 +1,20 @@
 {
-    "version": "4.7.14.0",
+    "version": "4.8.1.0",
     "description": "Emby. Media server for personal streaming",
     "homepage": "https://emby.media",
     "license": {
         "identifier": "GPL-2.0-only",
         "url": "https://emby.media/license.html"
     },
-    "changelog": "https://github.com/MediaBrowser/Emby.Releases/releases/tag/4.7.14.0",
+    "changelog": "https://github.com/MediaBrowser/Emby.Releases/releases/tag/4.8.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.7.14.0/embyserver-win-x64-4.7.14.0.7z",
-            "hash": "35e6b4486d379ef04e4e4a99e28a9b691718a621589f78f3545e9e9ff027da8f"
+            "url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.1.0/embyserver-win-x64-4.8.1.0.7z",
+            "hash": "51b47780fd0e7fb2ed6a5e5fc25ef3483972bb777658c59ade038edcba642f00"
         },
         "32bit": {
-            "url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.7.14.0/embyserver-win-x86-4.7.14.0.7z",
-            "hash": "d843fda3a5d360d6b5912ea49cf16897b868284a3a124cc1e8f14b6c3bb4ed7d"
+            "url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.1.0/embyserver-win-x86-4.8.1.0.7z",
+            "hash": "87eca551aaa563daa4c898639d30db09341ba0a6d0fbf3cacec29a6762a838d7"
         }
     },
     "bin": "system\\EmbyServer.exe",
