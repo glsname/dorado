@@ -1,5 +1,5 @@
 {
-    "version": "9.0.1882",
+    "version": "9.1.0145",
     "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
     "homepage": "https://www.vim.org",
     "license": "Vim",
@@ -10,18 +10,18 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/vim/vim-win32-installer/releases/download/v9.0.1882/gvim_9.0.1882_x64.zip",
+                "https://github.com/vim/vim-win32-installer/releases/download/v9.1.0145/gvim_9.1.0145_x64.zip",
                 "https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/vim/install-context.reg",
                 "https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/vim/uninstall-context.reg"
             ],
             "hash": [
-                "7c515be26d484d87f0d802410a4ec8449d0334e3f012d1672fcd83c012f754b5",
+                "a09085fdb8117ce96ff095a7e36dc11c54b7d77dde07be88b573844955f07eb8",
                 "16a29881837047d783e8556506c73bbb292bdfefe042d77564d3c166d92b9d98",
                 "49225d3470bf4b397d3cab865eddca6e47610be356f812588588c2661a11557e"
             ]
         }
     },
-    "extract_dir": "vim\\vim90",
+    "extract_dir": "vim\\vim91",
     "pre_install": [
         "Remove-Item \"$dir\\`$*\", \"$dir\\uninstal.*\", \"$dir\\install.exe\" -Recurse",
         "if (!(Test-Path \"$persist_dir\\_vimrc\")) {",
