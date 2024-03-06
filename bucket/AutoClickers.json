@@ -1,10 +1,10 @@
 {
-    "version": "2016.04.18",
+    "version": "2022.08.26",
     "description": "Auto Clickers. A full-fledged autoclicker with two modes of autoclicking, at your dynamic cursor location or at a prespecified location",
     "homepage": "https://sourceforge.net/projects/orphamielautoclicker/",
     "license": "CC-BY-NC-2.0",
     "url": "https://downloads.sourceforge.net/project/orphamielautoclicker/AutoClickers.exe",
-    "hash": "sha1:88036bf7a8956dd7f7e53ffabb6d29a7508060dc",
+    "hash": "sha1:4d1f14ac947598c4edb5377a0a7b58511b32395c",
     "shortcuts": [
         [
             "AutoClickers.exe",
