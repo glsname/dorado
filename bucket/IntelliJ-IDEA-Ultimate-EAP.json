@@ -1,13 +1,13 @@
 {
-    "version": "2024.1-241.14024.14",
+    "version": "2024.1-241.14494.17",
     "description": "IntelliJ IDEA Ultimate Early Access Program. Cross-Platform Java IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/idea/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.jetbrains.com/legal/agreements/user_eap.html"
     },
-    "url": "https://download.jetbrains.com/idea/ideaIU-241.14024.14.win.zip",
-    "hash": "7d35faebab30284fbb1acb257f68191f70006f5d0e142451edcb70ae06ca9439",
+    "url": "https://download.jetbrains.com/idea/ideaIU-241.14494.17.win.zip",
+    "hash": "ac381ebbb37a5caf452c73fc4c65f5108e9ce57fad12adf1a4d5134198a7e98c",
     "extract_to": "IDE",
     "pre_install": "Remove-Item \"$dir\\IDE\\`$*\" -Force -Recurse",
     "architecture": {
