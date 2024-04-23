@@ -1,5 +1,5 @@
 {
-    "version": "7.94",
+    "version": "7.95",
     "description": "Network exploration and security auditing utility. (includes Npcap)",
     "homepage": "https://nmap.org",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://github.com/nmap/nmap/blob/master/COPYING"
     },
     "notes": "'Npcap' has been installed automatically.",
-    "url": "https://nmap.org/dist/nmap-7.94-setup.exe",
-    "hash": "b99c4535e1603a2150e4dd97933b69bfddf23e8cceff5c36606ec0327c6f7193",
+    "url": "https://nmap.org/dist/nmap-7.95-setup.exe",
+    "hash": "c59b51d15b5965f27db4c5bbd21793ad6b492c8c751836ba8bd43829d791146e",
     "installer": {
         "args": [
             "/S",
