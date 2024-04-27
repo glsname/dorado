@@ -1,5 +1,5 @@
 {
-    "version": "11.61",
+    "version": "11.62.1",
     "description": "A quad window file manager based on Windows File Explorer",
     "homepage": "https://www.softwareok.com/?seite=Freeware/Q-Dir",
     "license": {
@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://www.softwareok.com/Download/Q-Dir_Portable_x64.zip",
-            "hash": "d118f3df771d4e3ee845956e8b6173b0b1c7851e26f7e2c24cdd018e889562ed",
+            "hash": "3819bdb432779705b6632c20001a6b6a0cddaab5682d848c0b50e8b793b489a3",
             "bin": [
                 [
                     "Q-Dir_x64.exe",
@@ -25,7 +25,7 @@
         },
         "32bit": {
             "url": "https://www.softwareok.com/Download/Q-Dir_Portable.zip",
-            "hash": "8ff3d741b32ef8ecaa154db2e4cda2b3ab1145950aab0cc296f4d8d38db6595d",
+            "hash": "6564795c3a0872e65f6d8bc66624a2241e18cb051d561b8fa0d981cd05b0ea05",
             "bin": "Q-Dir.exe",
             "shortcuts": [
                 [
