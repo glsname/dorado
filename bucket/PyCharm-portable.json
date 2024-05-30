@@ -1,5 +1,5 @@
 {
-    "version": "2024.1.1-241.15989.155",
+    "version": "2024.1.2-241.17011.127",
     "description": "PyCharm Community. Cross-Platform Python IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/pycharm/",
     "license": {
@@ -8,11 +8,11 @@
     },
     "changelog": "https://www.jetbrains.com/pycharm/whatsnew/",
     "url": [
-        "https://download.jetbrains.com/python/pycharm-community-2024.1.1.exe#/cosi.7z",
+        "https://download.jetbrains.com/python/pycharm-community-2024.1.2.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "263e166d017c27d4562c225e49f938e3883f2cc1a35099cfa0810da48ad706d3",
+        "ff2d36b9dce2e9635f6fc518a643cef652286714550606f706894fcd085b334a",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
