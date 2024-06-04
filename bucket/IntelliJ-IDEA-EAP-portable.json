@@ -1,5 +1,5 @@
 {
-    "version": "2024.2-242.12881.66",
+    "version": "2024.2-242.14146.16",
     "description": "IntelliJ IDEA Community Early Access Program. Cross-Platform Java IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/idea/",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://sales.jetbrains.com/hc/en-gb/articles/115001015290-Where-can-I-find-the-EULA-End-User-License-Agreement-"
     },
     "url": [
-        "https://download.jetbrains.com/idea/ideaIC-242.12881.66.win.zip",
+        "https://download.jetbrains.com/idea/ideaIC-242.14146.16.win.zip",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "ee9e373249f223eefbb756cadce099f63cbbaf85fffadc91d8b1b6f11a92dc3a",
+        "4723e5d4d09da71314646b95e91a165b657c4ab2166ce89ae53c1448db535d19",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
