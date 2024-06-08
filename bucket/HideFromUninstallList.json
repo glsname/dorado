@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "description": "Sordum's Hide From Uninstall List",
     "homepage": "https://www.sordum.org/11081/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/hide-from-uninstall-list/HideUL.zip",
-    "hash": "2e5921c77af55dc5e86bd5d19c22a41fb98dd64d27126ea2b8843e2c327bc34f",
+    "hash": "34974e3de8224d01eecdc8aba8bc3964891d77c19b521c35aebcb0b8637669bf",
     "extract_dir": "HideUL",
     "shortcuts": [
         [
