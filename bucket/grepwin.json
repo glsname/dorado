@@ -1,5 +1,5 @@
 {
-    "version": "2.1.2",
+    "version": "2.1.3",
     "description": "Regular expression search and replace tool for Windows.",
     "homepage": "https://tools.stefankueng.com/grepWin.html",
     "license": "GPL-3.0-only",
@@ -7,12 +7,12 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/stefankueng/grepWin/releases/download/2.1.2/grepWin-x64-2.1.2_portable.zip",
+                "https://github.com/stefankueng/grepWin/releases/download/2.1.3/grepWin-x64-2.1.3_portable.zip",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/grepwin/install-context.reg",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/grepwin/uninstall-context.reg"
             ],
             "hash": [
-                "682937c24206ea470dac44dabeb80a160e388f86ae7b7806d64b119e0141b53a",
+                "9e9da966eb6f6d14ec9c4a349c0752bc39274817855a558be8970f37fb64fda3",
                 "76f0765033f107a2ac8216903b95bd603e2b38caa65b81a7e1307302a17b91dc",
                 "b75f5e44cf46d806b4027a44cb7c99bf33e69fe1aa592ee32dcc162b0b8792f2"
             ],
@@ -20,12 +20,12 @@
         },
         "32bit": {
             "url": [
-                "https://github.com/stefankueng/grepWin/releases/download/2.1.2/grepWin-2.1.2_portable.zip",
+                "https://github.com/stefankueng/grepWin/releases/download/2.1.3/grepWin-2.1.3_portable.zip",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/grepwin/install-context.reg",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/grepwin/uninstall-context.reg"
             ],
             "hash": [
-                "92d5ee1e4117a04f3d6c688cff75c7fae112916c376d72e99b5658c515131b18",
+                "cb7eaaf485ec1043ec47c5c504dc16e87c62e626f2c5dd338effa81c3f44c91a",
                 "76f0765033f107a2ac8216903b95bd603e2b38caa65b81a7e1307302a17b91dc",
                 "b75f5e44cf46d806b4027a44cb7c99bf33e69fe1aa592ee32dcc162b0b8792f2"
             ],
