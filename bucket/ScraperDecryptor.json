@@ -1,10 +1,10 @@
 {
-    "version": "1.0.0.4",
+    "version": "1.0.1.0",
     "description": "Kaspersky's ScraperDecryptor. Decrypt files affected by the 'Trojan-Ransom.Win32.Scraper' malicious program.",
     "homepage": "https://support.kaspersky.com/11718",
     "license": "Freeware",
     "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/scraperdecryptor.exe",
-    "hash": "8b54abe3bad56d1affc700709bda6e60919ffe977ff2bb13af749647e6b676c3",
+    "hash": "cca53b0f25ef650ce4159af82f323b43d9fccf2a092cf29ae49efe8f6e1b36c9",
     "bin": "scraperdecryptor.exe",
     "shortcuts": [
         [
