@@ -1,10 +1,10 @@
 {
-    "version": "1.0.0.6",
+    "version": "1.0.1.0",
     "description": "Kaspersky's CoinVaultDecryptor. Decrypt files encrypted by 'Trojan-Ransom.MSIL.CoinVault'.",
     "homepage": "https://support.kaspersky.com/13331",
     "license": "Freeware",
     "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/CoinVaultDecryptor.zip",
-    "hash": "2a122313272cd88cc64600efa45ed85f261c114ab58d04b2f7ba125f3b50171e",
+    "hash": "56587ebd92dea4533106b75768b8490fbafbc3d2b83b66e5a3ee00c55526688b",
     "bin": "CoinVaultDecryptor.exe",
     "shortcuts": [
         [
