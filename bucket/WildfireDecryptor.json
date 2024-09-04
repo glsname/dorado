@@ -1,10 +1,10 @@
 {
-    "version": "1.0.0.4",
+    "version": "1.0.1.0",
     "description": "Kaspersky's WildfireDecryptor. Decrypt .wflx files encrypted with 'Wildfire Locker'.",
     "homepage": "https://support.kaspersky.com/13107",
     "license": "Freeware",
     "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/WildfireDecryptor.zip",
-    "hash": "4dfb316dcab982e57e8e60be3bc18434e96ec57346026c11aece7a14236b5c06",
+    "hash": "536113342587f3acd5700e7b15a2ea0ce50cc24f894b4031d504a5e53f139c4f",
     "bin": "WildfireDecryptor.exe",
     "shortcuts": [
         [
