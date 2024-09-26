@@ -1,5 +1,5 @@
 {
-    "version": "2024.2.2-242.22855.74",
+    "version": "2024.2.3-242.23339.11",
     "description": "IntelliJ IDEA Community. Cross-Platform Java IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/idea/",
     "license": {
@@ -8,11 +8,11 @@
     },
     "changelog": "https://www.jetbrains.com/idea/whatsnew/",
     "url": [
-        "https://download.jetbrains.com/idea/ideaIC-2024.2.2.win.zip",
+        "https://download.jetbrains.com/idea/ideaIC-2024.2.3.win.zip",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "d07a651699cacb08fbdda6232d10d19f5ec3407439a75353e2a76a6bb753d280",
+        "60aa319f3cb0e86ce615c6e80b99179f947de1ceb034abf855e9d49e2ca89ec5",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
