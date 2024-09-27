@@ -1,14 +1,14 @@
 {
     "##": "Using cdn06.foxitsoftware.com for better speed worldwide. (redirects to cdn06.foxitsoftware.com.cdn.cloudflare.net)",
-    "version": "2024.2.0.25138",
+    "version": "2024.3.0.26795",
     "description": "Fast and feature rich PDF reader that offers a delightful reading experience.",
     "homepage": "https://www.foxit.com/pdf-reader/",
     "license": {
         "identifier": "Freeware",
         "url": "https://www.foxit.com/pdf-editor/eula.html"
     },
-    "url": "https://cdn06.foxitsoftware.com/product/reader/desktop/win/2024.2.0/FoxitPDFReader20242_enu_Setup.msi",
-    "hash": "294e39db75d9112ccd7fa7cd8e8ebb2d073098a1850c9d26ee76ebb993b1c95f",
+    "url": "https://cdn06.foxitsoftware.com/product/reader/desktop/win/2024.3.0/FoxitPDFReader20243_enu_Setup.msi",
+    "hash": "e9f2c8ecb30e9819164b4db1fe88e2821151a677d3274dd5d4e6dbda4cb535bd",
     "pre_install": [
         "Copy-Item \"$dir\\Foxit Software\\Foxit PDF Reader\\*\" \"$dir\" -Force -Recurse | Out-Null",
         "Remove-Item \"$dir\\Foxit Software\" -Force -Recurse | Out-Null"
