@@ -1,5 +1,5 @@
 {
-    "version": "2024.3-243.19420.33",
+    "version": "2024.3-243.20847.35",
     "description": "RubyMine Early Access Program. Cross-Platform Ruby on Rails IDE by JetBrains.",
     "homepage": "https://www.jetbrains.com/ruby/",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://www.jetbrains.com/legal/agreements/user_eap.html"
     },
     "url": [
-        "https://download.jetbrains.com/ruby/RubyMine-243.19420.33.exe#/cosi.7z",
+        "https://download.jetbrains.com/ruby/RubyMine-243.20847.35.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "abf97f3fc36e2c05404951c5ec4ced547f376b6f4f0c2637ba7419c07d5a7823",
+        "21e0bdc13e57e7521057b056708923f77f6488cff54a947cc65bf27776a8f06b",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
