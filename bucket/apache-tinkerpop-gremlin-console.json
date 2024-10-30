@@ -1,11 +1,11 @@
 {
-    "version": "3.5.8",
+    "version": "3.6.8",
     "description": "A REPL environment for interactive development and analysis of Gremlin applications.",
     "homepage": "https://tinkerpop.apache.org",
     "license": "Apache-2.0",
-    "url": "https://www.apache.org/dist/tinkerpop/3.5.8/apache-tinkerpop-gremlin-console-3.5.8-bin.zip",
-    "hash": "sha512:4f47183d515324cbef7887d47e7cdd0a7024adb7fd415b5c147beb5ddb1f3544ee307b0ab2ff5e342466bd983b5c0c7e41d877b4b1bc185157c77f5dd6a76639",
-    "extract_dir": "apache-tinkerpop-gremlin-console-3.5.8",
+    "url": "https://www.apache.org/dist/tinkerpop/3.6.8/apache-tinkerpop-gremlin-console-3.6.8-bin.zip",
+    "hash": "sha512:516fe50428b2e72ed96069e707b6efb29a1bf9f9d474d0476a4af64470cee6673d6e751f1dc7a0725364e0f16a3bdd1268a7156d03090e7cf33aedb384eebf83",
+    "extract_dir": "apache-tinkerpop-gremlin-console-3.6.8",
     "bin": "bin\\gremlin.bat",
     "checkver": {
         "url": "https://www.apache.org/dist/tinkerpop/",
