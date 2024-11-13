@@ -1,12 +1,12 @@
 {
-    "version": "4.0.1",
+    "version": "4.1.0",
     "description": "Self-hosted newsletter and mailing list manager",
     "homepage": "https://listmonk.app",
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/knadh/listmonk/releases/download/v4.0.1/listmonk_4.0.1_windows_amd64.tar.gz",
-            "hash": "2d50cc53ee057d4747dbafc9bebb65acfa3fd94cea35746288cff64d51802067"
+            "url": "https://github.com/knadh/listmonk/releases/download/v4.1.0/listmonk_4.1.0_windows_amd64.tar.gz",
+            "hash": "a5d8168aa1f2655fa7218dc553759cbfa25da0d057ef59fa16190d2a0aef5e9a"
         }
     },
     "bin": "listmonk.exe",
