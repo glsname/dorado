@@ -1,13 +1,13 @@
 {
-    "version": "0.1.30995",
+    "version": "0.1.31151",
     "description": "Set of CircleCI’s advanced and powerful tools.",
     "homepage": "https://circleci-public.github.io/circleci-cli/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v0.1.30995/circleci-cli_0.1.30995_windows_amd64.zip",
-            "hash": "2aaa5519e60dcc334567921ca3cbf017de2e7603d7eabe75887cbff3383887fd",
-            "extract_dir": "circleci-cli_0.1.30995_windows_amd64"
+            "url": "https://github.com/CircleCI-Public/circleci-cli/releases/download/v0.1.31151/circleci-cli_0.1.31151_windows_amd64.zip",
+            "hash": "8707fc967d14d0d9917fe137bb0e0db355725c0b32bc1643cb5d115e1093d119",
+            "extract_dir": "circleci-cli_0.1.31151_windows_amd64"
         }
     },
     "bin": "circleci.exe",
