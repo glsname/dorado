@@ -1,15 +1,15 @@
 {
-    "version": "1.22.2912.0",
+    "version": "1.22.3232.0",
     "description": "The new Windows Terminal, and the original Windows console host - all in the same place!",
     "homepage": "https://github.com/microsoft/terminal",
     "license": "MIT",
-    "changelog": "https://github.com/microsoft/terminal/releases/tag/v1.22.2912.0",
+    "changelog": "https://github.com/microsoft/terminal/releases/tag/v1.22.3232.0",
     "suggest": {
         "vcredist": "extras/vcredist2019"
     },
     "pre_download": "Assert-WindowsMinimalVersion '10.0.18362'",
-    "url": "https://github.com/microsoft/terminal/releases/download/v1.22.2912.0/Microsoft.WindowsTerminalPreview_1.22.2912.0_8wekyb3d8bbwe.msixbundle#/dl.7z",
-    "hash": "49f2be2b2fcde2d2726497616b82fe17cb2bed1a1073582f1eb851543b3eb5b8",
+    "url": "https://github.com/microsoft/terminal/releases/download/v1.22.3232.0/Microsoft.WindowsTerminalPreview_1.22.3232.0_8wekyb3d8bbwe.msixbundle#/dl.7z",
+    "hash": "f6e8d8286715a684086280f27dec1dd0192517a4b6f090922ccb59568db725d4",
     "architecture": {
         "64bit": {
             "pre_install": "Get-ChildItem $dir -Exclude '*x64.msix' | Remove-Item -Force -Recurse"
