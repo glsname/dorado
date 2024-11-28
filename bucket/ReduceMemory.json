@@ -1,5 +1,5 @@
 {
-    "version": "1.6",
+    "version": "1.7",
     "description": "Sordum's Reduce Memory",
     "homepage": "https://www.sordum.org/9197/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/small-tools/ReduceMemory.zip",
-    "hash": "53f25737fdf62bf703845a2bfe97186b81b958d3ff4b3e2d80c42ccd3dc9b00e",
+    "hash": "f68422e475927f6ee3b310cd5fb2ab3cbd12adb0b5e8f2d0fac4d9be19bc794d",
     "extract_dir": "ReduceMemory",
     "architecture": {
         "64bit": {
