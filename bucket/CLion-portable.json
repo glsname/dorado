@@ -1,5 +1,5 @@
 {
-    "version": "2024.3.1.1-243.22562.225",
+    "version": "2024.3.2-243.23654.114",
     "description": "CLion. Cross-Platform IDE for C and C++ by JetBrains.",
     "homepage": "https://www.jetbrains.com/cpp/",
     "license": {
@@ -10,11 +10,11 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://download.jetbrains.com/cpp/CLion-2024.3.1.win.zip",
+                "https://download.jetbrains.com/cpp/CLion-2024.3.2.win.zip",
                 "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
             ],
             "hash": [
-                "f866fae906ee0725d739d018f78dcd686c148812ad2fb4b8e40ef04396bd9176",
+                "e1eb8ec8fc98bbd9b78ee495f81f26963f2eda8b72a718143d54b1900d3e7fcc",
                 "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
             ],
             "bin": [
