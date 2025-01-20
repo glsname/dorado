@@ -1,10 +1,10 @@
 {
-    "version": "7.6.2",
+    "version": "7.6.3",
     "description": "ImBatch. Multithreaded image processing tool",
     "homepage": "http://www.highmotionsoftware.com/products/imbatch",
     "license": "Freeware",
     "url": "http://www.highmotionsoftware.com/download/ImBatch/file/setup-imbatch-latest.exe",
-    "hash": "9182f09454566abdf5d4bf2f9c1a817d88555dcdfe4d5c1c20b3e4d4bdfa699b",
+    "hash": "14bbc1e6afdc3de0d40b357ca673d7848a39cdaf77341aaa70b47b219bdbaea3",
     "innosetup": true,
     "pre_install": [
         "try { Get-Command 'Test-Persistence' -ErrorAction 'Stop' | Out-Null } catch { error 'Shovel flavour of scoop is required'; exit 258 }",
