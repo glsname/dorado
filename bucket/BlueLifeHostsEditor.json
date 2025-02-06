@@ -1,5 +1,5 @@
 {
-    "version": "1.5",
+    "version": "1.6",
     "description": "Sordum's BlueLife Hosts Editor. Hosts file editor",
     "homepage": "https://www.sordum.org/8266/",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/bluelife-host-editor/bl_hst_edit.zip",
-    "hash": "228f4a200025d5007d020b178d92ca3c5fa410eacd023b48521551ab59f420a9",
-    "extract_dir": "HostsEditor_v1.5",
+    "hash": "34ae8f1a812c9d0227d6d92a27ca11557a5072d2a0239fe1a31e9ccbf7b5216a",
+    "extract_dir": "HostsEditor_v1.6",
     "architecture": {
         "64bit": {
             "bin": [
