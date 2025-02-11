@@ -1,5 +1,5 @@
 {
-    "version": "2024.3-243.21565.48",
+    "version": "2025.1-251.20015.44",
     "description": "DataGrip Early Access Program. Cross-Platform IDE for Databases & SQL by JetBrains.",
     "homepage": "https://www.jetbrains.com/datagrip/",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://www.jetbrains.com/legal/agreements/user_eap.html"
     },
     "url": [
-        "https://download.jetbrains.com/datagrip/datagrip-243.21565.48.exe#/cosi.7z",
+        "https://download.jetbrains.com/datagrip/datagrip-251.20015.44.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "5eceaab1f5cb502fadf7fd72a8bf5c52b8755d792d46f22d911dbb78993ed293",
+        "84acfa59202e6c5a49064b178b6a0bf06023d156eb17c829bfbefb52cae44559",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
