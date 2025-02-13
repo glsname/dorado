@@ -1,12 +1,12 @@
 {
-    "version": "2.52.1",
+    "version": "2.52.2",
     "description": "A mock code autogenerator for Golang",
     "homepage": "https://github.com/vektra/mockery",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vektra/mockery/releases/download/v2.52.1/mockery_2.52.1_Windows_x86_64.tar.gz",
-            "hash": "edc3d0fef7600b17ff5d331f5026e745bdb64d2d6e206568c0e169eb51a777fe"
+            "url": "https://github.com/vektra/mockery/releases/download/v2.52.2/mockery_2.52.2_Windows_x86_64.tar.gz",
+            "hash": "a21de701b856415c946f59564f3cb965bc26487381cfa410e79fd57596601928"
         }
     },
     "bin": "mockery.exe",
