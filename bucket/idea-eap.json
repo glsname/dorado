@@ -1,10 +1,10 @@
 {
-    "version": "251.23536.34",
+    "version": "251.23774.16",
     "description": "Early Access Program for IntelliJ IDEA Community Edition",
     "homepage": "https://www.jetbrains.com/idea/",
     "license": "Apache-2.0",
-    "url": "https://download.jetbrains.com/idea/ideaIC-251.23536.34.win.zip",
-    "hash": "8150a1f7429a892bd9710f0c767421db229957ff8a5c594480976e83eac60470",
+    "url": "https://download.jetbrains.com/idea/ideaIC-251.23774.16.win.zip",
+    "hash": "186e08b9502f4bc85f61464a654d600e77dead8665975121ec3ddb2bcd705522",
     "architecture": {
         "64bit": {
             "bin": "bin\\idea64.exe",
