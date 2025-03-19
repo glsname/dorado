@@ -1,5 +1,5 @@
 {
-    "version": "2024.3.4.1-243.25659.59",
+    "version": "2024.3.5-243.26053.27",
     "description": "IntelliJ IDEA Ultimate. Cross-Platform Java IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/idea/",
     "license": {
@@ -8,11 +8,11 @@
     },
     "changelog": "https://www.jetbrains.com/idea/whatsnew/",
     "url": [
-        "https://download.jetbrains.com/idea/ideaIU-2024.3.4.win.zip",
+        "https://download.jetbrains.com/idea/ideaIU-2024.3.5.win.zip",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "50f4a6d2e20862a9e5a2394b29398fe6315a877001c0f50a3c9acddc8834a5ec",
+        "f84aea915a426ea9d9c6d6af3ac32f2364f75f2b867650749391e0faea9ff835",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
