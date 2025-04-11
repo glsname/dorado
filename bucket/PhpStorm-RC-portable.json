@@ -1,5 +1,5 @@
 {
-    "version": "2024.3.1-243.22562.74",
+    "version": "2025.1-251.23774.350",
     "description": "PhpStorm Release Candidate. Cross-Platform, Lightning-Smart IDE for PHP programming by JetBrains.",
     "homepage": "https://www.jetbrains.com/phpstorm/",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://www.jetbrains.com/store/license.html"
     },
     "url": [
-        "https://download.jetbrains.com/webide/PhpStorm-243.22562.74.exe#/cosi.7z",
+        "https://download.jetbrains.com/webide/PhpStorm-251.23774.350.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "24bb5c050dccca3f9237845c015cb9486a3212f14c08c325b7119871fba57831",
+        "19e3bb9fa682f3c3e656402ea5259a601c5de33a73e6f9e7077691d6193b8772",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
