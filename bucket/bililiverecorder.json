@@ -2,9 +2,9 @@
     "homepage": "https://github.com/Bililive/BililiveRecorder",
     "description": "BiliBili Stream Recorder",
     "license": "GPL-3.0-only",
-    "version": "2.15.1",
-    "url": "https://github.com/Bililive/BililiveRecorder/releases/download/v2.15.1/BililiveRecorder-WPF-Portable.zip",
-    "hash": "c8f44abd4c0330d6e3843529555adfc7b263e9d7762180c512015b9b74ca5df6",
+    "version": "2.16.0",
+    "url": "https://github.com/Bililive/BililiveRecorder/releases/download/v2.16.0/BililiveRecorder-WPF-Portable.zip",
+    "hash": "0945ec44d2186257e74cc5cfe564e830e88c1da0d79093f6b9c66eb31ac8e7fb",
     "shortcuts": [
         [
             "BililiveRecorder.WPF.exe",
