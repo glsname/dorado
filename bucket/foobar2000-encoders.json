@@ -1,5 +1,5 @@
 {
-    "version": "2025-04-04",
+    "version": "2025-05-07",
     "description": "This pack includes every natively supported free encoder binary for use with the Converter foobar2000 component.",
     "homepage": "https://www.foobar2000.org/encoderpack",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://www.foobar2000.org/license"
     },
     "depends": "extras/foobar2000",
-    "url": "https://www.videohelp.com/download/Free_Encoder_Pack-2025-04-04.exe#/dl.7z",
-    "hash": "16438060b9c5f9a1cdae5b7825c5b34950e9a970956c28c7a3e11464ca11bf35",
+    "url": "https://www.videohelp.com/download/Free_Encoder_Pack-2025-05-07.exe#/dl.7z",
+    "hash": "bdb323c9a344a1007f8648ab447f073702e5382876fde98015c52f348de2a374",
     "post_install": [
         "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
         "New-Item \"$(appdir foobar2000 $global)\\current\\encoders\" -ItemType Junction -Target \"$dir\" | Out-Null"
