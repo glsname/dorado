@@ -1,5 +1,5 @@
 {
-    "version": "2025.1-251.23774.424",
+    "version": "2025.1.1-251.25410.117",
     "description": "WebStorm. Cross-Platform, Smart JavaScript IDE by JetBrains.",
     "homepage": "https://www.jetbrains.com/webstorm/",
     "license": {
@@ -8,11 +8,11 @@
     },
     "changelog": "https://www.jetbrains.com/webstorm/whatsnew/",
     "url": [
-        "https://download.jetbrains.com/webstorm/WebStorm-2025.1.exe#/cosi.7z",
+        "https://download.jetbrains.com/webstorm/WebStorm-2025.1.1.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "5f5e918f608c0b2a3447c7cf54fa1eb445985f2c3c0923f1913891a8f1f9b2a3",
+        "e148c643139b47338b3442892e15a2290b8d33e0abd2515a754f4b9e7adf800b",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
