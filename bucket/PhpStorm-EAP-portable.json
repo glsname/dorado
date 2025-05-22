@@ -1,5 +1,5 @@
 {
-    "version": "2025.2-252.13776.56",
+    "version": "2025.2-252.16512.27",
     "description": "PhpStorm Early Access Program. Cross-Platform, Lightning-Smart IDE for PHP programming by JetBrains.",
     "homepage": "https://www.jetbrains.com/phpstorm/",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://www.jetbrains.com/legal/agreements/user_eap.html"
     },
     "url": [
-        "https://download.jetbrains.com/webide/PhpStorm-252.13776.56.exe#/cosi.7z",
+        "https://download.jetbrains.com/webide/PhpStorm-252.16512.27.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "c4c2bfe87d77a6fcd132f18b84fd80a29c5c6e9da7bf7626d3f99ded6137c555",
+        "d8d4795e0355394662c4f009157150a7b39963d3bf2f0500577e9d17a15fdcc5",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
