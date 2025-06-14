@@ -1,13 +1,13 @@
 {
-    "version": "2025.2-252.18003.35",
+    "version": "2025.2-252.21735.39",
     "description": "PyCharm Professional Early Access Program. Cross-Platform Python IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/pycharm/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.jetbrains.com/legal/agreements/user_eap.html"
     },
-    "url": "https://download.jetbrains.com/python/pycharm-professional-252.18003.35.exe#/cosi.7z",
-    "hash": "7d576f1bf782b69bb99e73f7e236dad008ad494dcc9ce7f6a4e7caabe851ea3e",
+    "url": "https://download.jetbrains.com/python/pycharm-professional-252.21735.39.exe#/cosi.7z",
+    "hash": "cbd22b60ed4ed45219261b57e50426fa0fa9f5e9806fd00419427f863baa4281",
     "extract_to": "IDE",
     "pre_install": "Remove-Item \"$dir\\IDE\\`$*\" -Force -Recurse",
     "architecture": {
