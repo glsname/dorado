@@ -1,10 +1,10 @@
 {
     "homepage": "https://anytxt.net/",
-    "version": "1.3.1517.Win32_Win64.OCR",
+    "version": "1.2.540",
     "depends": "autoconfirm",
     "description": "A Desktop Search Tool with A Powerful Full-Text Search Engine. Free Google Desktop Search Alternative.",
-    "url": "https://sourceforge.net/projects/anytxt/files/AnyTXT.Searcher.1.3.1517.Win32_Win64.OCR.exe#/setup.exe",
-    "hash": "sha1:9277ee2cf7c7b9e8928d7ddbb4e7ca5a3d3b3140",
+    "url": "https://sourceforge.net/projects/anytxt/files/AnyTXT.Searcher.1.2.540.exe#/setup.exe",
+    "hash": "sha1:f095be4f5b1deef43a53e0a2bdf0218904dff4be",
     "installer": {
         "script": "Start-Process -Wait \"$dir\\setup.exe\" \"/verysilent /norestart /DIR=`\"$dir`\"\" -Verb RunAs"
     },
