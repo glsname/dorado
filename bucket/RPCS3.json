@@ -1,5 +1,5 @@
 {
-    "version": "0.0.37-18018",
+    "version": "0.0.37-18022",
     "description": "RPCS3. Experimental Sony PlayStation 3 emulator and debugger",
     "homepage": "https://rpcs3.net",
     "license": {
@@ -22,11 +22,11 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-28896acb833dc76b0a1da236d542e21cf4d5c401/rpcs3-v0.0.37-18018-28896acb_win64.7z",
+                "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554/rpcs3-v0.0.37-18022-9c93ec0b_win64.7z",
                 "http://dus01.ps3.update.playstation.net/update/ps3/image/us/2021_0601_a0b63a3e4ae92ed176d6b9a67ce447f0/PS3UPDAT.PUP"
             ],
             "hash": [
-                "cbcbe098f61c3ea9ee951a9f8c5c9ba07b0e25ca1ded58896dad0468b9b96d08",
+                "0c6fd8741e7ed38b04a299330780f8943e88f34744780b12bdf11bd11ba26067",
                 "8491361628abe5862f5101e57878b5852b175b887a98cfc6ba9a3e67d1f6530a"
             ]
         }
