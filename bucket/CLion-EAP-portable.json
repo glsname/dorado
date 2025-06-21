@@ -1,5 +1,5 @@
 {
-    "version": "2025.2-252.21735.27",
+    "version": "2025.2-252.23309.24",
     "description": "CLion Early Access Program. Cross-Platform IDE for C and C++ by JetBrains.",
     "homepage": "https://www.jetbrains.com/cpp/",
     "license": {
@@ -9,11 +9,11 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://download.jetbrains.com/cpp/CLion-252.21735.27.win.zip",
+                "https://download.jetbrains.com/cpp/CLion-252.23309.24.win.zip",
                 "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
             ],
             "hash": [
-                "c1302f9dbc7dfc0a0015a00d97b815a98c38b1a9d1b090d0bafdb4ced1aab9aa",
+                "bf8eb50e00eede026a891fa1539e08c315d3282eb8fcccb33df9ce4ccf232e4d",
                 "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
             ],
             "shortcuts": [
