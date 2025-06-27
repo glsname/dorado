@@ -1,5 +1,5 @@
 {
-    "version": "2025.2-252.23309.22",
+    "version": "2025.2-252.23591.19",
     "description": "IntelliJ IDEA Ultimate Early Access Program. Cross-Platform Java IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/idea/",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://www.jetbrains.com/legal/agreements/user_eap.html"
     },
     "url": [
-        "https://download.jetbrains.com/idea/ideaIU-252.23309.22.win.zip",
+        "https://download.jetbrains.com/idea/ideaIU-252.23591.19.win.zip",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "8109eecc0ad2ec5a38d817013ac3830c6eaa166a14d72ee84e25867b6eaab855",
+        "05e469f3c98fb91f780176275e582d5e1d54c48a574e244b07fa3031e1d0997d",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
