@@ -1,5 +1,5 @@
 {
-    "version": "8.0-42",
+    "version": "8.5-3",
     "description": "A small and friendly GNU editor, inspired by Pico",
     "homepage": "https://www.nano-editor.org/",
     "license": "GPL-3.0-only",
@@ -7,8 +7,8 @@
         "Configure nano by editing its configuration file %USERPROFILE%\\.nanorc",
         "NOTE: The config file was named nano.rc in the 2.5.3 release, but is now named .nanorc"
     ],
-    "url": "https://files.lhmouse.com/nano-win/nano-win_10361_v8.0-42-g6d25b07a2.7z",
-    "hash": "051a0b70debc27b8555063098be4d07fda6659dbfac41db439d0da257b53cb03",
+    "url": "https://files.lhmouse.com/nano-win/nano-win_10512_v8.5-3-gd844f2f5.7z",
+    "hash": "f039bb1889d5d35f4d6de5b48dc2d4e09dd9fb1463fa5f2af3a9bfe5dc3295e4",
     "post_install": [
         "if (-not (Test-Path \"$env:USERPROFILE\\.nanorc\")) {",
         "   Copy-Item \"$dir\\.nanorc\" \"$env:USERPROFILE\\.nanorc\"",
