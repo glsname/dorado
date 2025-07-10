@@ -1,5 +1,5 @@
 {
-    "version": "1.7",
+    "version": "1.8",
     "description": "Sordum's DNS Angel. Filter and block vast and uncensored content on the internet.",
     "homepage": "https://www.sordum.org/8127/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/dns-angel/DnsAngel.zip",
-    "hash": "8d7a1d6a7fef05fe2cefac7b08f6c92fa3d6fe136d2472e96bb97b1e2686cf04",
+    "hash": "9ac0938cc7e7196e7b529d81b023a419403a2879574ee66c9b89fd1fb2b8b9a5",
     "extract_dir": "DnsAngel",
     "shortcuts": [
         [
