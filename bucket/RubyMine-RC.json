@@ -1,13 +1,13 @@
 {
-    "version": "2025.1.2-251.26094.77",
+    "version": "2025.2-252.23892.346",
     "description": "RubyMine Release Candidate. Cross-Platform Ruby on Rails IDE by JetBrains.",
     "homepage": "https://www.jetbrains.com/ruby/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.jetbrains.com/store/license.html"
     },
-    "url": "https://download.jetbrains.com/ruby/RubyMine-251.26094.77.exe#/cosi.7z",
-    "hash": "fdcbb9898acda55100b04c30602bb81f771a410595aeeb179412d8bd609c4a3c",
+    "url": "https://download.jetbrains.com/ruby/RubyMine-252.23892.346.exe#/cosi.7z",
+    "hash": "47d4f8c70151e2a2945aea3b9eb3ceb7093ed334f1252bdbe2325dac47440bbd",
     "extract_to": "IDE",
     "pre_install": "Remove-Item \"$dir\\IDE\\`$*\" -Force -Recurse",
     "architecture": {
