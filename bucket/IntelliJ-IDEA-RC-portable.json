@@ -1,5 +1,5 @@
 {
-    "version": "2025.1.1-251.25410.59",
+    "version": "2025.2-252.23892.360",
     "description": "IntelliJ IDEA Community Release Candidate. Cross-Platform Java IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/idea/",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://sales.jetbrains.com/hc/en-gb/articles/115001015290-Where-can-I-find-the-EULA-End-User-License-Agreement-"
     },
     "url": [
-        "https://download.jetbrains.com/idea/ideaIC-251.25410.59.win.zip",
+        "https://download.jetbrains.com/idea/ideaIC-252.23892.360.win.zip",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "ec9a19e7c70f236334698de4f455f3f8be600c602efbddd5f1514a627d531504",
+        "893ef2ed0ab8702ce2d666e50cc819915758eac3fa60fabfe542690f1d374307",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
