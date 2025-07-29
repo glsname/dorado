@@ -1,5 +1,5 @@
 {
-    "version": "2025.1.1-251.25410.59",
+    "version": "2025.2-252.23892.360",
     "description": "IntelliJ IDEA Ultimate Release Candidate. Cross-Platform Java IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/idea/",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://www.jetbrains.com/store/license.html"
     },
     "url": [
-        "https://download.jetbrains.com/idea/ideaIU-251.25410.59.win.zip",
+        "https://download.jetbrains.com/idea/ideaIU-252.23892.360.win.zip",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "afa172b97cd4a17aaa4a44a021eaabe3275d4e37a9b90af08131dd125374db4a",
+        "02f66268bcd79f40c17e765d98ba2fae7d4dca23dd0e1e97aaae2b07bada8fc0",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
