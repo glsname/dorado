@@ -1,5 +1,5 @@
 {
-    "version": "2025.1.4.1-251.27812.49",
+    "version": "2025.2-252.23892.409",
     "description": "IntelliJ IDEA Community. Cross-Platform Java IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/idea/",
     "license": {
@@ -8,11 +8,11 @@
     },
     "changelog": "https://www.jetbrains.com/idea/whatsnew/",
     "url": [
-        "https://download.jetbrains.com/idea/ideaIC-2025.1.4.win.zip",
+        "https://download.jetbrains.com/idea/ideaIC-2025.2.win.zip",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "12f48e9251671c8bb300cb8f81eb1790040907542f662191283a4eed5dc6b350",
+        "b452f2a3678a1d7ec507bb1db1fda4318b4f5d0ee0f9d0e9e851d1092fb14e97",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
