@@ -1,5 +1,5 @@
 {
-    "version": "1.80.115-96",
+    "version": "1.82.166-97",
     "description": "Secure, Fast & Private Web Browser with Adblocker",
     "homepage": "https://brave.com",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/portapps/brave-portable/releases/download/1.80.115-96/brave-portable-win64-1.80.115-96.7z",
-            "hash": "dd90e984fec7a4140c20cf7531529870f5aee0074c28ddd3d773fbb4027216c5"
+            "url": "https://github.com/portapps/brave-portable/releases/download/1.82.166-97/brave-portable-win64-1.82.166-97.7z",
+            "hash": "6ef5fdc152b957f45ef4e42a53d801729018892761b6b536117eef1d134ac844"
         }
     },
     "bin": [
