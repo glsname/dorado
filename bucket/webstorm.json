@@ -1,13 +1,13 @@
 {
-    "version": "2025.2.1",
+    "version": "2025.2.2",
     "description": "A lightweight and intelligent IDE for front-end development and server-side JavaScript.",
     "homepage": "https://www.jetbrains.com/webstorm/",
     "license": {
         "identifier": "Shareware",
         "url": "https://www.jetbrains.com/legal/agreements/user.html"
     },
-    "url": "https://download.jetbrains.com/webstorm/WebStorm-2025.2.1.exe#/dl.7z",
-    "hash": "273c62a8798f3d1a79fc2bd851471478d492987023e1977c74fc7f61f6737f3a",
+    "url": "https://download.jetbrains.com/webstorm/WebStorm-2025.2.2.exe#/dl.7z",
+    "hash": "6663aff8b7108371d513415ebcf6a37a54d5b9c45bb4efd7ff3a56a263ca8651",
     "architecture": {
         "64bit": {
             "bin": [
