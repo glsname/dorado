@@ -1,16 +1,16 @@
 {
-    "version": "33.8.2",
+    "version": "33.9.0",
     "description": "Mozilla-derived web browser focusing on efficiency and customization",
     "homepage": "https://www.palemoon.org",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://rm-eu.palemoon.org/release/palemoon-33.8.2.win64.7z",
-            "hash": "de9b5d90015df865bfbb89ec46fc052780446cf3837bb61efdb632631e8cb4f7"
+            "url": "https://rm-eu.palemoon.org/release/palemoon-33.9.0.win64.7z",
+            "hash": "ddfbedac9dd93fc6b5d5bbca3c4b4aa1d4afce9ea7d610a6156c353782e98362"
         },
         "32bit": {
-            "url": "https://rm-eu.palemoon.org/release/palemoon-33.8.2.win32.7z",
-            "hash": "a5718bebd392625cb4a6f62accd0539e41925c110b86590430c328ef24b6e0e6"
+            "url": "https://rm-eu.palemoon.org/release/palemoon-33.9.0.win32.7z",
+            "hash": "088b91455842a0197aa46530c293176279db30483566f0a29eb26951ead76006"
         }
     },
     "extract_dir": "palemoon",
