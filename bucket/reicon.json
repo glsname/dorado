@@ -1,10 +1,10 @@
 {
-    "version": "2.1",
+    "version": "2.2",
     "description": "ReIcon is portable freeware that enables you to save and restore your desktop layout.",
     "homepage": "https://www.sordum.org/8366/reicon-v1-9-restore-desktop-icon-layouts/",
     "license": "Freeware",
     "url": "https://www.sordum.org/files/restore-desktop-icon-layouts/ReIcon.zip",
-    "hash": "8e8ad9b9a5995e5448359274c79e7e358aa18e3336a8924efd93bd09a4cf7fd8",
+    "hash": "dadd42d62d3373c0fc457136adeab5bd433f3042d45617439a4fecae38feb640",
     "extract_dir": "ReIcon",
     "architecture": {
         "64bit": {
