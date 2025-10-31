@@ -1,18 +1,18 @@
 {
-    "version": "4.2.0-rc1",
+    "version": "4.2.0-rc2",
     "description": "An open-source, cross-platform family of tools designed to build, test and package software.",
     "homepage": "https://cmake.org/",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://cmake.org/files/v4.2/cmake-4.2.0-rc1-windows-x86_64.zip",
-            "hash": "7a2d53beb0c85d2d4f3566f342ac48da760cb7466ce9a0eea8c32eca3da204f9",
-            "extract_dir": "cmake-4.2.0-rc1-windows-x86_64"
+            "url": "https://cmake.org/files/v4.2/cmake-4.2.0-rc2-windows-x86_64.zip",
+            "hash": "afea293c109554d30c6ee447d981c632c8808ae4d7a7d78d44d8bc5052878f64",
+            "extract_dir": "cmake-4.2.0-rc2-windows-x86_64"
         },
         "32bit": {
-            "url": "https://cmake.org/files/v4.2/cmake-4.2.0-rc1-windows-i386.zip",
-            "hash": "a5eb5e0400ddd24c0e4d29033267eeb909afb3691e2c635099157590301bf9b5",
-            "extract_dir": "cmake-4.2.0-rc1-windows-i386"
+            "url": "https://cmake.org/files/v4.2/cmake-4.2.0-rc2-windows-i386.zip",
+            "hash": "93a1f463c87775214bfafc0a19e7aee9ec828a00c76d72cfb139d6dc6a538cd9",
+            "extract_dir": "cmake-4.2.0-rc2-windows-i386"
         }
     },
     "bin": [
