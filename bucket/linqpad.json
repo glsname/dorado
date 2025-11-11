@@ -1,5 +1,5 @@
 {
-    "version": "8.9.5",
+    "version": "9.3.15",
     "description": "The .NET programmer’s playground",
     "homepage": "https://www.linqpad.net",
     "license": {
@@ -9,54 +9,54 @@
     "suggest": {
         ".Net SDK": "dotnet-sdk"
     },
-    "url": "https://linqpad.azureedge.net/public/LINQPad8.zip",
-    "hash": "7652fe14d4aff35645e7307780c6fb6c551c43c44d61a42ba4d9bee391ad0245",
+    "url": "https://linqpad.azureedge.net/public/LINQPad9.zip",
+    "hash": "9175d0e4c271a385c5031249a5de14c0e21d446b4411e43d9e484a03c1970d6c",
     "architecture": {
         "64bit": {
             "bin": [
                 [
-                    "LPRun8-x64.exe",
+                    "LPRun9-x64.exe",
                     "lprun"
                 ],
                 [
-                    "LINQPad8-x64.exe",
+                    "LINQPad9-x64.exe",
                     "linqpad"
                 ],
                 [
-                    "LPRun8-x86.exe",
+                    "LPRun9-x86.exe",
                     "lprun-x86"
                 ],
                 [
-                    "LINQPad8-x86.exe",
+                    "LINQPad9-x86.exe",
                     "linqpad-x86"
                 ]
             ],
             "shortcuts": [
                 [
-                    "LINQPad8-x64.exe",
-                    "LINQPad 8"
+                    "LINQPad9-x64.exe",
+                    "LINQPad 9"
                 ],
                 [
-                    "LINQPad8-x86.exe",
-                    "LINQPad 8 (x86)"
+                    "LINQPad9-x86.exe",
+                    "LINQPad 9 (x86)"
                 ]
             ]
         },
         "32bit": {
             "bin": [
                 [
-                    "LPRun8-x86.exe",
+                    "LPRun9-x86.exe",
                     "lprun"
                 ],
                 [
-                    "LINQPad8-x86.exe",
+                    "LINQPad9-x86.exe",
                     "linqpad"
                 ]
             ],
             "shortcuts": [
                 [
-                    "LINQPad8-x86.exe",
-                    "LINQPad 8"
+                    "LINQPad9-x86.exe",
+                    "LINQPad 9"
                 ]
             ]
         }
