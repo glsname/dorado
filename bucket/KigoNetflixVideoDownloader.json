@@ -1,5 +1,5 @@
 {
-    "version": "3.4.3",
+    "version": "3.4.4",
     "description": "Kigo Netlifx Video Downloader",
     "homepage": "https://www.kigo-video-converter.com/netflix-downloader/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://raw.githubusercontent.com/Ash258/Scoop-Licenses/master/KigoNetflixVideoDownloader.txt"
     },
     "url": "https://www.kigo-video-converter.com/netflix-downloader.exe#/cosi.7z",
-    "hash": "a9c7e60698f2c59531442c9ed55732ee9cb71af26e3c70b8c96243847b676c37",
+    "hash": "aa9e45f6efa89f8b26a683791aa38cbab1354a858f2919c61174d6915f8043b5",
     "pre_install": [
         "try { Get-Command 'Test-Persistence' -ErrorAction 'Stop' | Out-Null } catch { error 'Shovel flavour of scoop is required'; exit 258 }",
         "Remove-AppDirItem '$*', 'Uninst*'"
