@@ -1,5 +1,5 @@
 {
-    "version": "2025.3-253.28294.88",
+    "version": "2025.3.1-253.29346.144",
     "description": "Rider. Fast, powerful and cross-platform .NET IDE by JetBrains.",
     "homepage": "https://www.jetbrains.com/rider/",
     "license": {
@@ -9,8 +9,8 @@
     "changelog": "https://www.jetbrains.com/rider/whatsnew/",
     "architecture": {
         "64bit": {
-            "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.exe#/cosi.7z",
-            "hash": "5bc856c44d468935f1f880872bb52ff2c7db9f3857ac7989dc0b5280ed38f1ac",
+            "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.3.1.exe#/cosi.7z",
+            "hash": "af21617f6ecf78114c0bda20fb5c035f574a997d5f34983a2c8cae75a9ae376a",
             "bin": [
                 "IDE\\bin\\rider64.exe",
                 [
