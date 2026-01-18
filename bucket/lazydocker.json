@@ -1,16 +1,16 @@
 {
-    "version": "0.24.3",
+    "version": "0.24.4",
     "description": "Terminal UI for both docker and docker-compose",
     "homepage": "https://github.com/jesseduffield/lazydocker",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jesseduffield/lazydocker/releases/download/v0.24.3/lazydocker_0.24.3_Windows_x86_64.zip",
-            "hash": "88009c4a3f783fb72b6fcd6b7f9dffc0b4c7db2498b1d4212139d22b9f29e2cd"
+            "url": "https://github.com/jesseduffield/lazydocker/releases/download/v0.24.4/lazydocker_0.24.4_Windows_x86_64.zip",
+            "hash": "ca316f4f994a0af5c71525398a34192d01bbf6ac05097b39d96db1842855f349"
         },
         "32bit": {
-            "url": "https://github.com/jesseduffield/lazydocker/releases/download/v0.24.3/lazydocker_0.24.3_Windows_x86.zip",
-            "hash": "6a483d2b469c3af57a040f63d7d7e2a0d7ef407fdfca0a0c01b9e62977b9087c"
+            "url": "https://github.com/jesseduffield/lazydocker/releases/download/v0.24.4/lazydocker_0.24.4_Windows_x86.zip",
+            "hash": "d145c69ed93ae480091af302e0ab60a40b61bbb10a9fd62725dbda2f1085817f"
         }
     },
     "bin": "lazydocker.exe",
