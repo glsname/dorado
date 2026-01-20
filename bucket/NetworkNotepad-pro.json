@@ -1,10 +1,10 @@
 {
     "##": "Network Notepad Professional License Agreement.rtf",
-    "version": "1.4.10",
+    "version": "1.4.11",
     "description": "Network Notepad Professional Edition. Interactive network diagrams creator",
     "homepage": "https://www.networknotepad.com/index.shtml",
     "license": "Proprietary",
-    "url": "https://www.networknotepad.com/Download/NetworkNotepadPro1.4.10.exe",
+    "url": "https://www.networknotepad.com/Download/NetworkNotepadPro1.4.11.exe",
     "hash": "c624964bd59245e60b36d0bfbbdd2c68d48dc90e1c6f50a03551fe26da404488",
     "installer": {
         "script": [
