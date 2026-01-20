@@ -1,39 +1,39 @@
 {
-    "version": "5.4.2",
+    "version": "5.5.0",
     "description": "A powerful, efficient, lightweight, embeddable scripting language",
     "homepage": "http://www.lua.org",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": [
-                "https://downloads.sourceforge.net/project/luabinaries/5.4.2/Tools%20Executables/lua-5.4.2_Win64_bin.zip",
-                "https://downloads.sourceforge.net/project/luabinaries/5.4.2/Windows%20Libraries/Dynamic/lua-5.4.2_Win64_dllw6_lib.zip"
+                "https://downloads.sourceforge.net/project/luabinaries/5.5.0/Tools%20Executables/lua-5.5.0_Win64_bin.zip",
+                "https://downloads.sourceforge.net/project/luabinaries/5.5.0/Windows%20Libraries/Dynamic/lua-5.5.0_Win64_dllw6_lib.zip"
             ],
             "hash": [
-                "sha1:31f5380006244e045c9aa2119feed8d353be72cb",
-                "sha1:e313a05e498b77b5e259737fe4ec851fe2b9d23e"
+                "sha1:c795954a3953848b9aa30b2320748766569a16cc",
+                "sha1:3ec78fc8fd0df65cf5823e9b91df0518ca8fe215"
             ]
         },
         "32bit": {
             "url": [
-                "https://downloads.sourceforge.net/project/luabinaries/5.4.2/Tools%20Executables/lua-5.4.2_Win32_bin.zip",
-                "https://downloads.sourceforge.net/project/luabinaries/5.4.2/Windows%20Libraries/Dynamic/lua-5.4.2_Win32_dllw6_lib.zip"
+                "https://downloads.sourceforge.net/project/luabinaries/5.5.0/Tools%20Executables/lua-5.5.0_Win32_bin.zip",
+                "https://downloads.sourceforge.net/project/luabinaries/5.5.0/Windows%20Libraries/Dynamic/lua-5.5.0_Win32_dllw6_lib.zip"
             ],
             "hash": [
-                "sha1:d5cb6359710413a71ba517617654f1c15229d61f",
-                "sha1:c13d772ebe44157d55279b04b93b67b5f8805a4f"
+                "sha1:9fce32b2a4fe7dfd463fff757e7af22d9a6780c1",
+                "sha1:28984422cbcf4937d71388254b2b1090b481183c"
             ]
         }
     },
     "bin": [
-        "lua54.exe",
+        "lua55.exe",
         [
-            "lua54.exe",
+            "lua55.exe",
             "lua"
         ],
-        "luac54.exe",
+        "luac55.exe",
         [
-            "luac54.exe",
+            "luac55.exe",
             "luac"
         ]
     ],
