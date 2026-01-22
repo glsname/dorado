@@ -1,6 +1,6 @@
 {
     "##": "TODO: Change the target path of the thinclient from Appdata",
-    "version": "2025.3-253.28294.174",
+    "version": "2026.1-261.17801.64",
     "description": "JetBrains Gateway Early Access Program. Launcher that brings a backend server and local environment together.",
     "homepage": "https://www.jetbrains.com/help/idea/2021.3/remote-development-starting-page.html",
     "license": {
@@ -10,11 +10,11 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-253.28294.174.exe#/dl.7z",
+                "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-261.17801.64.exe#/dl.7z",
                 "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
             ],
             "hash": [
-                "face127b05497bada1ed80bbdc935774e64690ab5305c9393c14302855971d80",
+                "10f428b4a500380169f264e0b5dab5a6c95084fbf862c77179974037758808a8",
                 "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
             ],
             "shortcuts": [
