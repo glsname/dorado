@@ -1,12 +1,12 @@
 {
-    "version": "1.12.1",
+    "version": "1.13.0",
     "description": "MQTT 5.0 Desktop Client",
     "homepage": "https://mqttx.app",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/emqx/MQTTX/releases/download/v1.12.1/MQTTX.Setup.1.12.1.exe#/dl.7z",
-            "hash": "sha512:acac2f3604a448a619dcb854e598bb68aacf631a35c34711179a4d5faa6c632a7b96b33681755b5f1982364efe3560e406d109b18b07e72bf9b6395b73358125",
+            "url": "https://github.com/emqx/MQTTX/releases/download/v1.13.0/MQTTX.Setup.1.13.0.exe#/dl.7z",
+            "hash": "sha512:778545a5cf11f8f066a54d05e2bae1a1dca5e5a2520a61a7f53d56d9af8e343680e82a42c5ed4b88af089463496cb86a9dabfb41676fbb21d4522d308620ef07",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\", \"$dir\\Uninst*\" -Recurse"
