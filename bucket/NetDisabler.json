@@ -1,5 +1,5 @@
 {
-    "version": "1.1",
+    "version": "1.2",
     "description": "Sordum's Net Disabler",
     "homepage": "https://www.sordum.org/9660/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/small-tools/NetDisabler.zip",
-    "hash": "9cd0e623cc3550717ec03f981b271da4942e673e322730c35e6f84424e50852a",
+    "hash": "ad9c0eb3fd19af47409965ed688d8381b644878b9c85859fd6b1bc7a0069387a",
     "extract_dir": "NetDisabler",
     "architecture": {
         "64bit": {
