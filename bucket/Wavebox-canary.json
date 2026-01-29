@@ -1,5 +1,5 @@
 {
-    "version": "10.144.71.4",
+    "version": "10.144.72.4",
     "description": "Wavebox 10 Canary. A distraction-free browser for fast and focused working across all web apps.",
     "homepage": "https://wavebox.io",
     "license": {
@@ -9,8 +9,8 @@
     "changelog": "https://wavebox.io/changelog/canary/",
     "architecture": {
         "64bit": {
-            "url": "https://download.wavebox.app/canary/win/Install%20Wavebox%2010.144.71.4.exe#/cosi.7z",
-            "hash": "65cc8ee9dd660d784daec70ca6025069553ae2f0d23ac9d0a092d0ddcd2d17b1"
+            "url": "https://download.wavebox.app/canary/win/Install%20Wavebox%2010.144.72.4.exe#/cosi.7z",
+            "hash": "21372e8eeae10fb7bf4bbb8b15b5fccb3a7bec79c3e8ed92fc2a626554b661c1"
         }
     },
     "pre_install": "Expand-7zipArchive \"$dir\\chrome.7z\" -ExtractDir 'Chrome-bin' -Removal",
