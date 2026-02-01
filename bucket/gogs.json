@@ -1,12 +1,12 @@
 {
-    "version": "0.13.4",
+    "version": "0.14.1",
     "description": "A painless self-hosted Git service",
     "homepage": "https://gogs.io",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://dl.gogs.io/0.13.4/gogs_0.13.4_windows_amd64_mws.zip",
-            "hash": "ece9d8d2ef50cc65c8573eda00d59ed7d5346be71c34075b883c81b8bc429cdd"
+            "url": "https://dl.gogs.io/0.14.1/gogs_0.14.1_windows_amd64_mws.zip",
+            "hash": "b97db74698b6cb822aa8c4c467b5d5065afeee2d2e46915016407e46d72b703c"
         }
     },
     "extract_dir": "gogs",
