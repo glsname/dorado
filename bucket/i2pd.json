@@ -1,16 +1,16 @@
 {
-    "version": "2.58.0",
+    "version": "2.59.0",
     "description": "End-to-End encrypted and anonymous Internet",
     "homepage": "https://i2pd.website",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/PurpleI2P/i2pd/releases/download/2.58.0/i2pd_2.58.0_win64_mingw.zip",
-            "hash": "sha512:e0cdfa9e416f9580fd57a5466cd37f8a8d067b3602fa826b820bdbfa631a8bbbfa20a484db9641aab9855ac2799667b475fb5fe92cd1f11e26eef469279315a1"
+            "url": "https://github.com/PurpleI2P/i2pd/releases/download/2.59.0/i2pd_2.59.0_win64_mingw.zip",
+            "hash": "86c4f9d59533cb6d5f401a23c6e67e275b7c95cf771ffe33962666930ff6848f"
         },
         "32bit": {
-            "url": "https://github.com/PurpleI2P/i2pd/releases/download/2.58.0/i2pd_2.58.0_win32_mingw.zip",
-            "hash": "sha512:6888396fc806bd1b4ba9b74b3aa6ce0e4022b4208f00c82884e751c6ab7fee9492e24e3b52e501cb1824e64337704e94e653e26fd6a1094bb839a225987f05af"
+            "url": "https://github.com/PurpleI2P/i2pd/releases/download/2.59.0/i2pd_2.59.0_win32_mingw.zip",
+            "hash": "2065b387a5522259e1159fe7f4442f7e9a393275383d99234a0d0031d740c1d4"
         }
     },
     "pre_install": [
