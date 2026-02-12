@@ -1,5 +1,5 @@
 {
-    "version": "2025.3.1-253.29346.45",
+    "version": "2025.3.3-253.31033.43",
     "description": "RubyMine Release Candidate. Cross-Platform Ruby on Rails IDE by JetBrains.",
     "homepage": "https://www.jetbrains.com/ruby/",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://www.jetbrains.com/store/license.html"
     },
     "url": [
-        "https://download.jetbrains.com/ruby/RubyMine-253.29346.45.exe#/cosi.7z",
+        "https://download.jetbrains.com/ruby/RubyMine-253.31033.43.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "ffdefed71136d5fde0000bc22d1c0f0ecf5efcc7412a63f4da0f75144e630a27",
+        "64b8e9de77da70afa8c8dc8bc9c17b05129647ab76c6ff2741092e1b233e0a7f",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
