@@ -1,5 +1,5 @@
 {
-    "version": "2026.1-261.21525.28",
+    "version": "2026.1-261.21849.30",
     "description": "GoLand Early Access Program. Cross-Platform, Clever IDE to Go by JetBrains.",
     "homepage": "https://www.jetbrains.com/goland/",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://www.jetbrains.com/legal/agreements/user_eap.html"
     },
     "url": [
-        "https://download.jetbrains.com/go/goland-261.21525.28.exe#/cosi.7z",
+        "https://download.jetbrains.com/go/goland-261.21849.30.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "99aaf3a3b4a1979ec0cb395f8d1af0468be2d31b2e0f9b6a9ef91326eb3a2338",
+        "2d5ea498d7c2986f8c5773d1002e2aa1cda6b9b25691b9203c1f3a3bc7211c1a",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
