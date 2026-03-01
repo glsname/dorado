@@ -1,10 +1,10 @@
 {
-    "version": "6.26.0.5480",
+    "version": "6.27.0.5500",
     "description": "Privacy Eraser. Internet history, browsing history and past computer activities cleaner",
     "homepage": "https://www.cybertronsoft.com/products/privacy-eraser/",
     "license": "Freeware",
     "url": "https://www.cybertronsoft.com/download/privacy-eraser-portable.zip",
-    "hash": "813098af1e73cb327a8ce8288dee477221732ae64d5d305baa34334c49e1f2e1",
+    "hash": "0102990b6506f436a2f10900ef44940c91eabe6d23962f0d4f3db05d874767af",
     "pre_install": [
         "$file = 'Config.xml'",
         "if (-not (Test-Path \"$persist_dir\\$file\")) {",
