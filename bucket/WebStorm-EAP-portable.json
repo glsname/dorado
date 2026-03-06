@@ -1,5 +1,5 @@
 {
-    "version": "2026.1-261.21849.27",
+    "version": "2026.1-261.22158.36",
     "description": "WebStorm Early Access Program. Cross-Platform, Smart JavaScript IDE by JetBrains.",
     "homepage": "https://www.jetbrains.com/webstorm/",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://www.jetbrains.com/legal/agreements/user_eap.html"
     },
     "url": [
-        "https://download.jetbrains.com/webstorm/WebStorm-261.21849.27.exe#/cosi.7z",
+        "https://download.jetbrains.com/webstorm/WebStorm-261.22158.36.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "e07381113d86af2c40620a367f6b2cb6e563d20890bade3954268ab2ebf761f5",
+        "b8c96515fd57e1d58a6abae9dbcc187d903576b6e9013fc77718e394ac7eabf3",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
