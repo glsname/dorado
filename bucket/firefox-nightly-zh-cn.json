@@ -1,16 +1,16 @@
 {
-    "version": "150.0a1.20260307210637",
+    "version": "150.0a1.20260308213816",
     "description": "Nightly builds of Firefox: the popular open source web browser.",
     "homepage": "https://www.mozilla.org/zh-CN/firefox/nightly/",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://archive.mozilla.org/pub/firefox/nightly/2026/03/2026-03-07-21-06-37-mozilla-central-l10n/firefox-150.0a1.zh-CN.win64.installer.exe#/firefox.7z",
-            "hash": "sha512:aedcc3b9f2b563624d5af7e2a1b8425ceda2f1e6da8a993ee3609a0ca9373ca2d7fc1bb067a99d8508a6756d12a1cddc77197eb91b402a1629fe389df1b720e4"
+            "url": "https://archive.mozilla.org/pub/firefox/nightly/2026/03/2026-03-08-21-38-16-mozilla-central-l10n/firefox-150.0a1.zh-CN.win64.installer.exe#/firefox.7z",
+            "hash": "sha512:40355f62a10a857439f16da09cb0f539455de6e98c589286a1c3811260595a20f46f20b8ca1f48d994d4c52c4e4cac1945df92a58dd2dd171b9ee133b0f295a9"
         },
         "32bit": {
-            "url": "https://archive.mozilla.org/pub/firefox/nightly/2026/03/2026-03-07-21-06-37-mozilla-central-l10n/firefox-150.0a1.zh-CN.win32.installer.exe#/firefox.7z",
-            "hash": "sha512:9d7f80aefc8bff210ef3147e9a20951eb9e19d81139b9e2c994f0f899fe18639c7260b428a141aaa2eb16288499f10a700cb81735c05ca1085e57c55d38ef501"
+            "url": "https://archive.mozilla.org/pub/firefox/nightly/2026/03/2026-03-08-21-38-16-mozilla-central-l10n/firefox-150.0a1.zh-CN.win32.installer.exe#/firefox.7z",
+            "hash": "sha512:d2372758cb4e34fc71ad5560ce5fcdea74ca576cd750e8ea51934d8b37a791030d25a1309ebce3106166cef5723cdf9ea6a15e1d761f8d265c7a0adcc04f161f"
         }
     },
     "extract_dir": "core",
