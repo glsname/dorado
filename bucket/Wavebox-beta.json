@@ -1,5 +1,5 @@
 {
-    "version": "10.146.21.3",
+    "version": "10.146.27.3",
     "description": "Wavebox 10 Beta. A distraction-free browser for fast and focused working across all web apps.",
     "homepage": "https://wavebox.io",
     "license": {
@@ -9,8 +9,8 @@
     "changelog": "https://wavebox.io/changelog/beta/",
     "architecture": {
         "64bit": {
-            "url": "https://download.wavebox.app/beta/win/Install%20Wavebox%2010.146.21.3.exe#/cosi.7z",
-            "hash": "ecf2e44469897a19f35eba906cdc1eae84f148f71e7a70b83f1eb8a7e4736568"
+            "url": "https://download.wavebox.app/beta/win/Install%20Wavebox%2010.146.27.3.exe#/cosi.7z",
+            "hash": "614e6be54cc635abecc6509c7c8a8456c95e374ad7101663bd949928a07436b5"
         }
     },
     "pre_install": "Expand-7zipArchive \"$dir\\chrome.7z\" -ExtractDir 'Chrome-bin' -Removal",
