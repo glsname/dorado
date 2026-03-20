@@ -1,16 +1,16 @@
 {
-    "version": "6.4.0",
+    "version": "6.4.1",
     "description": "Mudfish VPN. VPN service focused to boost network experience with various WAN Optimization.",
     "homepage": "https://mudfish.net",
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://mudfish.net/releases/mudfish-6.4.0-x86_64-win2k-setup.exe#/cosi.7z",
-            "hash": "564bc7086ef51f9bf93d8c3bc4d27eab5bf3203e83a0231185aaada8bcb2d4d3"
+            "url": "https://mudfish.net/releases/mudfish-6.4.1-x86_64-win2k-setup.exe#/cosi.7z",
+            "hash": "fc67a9a36216a77c36c4862d8ddda96f3f603dd786ce110979d73ecdb4dca4da"
         },
         "32bit": {
-            "url": "https://mudfish.net/releases/mudfish-6.4.0-i386-win2k-setup.exe#/cosi.7z",
-            "hash": "0b4c537ad59758f95cef0841cf26ea3392f48c36e3d7750a000a6a48af4ded1a"
+            "url": "https://mudfish.net/releases/mudfish-6.4.1-i386-win2k-setup.exe#/cosi.7z",
+            "hash": "d7938df905e1f4ff7e09f4a6d8c98439d76768cc2243a13971b2ec1e3e3b1724"
         }
     },
     "pre_install": [
