@@ -1,5 +1,5 @@
 {
-    "version": "8.9.2",
+    "version": "8.9.3",
     "description": "A free source code editor and Notepad replacement that supports several languages.",
     "homepage": "https://notepad-plus-plus.org",
     "license": "GPL-2.0-only",
@@ -7,24 +7,24 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.2/npp.8.9.2.portable.x64.zip",
+                "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.3/npp.8.9.3.portable.x64.zip",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/notepadplusplus/install-context.reg",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/notepadplusplus/uninstall-context.reg"
             ],
             "hash": [
-                "49798d5af654c1389193dd39f56fffe2d1005306690d331570609b3a41ca4a9e",
+                "020c4d697bd0bb24eb332cf9098e62d0c3328b6d6ae65862c4a745e9a7d010a3",
                 "2957865501223f2167a7da51196157a1138c8ad09819ad536beef5b97b19cf13",
                 "601a517c9be3b341e46692035130d094ed1613f55e78cb61d86dff774947d0e0"
             ]
         },
         "32bit": {
             "url": [
-                "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.2/npp.8.9.2.portable.zip",
+                "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.3/npp.8.9.3.portable.zip",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/notepadplusplus/install-context.reg",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/notepadplusplus/uninstall-context.reg"
             ],
             "hash": [
-                "32bdd72a55099addef958690b4c507e33d8a99cbe835ff52e80c5e4041019681",
+                "2f0e085e90737365b4f76442eee70a3332a9d8b526a1faa734d0f4a8b403ad68",
                 "2957865501223f2167a7da51196157a1138c8ad09819ad536beef5b97b19cf13",
                 "601a517c9be3b341e46692035130d094ed1613f55e78cb61d86dff774947d0e0"
             ]
