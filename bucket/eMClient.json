@@ -1,10 +1,10 @@
 {
-    "version": "10.4.4867.0",
+    "version": "10.4.5298.0",
     "description": "Fully-featured email client with a modern and easy-to-use interface.",
     "homepage": "https://emclient.com",
     "license": "Freeware",
-    "url": "https://www.emclient.com/dist/v10.4.4867/setup.msi",
-    "hash": "277afbf1ac83a92f7bd5e0775969aaf0eb33a301818a55aa13e6212f4171aa91",
+    "url": "https://www.emclient.com/dist/v10.4.5298/setup.msi",
+    "hash": "dc141c3a24e95f1c9502870bc457ec6616d3ff965b8d446acea6e81d4080a0d0",
     "extract_dir": "PFiles\\eM Client",
     "bin": "MailClient.exe",
     "shortcuts": [
