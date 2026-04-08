@@ -1,10 +1,10 @@
 {
-    "version": "11.3.3.853",
+    "version": "11.3.4.854",
     "description": "Wise Disk Cleaner. Clean junks of Browsers, remove junk and useless files of Windows and Defragment disk.",
     "homepage": "https://www.wisecleaner.com/wise-disk-cleaner.html",
     "license": "Freeware",
-    "url": "http://downloads.wisecleaner.com/soft/WDCFree_11.3.3.853.exe",
-    "hash": "7c32415f8218d7fa7f5ca45ab24d619df4a651cbf8ca3f0af2365af60f1cb748",
+    "url": "http://downloads.wisecleaner.com/soft/WDCFree_11.3.4.854.exe",
+    "hash": "2664c38a5f7552ea9580b0565ab0cbcbdde66447f6a7902f52336da81c4139b4",
     "innosetup": true,
     "pre_install": [
         "try { Get-Command 'Test-Persistence' -ErrorAction 'Stop' | Out-Null } catch { error 'Shovel flavour of scoop is required'; exit 258 }",
