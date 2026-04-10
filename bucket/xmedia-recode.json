@@ -1,18 +1,18 @@
 {
-    "version": "3.6.2.7",
+    "version": "3.6.2.8",
     "description": "An All-In-One video converter and audio converter tool.",
     "homepage": "https://www.xmedia-recode.de/en/",
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://www.xmedia-recode.de/download/XMediaRecode3627_x64.zip",
-            "hash": "7104d9858822c48099c35b8bffb80ca8f0d6f99de627d760a20fb5403b43efaf",
-            "extract_dir": "XMediaRecode3627_x64"
+            "url": "https://www.xmedia-recode.de/download/XMediaRecode3628_x64.zip",
+            "hash": "317db563459c57e30677acc993c4e08762339e933f00ee9ff56c90ec0e8ca722",
+            "extract_dir": "XMediaRecode3628_x64"
         },
         "32bit": {
-            "url": "https://www.xmedia-recode.de/download/XMediaRecode3627.zip",
-            "hash": "c2f83cd5310fa2e2ab4bc2338f0b2904f0644279324ab312213232756b773903",
-            "extract_dir": "XMediaRecode3627"
+            "url": "https://www.xmedia-recode.de/download/XMediaRecode3628.zip",
+            "hash": "bd732d5326580c05eb3c01fe5488297334793d6bdd32ea59b477630d510024e4",
+            "extract_dir": "XMediaRecode3628"
         }
     },
     "pre_install": "if(!(Test-Path \"$persist_dir\\Fav.ini\")) { New-Item \"$dir\\Fav.ini\" -ItemType File | Out-Null }",
