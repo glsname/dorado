@@ -1,10 +1,10 @@
 {
-    "version": "6.0.1.0",
+    "version": "6.1.0.0",
     "description": "MiTeC Network Scanner",
     "homepage": "https://www.mitec.cz/netscan.html",
     "license": "Proprietary",
     "url": "https://www.mitec.cz/Downloads/NetScanner.zip",
-    "hash": "d3995a12d12b42588aafd09d761d446f04d4f0e75979afe01f9f6aa93705df89",
+    "hash": "f8019cc0d7a5daa9245ae0dff3cda3c8161816010332394a0f75297d2d576412",
     "architecture": {
         "64bit": {
             "pre_install": "Get-ChildItem $dir 'NetScanner*exe' | Move-Item -Destination \"$dir\\NetScanner.exe\" -Force"
