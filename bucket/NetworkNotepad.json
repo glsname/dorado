@@ -1,11 +1,11 @@
 {
     "##": "Network Notepad License Agreement.rtf",
-    "version": "6.1.6",
+    "version": "6.1.7",
     "description": "Network Notepad. Interactive network diagrams creator",
     "homepage": "https://www.networknotepad.com/index.shtml",
     "license": "Freeware",
-    "url": "https://www.networknotepad.com/Download/NetworkNotepadFree6.1.6.exe",
-    "hash": "d553179159fd1e59513457110bdd30e160a836815f6b49277938dfe74c605a46",
+    "url": "https://www.networknotepad.com/Download/NetworkNotepadFree6.1.7.exe",
+    "hash": "798e40c8ee375671294b657145aa4ec0dbaeab02395838d91b9cbbcbf3530788",
     "installer": {
         "script": [
             "$file = (Get-Item \"$dir\\NetworkNotepad*.exe\").FullName",
