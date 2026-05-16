@@ -1,13 +1,13 @@
 {
-    "version": "2026.1.1",
+    "version": "2026.1.2",
     "description": "A lightweight and intelligent IDE for front-end development and server-side JavaScript.",
     "homepage": "https://www.jetbrains.com/webstorm/",
     "license": {
         "identifier": "Shareware",
         "url": "https://www.jetbrains.com/legal/agreements/user.html"
     },
-    "url": "https://download.jetbrains.com/webstorm/WebStorm-2026.1.1.exe#/dl.7z",
-    "hash": "b4069019e3c0ee962f1d5fa93ecb66d5f911e9de63f87a410d86c23bb3945048",
+    "url": "https://download.jetbrains.com/webstorm/WebStorm-2026.1.2.exe#/dl.7z",
+    "hash": "ff2a17927caa426e0cc5743319c371ec791639c3a67c18fd8470920d62982b1f",
     "architecture": {
         "64bit": {
             "bin": [
