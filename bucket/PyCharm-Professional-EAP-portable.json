@@ -1,5 +1,5 @@
 {
-    "version": "2026.2-262.4852.46",
+    "version": "2026.2-262.5752.27",
     "description": "PyCharm Professional Early Access Program. Cross-Platform Python IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/pycharm/",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://www.jetbrains.com/legal/agreements/user_eap.html"
     },
     "url": [
-        "https://download.jetbrains.com/python/pycharm-professional-262.4852.46.exe#/cosi.7z",
+        "https://download.jetbrains.com/python/pycharm-professional-262.5752.27.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "18c378a08a876a8a5d126686b4df73349358b4ea3f0c4a1d7e277358db291fc1",
+        "ceaad0b1807701d969e0070b045054fdee2941cae8087bd907eeebb0b8a0a45e",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
