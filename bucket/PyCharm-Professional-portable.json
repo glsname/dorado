@@ -1,5 +1,5 @@
 {
-    "version": "2026.1.1-261.23567.174",
+    "version": "2026.1.2-261.24374.152",
     "description": "PyCharm Professional. Cross-Platform Python IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/pycharm/",
     "license": {
@@ -8,11 +8,11 @@
     },
     "changelog": "https://www.jetbrains.com/pycharm/whatsnew/",
     "url": [
-        "https://download.jetbrains.com/python/pycharm-professional-2026.1.1.exe#/cosi.7z",
+        "https://download.jetbrains.com/python/pycharm-professional-2026.1.2.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "3eaab5f78f2607a5cc7bb728cf2a73d4ed5251a9e14bc3c09f2859351f3af028",
+        "aa65869bad34b61143ea4db69b555fb6d79afc975a80af82e6ba2c5f81dcdd8c",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
