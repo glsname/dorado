@@ -1,5 +1,5 @@
 {
-    "version": "2026.1.1-261.23567.174",
+    "version": "2026.1.2-261.24374.152",
     "description": "PyCharm Professional. Cross-Platform Python IDE for professional developers by JetBrains.",
     "homepage": "https://www.jetbrains.com/pycharm/",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://www.jetbrains.com/store/license.html"
     },
     "changelog": "https://www.jetbrains.com/pycharm/whatsnew/",
-    "url": "https://download.jetbrains.com/python/pycharm-professional-2026.1.1.exe#/cosi.7z",
-    "hash": "3eaab5f78f2607a5cc7bb728cf2a73d4ed5251a9e14bc3c09f2859351f3af028",
+    "url": "https://download.jetbrains.com/python/pycharm-professional-2026.1.2.exe#/cosi.7z",
+    "hash": "aa65869bad34b61143ea4db69b555fb6d79afc975a80af82e6ba2c5f81dcdd8c",
     "extract_to": "IDE",
     "pre_install": "Remove-Item \"$dir\\IDE\\`$*\" -Force -Recurse",
     "architecture": {
