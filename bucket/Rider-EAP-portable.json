@@ -1,5 +1,5 @@
 {
-    "version": "2026.2-EAP2-262.5752.33",
+    "version": "2026.2-EAP3-262.6228.43",
     "description": "Rider (Early Access Program). Fast, powerful and cross-platform .NET IDE by JetBrains.",
     "homepage": "https://www.jetbrains.com/rider/",
     "license": {
@@ -9,11 +9,11 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2-EAP2-262.5752.33.Checked.win.zip",
+                "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2-EAP3-262.6228.43.Checked.win.zip",
                 "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
             ],
             "hash": [
-                "77069e3b6e6b380d468d950370f4ef3399221105e1773fb515ab2154be7d2fca",
+                "4b030cbe8958f45e09f021d8df1b54d3e084c87148da4ec6ec5f496e157a22fe",
                 "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
             ],
             "shortcuts": [
