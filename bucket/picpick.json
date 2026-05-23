@@ -1,5 +1,5 @@
 {
-    "version": "7.4.1",
+    "version": "7.5.0",
     "description": "A full-featured screen capture tool, intuitive image editor, color picker and more",
     "homepage": "https://picpick.app",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://picpick.app/en/download"
     },
     "url": "https://www.picpick.org/releases/latest/picpick_portable.zip",
-    "hash": "e112e3dad52793202f5916cbe620a500d98ec67c8acdb78c9cc83e7569c5b7fc",
+    "hash": "40027837b8b8c43ff9c27dda1b4ab86dfe13f3b0697588f2d7ade239820aaa29",
     "pre_install": "if (!(Test-Path \"$persist_dir\\picpick.ini\")) { Set-Content \"$dir\\picpick.ini\" '[Setting]', 'CheckUpdate=0' -Encoding Ascii }",
     "bin": "picpick.exe",
     "shortcuts": [
