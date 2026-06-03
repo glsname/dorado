@@ -1,5 +1,5 @@
 {
-    "version": ".",
+    "version": "1.2",
     "description": "Sordum's Mouse Settings Changer",
     "homepage": "https://www.sordum.org/13237/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/download/mouse-settings-changer/MouseSC.zip",
-    "hash": "a5a7d5f98455531de32d8f5ad0f051dd42a02e5f9f6441148f657539304aced9",
+    "hash": "a7f18aa6a0f55349423f05a378769634394dc81cc7bbc9d9681a96f030b76a61",
     "extract_dir": "MouseSC",
     "architecture": {
         "64bit": {
