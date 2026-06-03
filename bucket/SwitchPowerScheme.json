@@ -1,5 +1,5 @@
 {
-    "version": ".",
+    "version": "1.3",
     "description": "Sordum's Switch Power Scheme",
     "homepage": "https://www.sordum.org/12818/",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/download/switch-power-scheme/SwitchPowerScheme.zip",
-    "hash": "3ae897787e2cf01fead2633d2713dbee3126fe67b4c6c8b17738becfab2fb2ec",
-    "extract_dir": "SwitchPowerScheme_v.",
+    "hash": "bb72466f66f431adfaed21da139dfa1261921108f6f609015ef06cf4d86061ca",
+    "extract_dir": "SwitchPowerScheme_v1.3",
     "architecture": {
         "64bit": {
             "shortcuts": [
