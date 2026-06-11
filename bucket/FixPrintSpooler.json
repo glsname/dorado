@@ -1,5 +1,5 @@
 {
-    "version": "1.3",
+    "version": ".",
     "description": "Sordum's Fix Print Spooler. Fix casual problems with print spooler service.",
     "homepage": "https://www.sordum.org/9199/",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/small-tools/FixPrintSpooler.zip",
-    "hash": "11d830e7cb39715d4bdfedcd8398a053cbef66e790c4ecd5019b09a8077e0fa4",
-    "extract_dir": "FixPrintSpooler_v1.3",
+    "hash": "caa8e82bd5511e2dec1a80486eb91b4da659db008c995cdb7ac2afeae6cf882f",
+    "extract_dir": "FixPrintSpooler_v.",
     "architecture": {
         "64bit": {
             "bin": [
