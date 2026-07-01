@@ -1,13 +1,13 @@
 {
-    "version": "7.2.0",
+    "version": "7.3.0",
     "description": "Mock Server. HTTP(s) APIs mocking tool",
     "homepage": "http://www.mock-server.com",
     "license": {
         "identifier": "Apache-2.0",
         "url": "https://github.com/mock-server/mockserver/blob/master/LICENSE.md"
     },
-    "url": "https://repo1.maven.org/maven2/org/mock-server/mockserver-netty/7.2.0/mockserver-netty-7.2.0.jar#/mockserver.jar",
-    "hash": "sha1:273c1dd9bacb33c146b179713ee3142727548e6d",
+    "url": "https://repo1.maven.org/maven2/org/mock-server/mockserver-netty/7.3.0/mockserver-netty-7.3.0.jar#/mockserver.jar",
+    "hash": "sha1:d0a422bd4f5ced278e1a803d16e80e0329e8b6a6",
     "bin": "mockserver.jar",
     "checkver": {
         "url": "https://repo1.maven.org/maven2/org/mock-server/mockserver-netty/maven-metadata.xml",
