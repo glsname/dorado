@@ -1,10 +1,10 @@
 {
-    "version": "3.22.11",
+    "version": "3.22.12",
     "description": "SIP softphone for Windows based on PJSIP stack",
     "homepage": "https://www.microsip.org",
     "license": "GPL-2.0-only",
-    "url": "https://www.microsip.org/download/MicroSIP-Lite-3.22.11.zip",
-    "hash": "f583975ed35b6636ed905ebb1cd53f3769cfb6df4fb5a4a842a3852a8e3f46f7",
+    "url": "https://www.microsip.org/download/MicroSIP-Lite-3.22.12.zip",
+    "hash": "a127f2582a1ec781db25f6df7d4d3aac13a02242c0a8fabfa32ce19e77f04e3a",
     "pre_install": "$manifest.persist | ForEach-Object { New-Item \"$dir\\$_\" -ItemType File -ErrorAction SilentlyContinue | Out-Null }",
     "bin": "MicroSIP.exe",
     "shortcuts": [
