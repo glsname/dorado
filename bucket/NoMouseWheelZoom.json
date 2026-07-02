@@ -1,5 +1,5 @@
 {
-    "version": "1.1",
+    "version": "01",
     "description": "Sordum's No Mouse Wheel Zoom. Avoids triggering undesired zooming.",
     "homepage": "https://www.sordum.org/12939/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/download/no-mouse-wheel-zoom/MWNoZoom.zip",
-    "hash": "2e1204cd8790affb59f4ed2e415fa7682a07f9ece52a430e0a15bc951d07c176",
+    "hash": "8d75a5931c21904dc265c7c809dbaf72510cd6dede8cbf677aea9a45baf9097f",
     "extract_dir": "MWNoZoom",
     "architecture": {
         "64bit": {
