@@ -1,5 +1,5 @@
 {
-    "version": "2026.1-261.22158.195",
+    "version": "2026.2-262.8665.185",
     "description": "DataGrip Release Candidate. Cross-Platform IDE for Databases & SQL by JetBrains.",
     "homepage": "https://www.jetbrains.com/datagrip/",
     "license": {
@@ -7,11 +7,11 @@
         "url": "https://www.jetbrains.com/store/license.html"
     },
     "url": [
-        "https://download.jetbrains.com/datagrip/datagrip-261.22158.195.exe#/cosi.7z",
+        "https://download.jetbrains.com/datagrip/datagrip-262.8665.185.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "5d334acf365815b8aa49c88da81a6096c5c40f751b1ddff3ab94ad13c2174dc3",
+        "948d9c0600f26bc3deb50946fb6646df818dda93100f1598fddf5830e6e22053",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
