@@ -1,5 +1,5 @@
 {
-    "version": "1.8",
+    "version": "1.9",
     "description": "Sordum's PowerRun. Execute application with the same privileges as the TrustedInstaller/Nt Authority/system.",
     "homepage": "https://www.sordum.org/9416/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/download/power-run/PowerRun.zip",
-    "hash": "425da0e2414701e59b59cb085f7dc57a3751bd49a446fd3323ff27c604fa2b1e",
+    "hash": "2423e41ee0c3eda756628389449552232dfe23a4bf2e2f36e2a1095dcb9f5dae",
     "extract_dir": "PowerRun",
     "architecture": {
         "64bit": {
