@@ -1,5 +1,5 @@
 {
-    "version": "2026.1.4-261.26222.72",
+    "version": "2026.2-262.8665.270",
     "description": "GoLand. Cross-Platform, Clever IDE to Go by JetBrains.",
     "homepage": "https://www.jetbrains.com/goland/",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://www.jetbrains.com/store/license.html"
     },
     "changelog": "https://www.jetbrains.com/goland/whatsnew/",
-    "url": "https://download.jetbrains.com/go/goland-2026.1.4.exe#/cosi.7z",
-    "hash": "bf425e4f9c9cc673277cbabed7ef0f45daa9f02cf0a82e582f7ff662c1ee412d",
+    "url": "https://download.jetbrains.com/go/goland-2026.2.exe#/cosi.7z",
+    "hash": "22ab9a1594c26894c0e470d0ac6f21177c7174b486cbd81130260e907895ee96",
     "extract_to": "IDE",
     "pre_install": "Remove-Item \"$dir\\IDE\\`$*\" -Force -Recurse",
     "architecture": {
