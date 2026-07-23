@@ -1,5 +1,5 @@
 {
-    "version": "2026.1.4-261.26222.60",
+    "version": "2026.2-262.8665.328",
     "description": "Rider. Fast, powerful and cross-platform .NET IDE by JetBrains.",
     "homepage": "https://www.jetbrains.com/rider/",
     "license": {
@@ -10,11 +10,11 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://download.jetbrains.com/rider/JetBrains.Rider-2026.1.4.exe#/cosi.7z",
+                "https://download.jetbrains.com/rider/JetBrains.Rider-2026.2.exe#/cosi.7z",
                 "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
             ],
             "hash": [
-                "403218ce37b7cb0f1ffbc0106d1fba016e372e9ab6bae6315095a89cd052528a",
+                "bf33546328c25403435cfbd6b4a2084a92939aba2a770ed76b6b4aeb3cd3af2b",
                 "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
             ],
             "bin": [
