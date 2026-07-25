@@ -1,5 +1,5 @@
 {
-    "version": "2.48-26.07.20",
+    "version": "2.48-26.07.24",
     "description": "A utility designed to identify file types from their binary signatures.",
     "homepage": "https://www.mark0.net/soft-trid-e.html",
     "license": "Shareware",
@@ -8,7 +8,7 @@
         "https://mark0.net/download/trid_w32.zip"
     ],
     "hash": [
-        "80146c17013efea1325e7356b93f83a25b4989b0ac580ecb624f3c8efae49f64",
+        "d6c7e3fcad22c42fe5280d6f55f821910550ef415e9d64f7dc9342b8b0585a8a",
         "ea7f82363912f5b3c79217ba8716425ec3f2514887f788dcd5a2821d0b1fc83f"
     ],
     "bin": "trid.exe",
