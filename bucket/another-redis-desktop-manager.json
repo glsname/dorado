@@ -1,12 +1,12 @@
 {
     "homepage": "https://github.com/qishibo/AnotherRedisDesktopManager",
     "description": "A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac.",
-    "version": "1.6.8",
+    "version": "1.7.2",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.8/Another-Redis-Desktop-Manager.1.6.8.exe#/dl.7z",
-            "hash": "sha512:b2ce800613452c4f06e3765368059785c1deca3b82ec594699b61a866dff3f4c80223afb52ce81a51ba0a5767a093605062dc6dbaa692ca78a52a33271df8403",
+            "url": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.2/Another-Redis-Desktop-Manager.1.7.2.exe#/dl.7z",
+            "hash": "sha512:923b054d5b2983259f5b9426a9acbec5c1f6a35d930288485f7400e56cad31930680327b006e92452eb0c21c59a354cbefbf4f0b2d20ef4727e932b203b8ea46",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
