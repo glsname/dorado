@@ -1,12 +1,12 @@
 {
-    "version": "2.9.3",
+    "version": "2.9.4",
     "description": "A tool for keeping Kubernetes clusters in sync with sources of configuration",
     "homepage": "https://toolkit.fluxcd.io",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fluxcd/flux2/releases/download/v2.9.3/flux_2.9.3_windows_amd64.zip",
-            "hash": "3aa07433cdd7d63c8c9df6b9652668443a902a1e2f578c9b44f8354820d01630"
+            "url": "https://github.com/fluxcd/flux2/releases/download/v2.9.4/flux_2.9.4_windows_amd64.zip",
+            "hash": "524a148bdc77d6baa05fb22472e2ecf153f51c198ff299475a7245e4016b06c2"
         }
     },
     "bin": "flux.exe",
