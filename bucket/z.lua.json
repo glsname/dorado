@@ -1,13 +1,13 @@
 {
-    "version": "1.8.24",
+    "version": "1.8.26",
     "description": "cd command replacement",
     "homepage": "https://github.com/skywind3000/z.lua",
     "license": "MIT",
     "notes": "Configure accordingly to 'https://github.com/skywind3000/z.lua#install'",
     "depends": "lua",
-    "url": "https://github.com/skywind3000/z.lua/archive/1.8.24.zip",
-    "hash": "569571445cc837d5da4335aabc32de56b3ccf836cf54dd7ca02fb1a14e1fde6c",
-    "extract_dir": "z.lua-1.8.24",
+    "url": "https://github.com/skywind3000/z.lua/archive/1.8.26.zip",
+    "hash": "c8f9a88657d88ec1c91c7a827ab3463935e3baca308029b72cd2f8d64792169a",
+    "extract_dir": "z.lua-1.8.26",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/skywind3000/z.lua/archive/$version.zip",
