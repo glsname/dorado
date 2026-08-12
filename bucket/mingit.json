@@ -1,5 +1,5 @@
 {
-    "version": "2.55.0.windows.3",
+    "version": "2.55.0.windows.4",
     "description": "Minimal Git for Windows (MinGit) is a reduced sized package designed to support application integration (like integrated development environments, graph visualizers, etc.) where full console support (colorization, pagniation, etc.) is not needed.",
     "homepage": "https://git-for-windows.github.io/",
     "license": "GPL-2.0-only",
@@ -13,12 +13,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.3/MinGit-2.55.0.3-64-bit.zip",
-            "hash": "f48e2d2dc74a24454adc6d8fd0ac25bf9c2386f19cfb06202b9465aaad4f9f05"
+            "url": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.4/MinGit-2.55.0.4-64-bit.zip",
+            "hash": "4e03f94c2ffbf70be337e005cee02661c732dbfc81031a078bda9299b9a7d644"
         },
         "32bit": {
-            "url": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.3/MinGit-2.55.0.3-32-bit.zip",
-            "hash": "352380d06caa45e569a3b3967b6d1d6c605d564c29f37ef059b59e657a522ef4"
+            "url": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.4/MinGit-2.55.0.4-32-bit.zip",
+            "hash": "01bd8fc4cf00df3e278e09a036a003c698b512b68508a1163404ef138ed4ef93"
         }
     },
     "bin": "cmd\\git.exe",
