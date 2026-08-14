@@ -1,12 +1,12 @@
 {
-    "version": "3.256.0",
+    "version": "3.257.0",
     "description": "Create, deploy, and manage infrastructure on any cloud using any language.",
     "homepage": "https://www.pulumi.com",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://get.pulumi.com/releases/sdk/pulumi-v3.256.0-windows-x64.zip",
-            "hash": "7e4e7e6c148e3b9f6cc36c871a07e2806f4a2196cc707b758d850765490041d3"
+            "url": "https://get.pulumi.com/releases/sdk/pulumi-v3.257.0-windows-x64.zip",
+            "hash": "a99c21521eb5ac74849f5ea55f46fdc3e93006633d0d3ae6862a2e83325f7a92"
         }
     },
     "extract_dir": "Pulumi\\bin",
