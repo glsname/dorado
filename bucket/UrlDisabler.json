@@ -1,5 +1,5 @@
 {
-    "version": "1.4",
+    "version": "0",
     "description": "Sordum's URL Disabler",
     "homepage": "https://www.sordum.org/13075/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/download/url-disabler/UrlDisabler.zip",
-    "hash": "41d7891c00ed81bb3f4f7e106264ea2f6427a5b48081023495d29c9c34ca1ed0",
+    "hash": "46a0248c528fe8a2113fe4431b10c544694b9055ec70a742fd4a143c80cb6186",
     "extract_dir": "UrlDisabler",
     "architecture": {
         "64bit": {
