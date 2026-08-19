@@ -1,16 +1,16 @@
 {
     "description": "Thunderbird is a free email application that’s easy to set up and customize",
     "homepage": "https://www.thunderbird.net/zh-CN/",
-    "version": "153.0.3",
+    "version": "154.0",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://download.mozilla.org/?product=thunderbird-153.0.3-SSL&os=win64&lang=zh-CN#/thunderbird-153.0.3.7z",
-            "hash": "a564325c131d994b9e701ce1ab2ace69cc05bc290490a3563e8ca5db613bc88f"
+            "url": "https://download.mozilla.org/?product=thunderbird-154.0-SSL&os=win64&lang=zh-CN#/thunderbird-154.0.7z",
+            "hash": "252e3c10fb00feca0ba22205023a176eb357a41c7d09628011ab4e4568b1e2a8"
         },
         "32bit": {
-            "url": "https://download.mozilla.org/?product=thunderbird-153.0.3-SSL&os=win&lang=zh-CN#/thunderbird-153.0.3.7z",
-            "hash": "e7777e2ab166b9aa45faa3348a660a515ad979f756b6eda2202e9287a4260b32"
+            "url": "https://download.mozilla.org/?product=thunderbird-154.0-SSL&os=win&lang=zh-CN#/thunderbird-154.0.7z",
+            "hash": "f2524b45aa584377f78d4c6fa878daaa301839b7615ddd02bf45858ee2822757"
         }
     },
     "extract_dir": "core",
