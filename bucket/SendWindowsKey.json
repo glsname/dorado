@@ -1,5 +1,5 @@
 {
-    "version": "0",
+    "version": "1.1",
     "description": "Sordum's Send Windows Key. Runs the keyboard key combination which using with the windows key.",
     "homepage": "https://www.sordum.org/12894/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/download/send-windows-key/sWinKey.zip",
-    "hash": "5727131e1588eb89e3aa5f67f765ac2ad7f7c3be471507adebc9714108851c09",
+    "hash": "17672e947e2f98d7a3a5c64a2a769326ab45be4506079499701bead9d6e50780",
     "extract_dir": "sWinKey",
     "architecture": {
         "64bit": {
