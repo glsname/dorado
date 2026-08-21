@@ -1,10 +1,10 @@
 {
-    "version": "6.2.0.2",
+    "version": "6.2.0.3",
     "description": "W10Privacy. Sets of data protection and privacy options",
     "homepage": "https://www.winprivacy.de/english-home",
     "license": "Freeware",
     "changelog": "https://www.w10privacy.de/deutsch-start/versionshistorie",
-    "url": "https://www.winprivacy.de/app/download/12302828636/W10Privacy.zip?t=1786720432#/cosi.zip",
+    "url": "https://www.winprivacy.de/app/download/12302828636/W10Privacy.zip?t=1787212842#/cosi.zip",
     "hash": "d13923f7ec97523ed90cb7332cb5e003395d9f3ccba7167283330e1573d74d5d",
     "installer": {
         "script": [
