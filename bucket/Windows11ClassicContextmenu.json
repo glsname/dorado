@@ -1,5 +1,5 @@
 {
-    "version": "1.2",
+    "version": ".",
     "description": "Sordum's Windows 11 Classic Context Menu",
     "homepage": "https://www.sordum.org/14479",
     "license": {
@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://www.sordum.org/files/download/win11-classic-context-menu/W11ClassicMenu.zip",
-            "hash": "a79d124f10a31cb6a4d4adb50469e13df55149c30fe651ad5d5caea290e6c48a"
+            "hash": "42539931e4e7bbe22cae4ecf2d5aa55af85f6b59cc491bd60fe8c487963d5d6b"
         }
     },
     "extract_dir": "W11ClassicMenu",
