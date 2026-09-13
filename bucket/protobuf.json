@@ -1,16 +1,16 @@
 {
-    "version": "33.0",
+    "version": "36.1",
     "description": "Protocol compiler used to compile .proto files.",
     "homepage": "https://github.com/google/protobuf",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/google/protobuf/releases/download/v33.0/protoc-33.0-win64.zip",
-            "hash": "3742cd49c8b6bd78b6760540367eb0ff62fa70a1032e15dafe131bfaf296986a"
+            "url": "https://github.com/google/protobuf/releases/download/v36.1/protoc-36.1-win64.zip",
+            "hash": "390e515cb456e6a978553bdb57baf087b054885077fd6da7f7ff0160279c07d6"
         },
         "32bit": {
-            "url": "https://github.com/google/protobuf/releases/download/v33.0/protoc-33.0-win32.zip",
-            "hash": "3941cc8aeb0e8f59f2143b65f594088f726bb857550dabae5d0dee3bf1392dd1"
+            "url": "https://github.com/google/protobuf/releases/download/v36.1/protoc-36.1-win32.zip",
+            "hash": "9f1da00ed49ee2eab0520c354c7edbfa69f567a9247cf81a7995fe5db27ceb9e"
         }
     },
     "bin": "bin\\protoc.exe",
