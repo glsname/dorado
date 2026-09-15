@@ -1,5 +1,5 @@
 {
-    "version": "2.1.9.27",
+    "version": "2.1.10.56",
     "description": "GOG Galaxy 2.0. Gaming Client designed for a convenient purchasing, playing and updating games, as well as an online play between gaming platforms.",
     "homepage": "https://www.gog.com/galaxy",
     "license": {
@@ -10,8 +10,8 @@
         "Microsoft Visual C++ Runtime 2015": "extras/vcredist2015"
     },
     "depends": "innounp",
-    "url": "https://cdn.gog.com/open/galaxy/client/2.1.9.27/setup_galaxy_2.1.9.27.exe",
-    "hash": "md5:d8998afd51f43922a142be0fdf1f7289",
+    "url": "https://cdn.gog.com/open/galaxy/client/2.1.10.56/setup_galaxy_2.1.10.56.exe",
+    "hash": "md5:1395712e9c7e6ba31447a5d948e90dbc",
     "installer": {
         "script": [
             "$file = \"$dir\\$fname\"",
