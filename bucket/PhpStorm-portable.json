@@ -1,5 +1,5 @@
 {
-    "version": "2026.2.2-262.10315.130",
+    "version": "2026.2.3-262.10968.76",
     "description": "PhpStorm. Cross-Platform, Lightning-Smart IDE for PHP programming by JetBrains.",
     "homepage": "https://www.jetbrains.com/phpstorm/",
     "license": {
@@ -8,11 +8,11 @@
     },
     "changelog": "https://www.jetbrains.com/phpstorm/whatsnew/",
     "url": [
-        "https://download.jetbrains.com/webide/PhpStorm-2026.2.2.exe#/cosi.7z",
+        "https://download.jetbrains.com/webide/PhpStorm-2026.2.3.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
     "hash": [
-        "ca8785a1294e49d5cadaf3a17bf661b6bcfebf44f6d31bbe44cf99b41f661823",
+        "ce98805875c531ccdaea4918f11859a6dcd42087a69e9a24571f9c41fa508267",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "extract_to": "IDE",
